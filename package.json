@@ -1,0 +1,19 @@
+{
+  "name": "visualize_moria",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mdnyhus/VisualizeMoria.git"
+  },
+  "author": "mdnyhus",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/mdnyhus/VisualizeMoria/issues"
+  },
+  "homepage": "https://github.com/mdnyhus/VisualizeMoria#readme"
+}
