@@ -1,0 +1,2111 @@
+country,ccode,ageBucket,arrival,familyStatus,gender,gpi,hdi,count
+Central African Republic,caf,18-29,2017,S,M,3.213,0.367,2
+Central African Republic,caf,9-17,2017,S,F,3.213,0.367,1
+Central African Republic,caf,9-17,2016,F,M,3.354,0.362,1
+Central African Republic,caf,9-17,2016,F,F,3.354,0.362,1
+Central African Republic,caf,30-49,2017,F,M,3.213,0.367,2
+Central African Republic,caf,30-49,2017,F,F,3.213,0.367,2
+Central African Republic,caf,30-49,2016,S,M,3.354,0.362,1
+Central African Republic,caf,30-49,2016,F,M,3.354,0.362,2
+Uganda,uga,50-69,2018,F,M,2.168,0.516,1
+Uganda,uga,18-29,2018,S,M,2.168,0.516,5
+Uganda,uga,18-29,2018,S,F,2.168,0.516,5
+Uganda,uga,18-29,2018,F,M,2.168,0.516,1
+Uganda,uga,18-29,2019,S,M,2.168,0.516,3
+Uganda,uga,18-29,2019,S,F,2.168,0.516,3
+Uganda,uga,18-29,2015,S,M,2.179,0.505,4
+Uganda,uga,18-29,2015,S,F,2.179,0.505,4
+Uganda,uga,18-29,2015,F,M,2.179,0.505,1
+Uganda,uga,18-29,2015,F,F,2.179,0.505,1
+Uganda,uga,18-29,2017,S,M,2.182,0.516,9
+Uganda,uga,18-29,2017,S,F,2.182,0.516,6
+Uganda,uga,18-29,2017,F,M,2.182,0.516,2
+Uganda,uga,18-29,2017,F,F,2.182,0.516,3
+Uganda,uga,18-29,2016,S,M,2.148,0.508,10
+Uganda,uga,18-29,2016,S,F,2.148,0.508,6
+Uganda,uga,18-29,2016,F,M,2.148,0.508,4
+Uganda,uga,18-29,2016,F,F,2.148,0.508,4
+Uganda,uga,30-49,2018,S,M,2.168,0.516,3
+Uganda,uga,30-49,2018,S,F,2.168,0.516,4
+Uganda,uga,30-49,2018,F,M,2.168,0.516,3
+Uganda,uga,30-49,2018,F,F,2.168,0.516,2
+Uganda,uga,30-49,2019,S,M,2.168,0.516,2
+Uganda,uga,30-49,2019,F,M,2.168,0.516,1
+Uganda,uga,30-49,2015,S,M,2.179,0.505,3
+Uganda,uga,30-49,2015,S,F,2.179,0.505,2
+Uganda,uga,30-49,2015,F,M,2.179,0.505,3
+Uganda,uga,30-49,2015,F,F,2.179,0.505,2
+Uganda,uga,30-49,2017,S,M,2.182,0.516,4
+Uganda,uga,30-49,2017,S,F,2.182,0.516,3
+Uganda,uga,30-49,2017,F,M,2.182,0.516,1
+Uganda,uga,30-49,2016,S,M,2.148,0.508,7
+Uganda,uga,30-49,2016,S,F,2.148,0.508,3
+Uganda,uga,30-49,2016,F,M,2.148,0.508,3
+Uganda,uga,30-49,2016,F,F,2.148,0.508,3
+Uganda,uga,9-17,2018,S,M,2.168,0.516,2
+Uganda,uga,9-17,2018,S,F,2.168,0.516,1
+Uganda,uga,9-17,2018,F,M,2.168,0.516,3
+Uganda,uga,9-17,2018,F,F,2.168,0.516,1
+Uganda,uga,9-17,2019,S,M,2.168,0.516,3
+Uganda,uga,9-17,2019,F,M,2.168,0.516,1
+Uganda,uga,9-17,2015,S,M,2.179,0.505,3
+Uganda,uga,9-17,2015,S,F,2.179,0.505,2
+Uganda,uga,9-17,2015,F,M,2.179,0.505,5
+Uganda,uga,9-17,2017,S,M,2.182,0.516,2
+Uganda,uga,9-17,2017,S,F,2.182,0.516,2
+Uganda,uga,9-17,2017,F,M,2.182,0.516,1
+Uganda,uga,9-17,2017,F,F,2.182,0.516,1
+Uganda,uga,9-17,2016,S,M,2.148,0.508,5
+Uganda,uga,9-17,2016,F,M,2.148,0.508,4
+Uganda,uga,9-17,2016,F,F,2.148,0.508,3
+Uganda,uga,0-8,2018,S,M,2.168,0.516,1
+Uganda,uga,0-8,2018,S,F,2.168,0.516,1
+Uganda,uga,0-8,2018,F,M,2.168,0.516,2
+Uganda,uga,0-8,2019,F,M,2.168,0.516,1
+Uganda,uga,0-8,2015,F,M,2.179,0.505,7
+Uganda,uga,0-8,2015,F,F,2.179,0.505,3
+Uganda,uga,0-8,2017,S,M,2.182,0.516,2
+Uganda,uga,0-8,2017,S,F,2.182,0.516,1
+Uganda,uga,0-8,2016,S,M,2.148,0.508,3
+Uganda,uga,0-8,2016,S,F,2.148,0.508,2
+Uganda,uga,0-8,2016,F,M,2.148,0.508,2
+Uganda,uga,0-8,2016,F,F,2.148,0.508,2
+Turkey,tur,9-17,2018,S,M,2.898,0.791,1
+Turkey,tur,9-17,2018,S,F,2.898,0.791,2
+Turkey,tur,9-17,2018,F,M,2.898,0.791,2
+Turkey,tur,9-17,2019,S,M,2.898,0.791,1
+Turkey,tur,9-17,2019,F,M,2.898,0.791,3
+Turkey,tur,9-17,2015,F,M,2.363,0.783,1
+Turkey,tur,9-17,2017,S,M,2.777,0.791,3
+Turkey,tur,9-17,2017,F,M,2.777,0.791,1
+Turkey,tur,9-17,2016,S,M,2.71,0.787,2
+Turkey,tur,9-17,2016,S,F,2.71,0.787,1
+Turkey,tur,9-17,2016,F,M,2.71,0.787,1
+Turkey,tur,9-17,2016,F,F,2.71,0.787,1
+Turkey,tur,18-29,2018,S,M,2.898,0.791,1
+Turkey,tur,18-29,2019,S,M,2.898,0.791,2
+Turkey,tur,18-29,2019,F,F,2.898,0.791,1
+Turkey,tur,18-29,2015,S,M,2.363,0.783,3
+Turkey,tur,18-29,2015,S,F,2.363,0.783,1
+Turkey,tur,18-29,2015,F,M,2.363,0.783,1
+Turkey,tur,18-29,2015,F,F,2.363,0.783,1
+Turkey,tur,18-29,2017,S,M,2.777,0.791,2
+Turkey,tur,18-29,2017,S,F,2.777,0.791,1
+Turkey,tur,18-29,2017,F,F,2.777,0.791,1
+Turkey,tur,18-29,2016,S,M,2.71,0.787,2
+Turkey,tur,18-29,2016,S,F,2.71,0.787,3
+Turkey,tur,18-29,2016,F,M,2.71,0.787,1
+Turkey,tur,0-8,2018,F,M,2.898,0.791,3
+Turkey,tur,0-8,2018,F,F,2.898,0.791,2
+Turkey,tur,0-8,2019,F,F,2.898,0.791,2
+Turkey,tur,0-8,2015,S,F,2.363,0.783,1
+Turkey,tur,0-8,2015,F,F,2.363,0.783,1
+Turkey,tur,0-8,2017,F,M,2.777,0.791,1
+Turkey,tur,0-8,2017,F,F,2.777,0.791,1
+Turkey,tur,0-8,2016,F,M,2.71,0.787,2
+Turkey,tur,0-8,2016,F,F,2.71,0.787,1
+Turkey,tur,30-49,2018,S,M,2.898,0.791,3
+Turkey,tur,30-49,2018,S,F,2.898,0.791,2
+Turkey,tur,30-49,2018,F,M,2.898,0.791,2
+Turkey,tur,30-49,2018,F,F,2.898,0.791,2
+Turkey,tur,30-49,2019,F,M,2.898,0.791,2
+Turkey,tur,30-49,2019,F,F,2.898,0.791,1
+Turkey,tur,30-49,2015,S,F,2.363,0.783,1
+Turkey,tur,30-49,2015,F,M,2.363,0.783,1
+Turkey,tur,30-49,2015,F,F,2.363,0.783,1
+Turkey,tur,30-49,2017,F,M,2.777,0.791,2
+Turkey,tur,30-49,2017,F,F,2.777,0.791,1
+Turkey,tur,30-49,2016,F,M,2.71,0.787,1
+Turkey,tur,30-49,2016,F,F,2.71,0.787,1
+South Africa,zaf,50-69,2016,F,F,2.316,0.696,1
+South Africa,zaf,18-29,2018,S,M,2.328,0.699,7
+South Africa,zaf,18-29,2018,S,F,2.328,0.699,1
+South Africa,zaf,18-29,2018,F,M,2.328,0.699,4
+South Africa,zaf,18-29,2018,F,F,2.328,0.699,3
+South Africa,zaf,18-29,2019,S,M,2.328,0.699,3
+South Africa,zaf,18-29,2019,S,F,2.328,0.699,1
+South Africa,zaf,18-29,2015,S,M,2.376,0.692,7
+South Africa,zaf,18-29,2015,S,F,2.376,0.692,1
+South Africa,zaf,18-29,2015,F,M,2.376,0.692,1
+South Africa,zaf,18-29,2017,S,M,2.3243,0.699,10
+South Africa,zaf,18-29,2017,S,F,2.3243,0.699,5
+South Africa,zaf,18-29,2017,F,M,2.3243,0.699,2
+South Africa,zaf,18-29,2017,F,F,2.3243,0.699,2
+South Africa,zaf,18-29,2016,S,M,2.316,0.696,5
+South Africa,zaf,18-29,2016,S,F,2.316,0.696,3
+South Africa,zaf,30-49,2018,S,M,2.328,0.699,7
+South Africa,zaf,30-49,2018,S,F,2.328,0.699,5
+South Africa,zaf,30-49,2018,F,F,2.328,0.699,1
+South Africa,zaf,30-49,2019,S,M,2.328,0.699,2
+South Africa,zaf,30-49,2019,S,F,2.328,0.699,1
+South Africa,zaf,30-49,2015,S,M,2.376,0.692,4
+South Africa,zaf,30-49,2015,S,F,2.376,0.692,1
+South Africa,zaf,30-49,2015,F,M,2.376,0.692,4
+South Africa,zaf,30-49,2015,F,F,2.376,0.692,2
+South Africa,zaf,30-49,2017,S,M,2.3243,0.699,5
+South Africa,zaf,30-49,2017,S,F,2.3243,0.699,6
+South Africa,zaf,30-49,2017,F,M,2.3243,0.699,3
+South Africa,zaf,30-49,2017,F,F,2.3243,0.699,2
+South Africa,zaf,30-49,2016,S,M,2.316,0.696,3
+South Africa,zaf,30-49,2016,S,F,2.316,0.696,2
+South Africa,zaf,30-49,2016,F,M,2.316,0.696,5
+South Africa,zaf,30-49,2016,F,F,2.316,0.696,4
+South Africa,zaf,9-17,2018,S,M,2.328,0.699,2
+South Africa,zaf,9-17,2018,F,M,2.328,0.699,2
+South Africa,zaf,9-17,2018,F,F,2.328,0.699,2
+South Africa,zaf,9-17,2019,S,F,2.328,0.699,2
+South Africa,zaf,9-17,2015,S,M,2.376,0.692,3
+South Africa,zaf,9-17,2015,S,F,2.376,0.692,2
+South Africa,zaf,9-17,2015,F,M,2.376,0.692,3
+South Africa,zaf,9-17,2015,F,F,2.376,0.692,1
+South Africa,zaf,9-17,2017,S,M,2.3243,0.699,4
+South Africa,zaf,9-17,2017,S,F,2.3243,0.699,3
+South Africa,zaf,9-17,2017,F,M,2.3243,0.699,9
+South Africa,zaf,9-17,2017,F,F,2.3243,0.699,1
+South Africa,zaf,9-17,2016,S,M,2.316,0.696,3
+South Africa,zaf,9-17,2016,S,F,2.316,0.696,1
+South Africa,zaf,9-17,2016,F,M,2.316,0.696,3
+South Africa,zaf,9-17,2016,F,F,2.316,0.696,2
+South Africa,zaf,0-8,2018,S,M,2.328,0.699,1
+South Africa,zaf,0-8,2018,F,M,2.328,0.699,2
+South Africa,zaf,0-8,2019,S,F,2.328,0.699,1
+South Africa,zaf,0-8,2015,S,M,2.376,0.692,1
+South Africa,zaf,0-8,2015,F,M,2.376,0.692,1
+South Africa,zaf,0-8,2015,F,F,2.376,0.692,3
+South Africa,zaf,0-8,2017,S,M,2.3243,0.699,1
+South Africa,zaf,0-8,2017,S,F,2.3243,0.699,1
+South Africa,zaf,0-8,2017,F,M,2.3243,0.699,3
+South Africa,zaf,0-8,2017,F,F,2.3243,0.699,6
+South Africa,zaf,0-8,2016,S,M,2.316,0.696,1
+South Africa,zaf,0-8,2016,S,F,2.316,0.696,1
+South Africa,zaf,0-8,2016,F,M,2.316,0.696,3
+South Africa,zaf,0-8,2016,F,F,2.316,0.696,1
+Kenya,ken,9-17,2018,F,F,2.354,0.59,1
+Kenya,ken,9-17,2019,F,M,2.354,0.59,1
+Kenya,ken,9-17,2017,S,M,2.336,0.59,1
+Kenya,ken,9-17,2017,F,M,2.336,0.59,1
+Kenya,ken,9-17,2017,F,F,2.336,0.59,1
+Kenya,ken,9-17,2016,S,M,2.379,0.585,1
+Kenya,ken,9-17,2016,S,F,2.379,0.585,1
+Kenya,ken,18-29,2018,S,M,2.354,0.59,2
+Kenya,ken,18-29,2018,F,F,2.354,0.59,1
+Kenya,ken,18-29,2019,F,F,2.354,0.59,1
+Kenya,ken,18-29,2015,S,M,2.342,0.578,1
+Kenya,ken,18-29,2017,S,M,2.336,0.59,4
+Kenya,ken,18-29,2017,S,F,2.336,0.59,1
+Kenya,ken,18-29,2017,F,F,2.336,0.59,1
+Kenya,ken,18-29,2016,S,F,2.379,0.585,2
+Kenya,ken,0-8,2018,F,M,2.354,0.59,1
+Kenya,ken,0-8,2018,F,F,2.354,0.59,1
+Kenya,ken,0-8,2015,S,M,2.342,0.578,1
+Kenya,ken,0-8,2017,S,M,2.336,0.59,1
+Kenya,ken,0-8,2017,S,F,2.336,0.59,1
+Kenya,ken,0-8,2017,F,M,2.336,0.59,2
+Kenya,ken,0-8,2016,S,M,2.379,0.585,1
+Kenya,ken,0-8,2016,S,F,2.379,0.585,1
+Kenya,ken,30-49,2018,S,M,2.354,0.59,1
+Kenya,ken,30-49,2018,F,M,2.354,0.59,2
+Kenya,ken,30-49,2019,S,M,2.354,0.59,1
+Kenya,ken,30-49,2019,F,M,2.354,0.59,1
+Kenya,ken,30-49,2015,F,F,2.342,0.578,1
+Kenya,ken,30-49,2017,S,M,2.336,0.59,1
+Kenya,ken,30-49,2017,F,M,2.336,0.59,3
+Kenya,ken,30-49,2017,F,F,2.336,0.59,2
+Kenya,ken,30-49,2016,S,M,2.379,0.585,3
+Kenya,ken,30-49,2016,S,F,2.379,0.585,2
+Kenya,ken,30-49,2016,F,M,2.379,0.585,1
+Kenya,ken,50-69,2018,F,F,2.354,0.59,1
+Yemen,yem,18-29,2018,S,M,3.305,0.452,29
+Yemen,yem,18-29,2018,S,F,3.305,0.452,14
+Yemen,yem,18-29,2018,F,M,3.305,0.452,7
+Yemen,yem,18-29,2018,F,F,3.305,0.452,7
+Yemen,yem,18-29,2019,S,M,3.305,0.452,16
+Yemen,yem,18-29,2019,S,F,3.305,0.452,10
+Yemen,yem,18-29,2019,F,M,3.305,0.452,5
+Yemen,yem,18-29,2019,F,F,3.305,0.452,5
+Yemen,yem,18-29,2015,S,M,2.751,0.483,25
+Yemen,yem,18-29,2015,S,F,2.751,0.483,13
+Yemen,yem,18-29,2015,F,M,2.751,0.483,11
+Yemen,yem,18-29,2015,F,F,2.751,0.483,9
+Yemen,yem,18-29,2017,S,M,3.412,0.452,34
+Yemen,yem,18-29,2017,S,F,3.412,0.452,14
+Yemen,yem,18-29,2017,F,M,3.412,0.452,9
+Yemen,yem,18-29,2017,F,F,3.412,0.452,8
+Yemen,yem,18-29,2016,S,M,3.399,0.462,39
+Yemen,yem,18-29,2016,S,F,3.399,0.462,24
+Yemen,yem,18-29,2016,F,M,3.399,0.462,13
+Yemen,yem,18-29,2016,F,F,3.399,0.462,11
+Yemen,yem,70+,2018,F,M,3.305,0.452,2
+Yemen,yem,70+,2015,F,M,2.751,0.483,1
+Yemen,yem,70+,2015,F,F,2.751,0.483,1
+Yemen,yem,70+,2017,F,M,3.412,0.452,2
+Yemen,yem,70+,2017,F,F,3.412,0.452,3
+Yemen,yem,70+,2016,F,M,3.399,0.462,1
+Yemen,yem,9-17,2018,S,M,3.305,0.452,8
+Yemen,yem,9-17,2018,S,F,3.305,0.452,10
+Yemen,yem,9-17,2018,F,M,3.305,0.452,23
+Yemen,yem,9-17,2018,F,F,3.305,0.452,22
+Yemen,yem,9-17,2019,S,M,3.305,0.452,4
+Yemen,yem,9-17,2019,S,F,3.305,0.452,2
+Yemen,yem,9-17,2019,F,M,3.305,0.452,8
+Yemen,yem,9-17,2019,F,F,3.305,0.452,4
+Yemen,yem,9-17,2015,S,M,2.751,0.483,8
+Yemen,yem,9-17,2015,S,F,2.751,0.483,3
+Yemen,yem,9-17,2015,F,M,2.751,0.483,18
+Yemen,yem,9-17,2015,F,F,2.751,0.483,8
+Yemen,yem,9-17,2017,S,M,3.412,0.452,10
+Yemen,yem,9-17,2017,S,F,3.412,0.452,12
+Yemen,yem,9-17,2017,F,M,3.412,0.452,20
+Yemen,yem,9-17,2017,F,F,3.412,0.452,9
+Yemen,yem,9-17,2016,S,M,3.399,0.462,24
+Yemen,yem,9-17,2016,S,F,3.399,0.462,6
+Yemen,yem,9-17,2016,F,M,3.399,0.462,23
+Yemen,yem,9-17,2016,F,F,3.399,0.462,10
+Yemen,yem,30-49,2018,S,M,3.305,0.452,24
+Yemen,yem,30-49,2018,S,F,3.305,0.452,6
+Yemen,yem,30-49,2018,F,M,3.305,0.452,20
+Yemen,yem,30-49,2018,F,F,3.305,0.452,20
+Yemen,yem,30-49,2019,S,M,3.305,0.452,12
+Yemen,yem,30-49,2019,S,F,3.305,0.452,5
+Yemen,yem,30-49,2019,F,M,3.305,0.452,14
+Yemen,yem,30-49,2019,F,F,3.305,0.452,10
+Yemen,yem,30-49,2015,S,M,2.751,0.483,7
+Yemen,yem,30-49,2015,S,F,2.751,0.483,9
+Yemen,yem,30-49,2015,F,M,2.751,0.483,15
+Yemen,yem,30-49,2015,F,F,2.751,0.483,13
+Yemen,yem,30-49,2017,S,M,3.412,0.452,25
+Yemen,yem,30-49,2017,S,F,3.412,0.452,16
+Yemen,yem,30-49,2017,F,M,3.412,0.452,24
+Yemen,yem,30-49,2017,F,F,3.412,0.452,18
+Yemen,yem,30-49,2016,S,M,3.399,0.462,30
+Yemen,yem,30-49,2016,S,F,3.399,0.462,18
+Yemen,yem,30-49,2016,F,M,3.399,0.462,25
+Yemen,yem,30-49,2016,F,F,3.399,0.462,19
+Yemen,yem,50-69,2018,S,M,3.305,0.452,1
+Yemen,yem,50-69,2018,S,F,3.305,0.452,1
+Yemen,yem,50-69,2018,F,M,3.305,0.452,2
+Yemen,yem,50-69,2018,F,F,3.305,0.452,2
+Yemen,yem,50-69,2019,S,M,3.305,0.452,1
+Yemen,yem,50-69,2019,F,M,3.305,0.452,2
+Yemen,yem,50-69,2019,F,F,3.305,0.452,3
+Yemen,yem,50-69,2015,F,M,2.751,0.483,3
+Yemen,yem,50-69,2015,F,F,2.751,0.483,3
+Yemen,yem,50-69,2017,F,M,3.412,0.452,7
+Yemen,yem,50-69,2017,F,F,3.412,0.452,6
+Yemen,yem,50-69,2016,S,M,3.399,0.462,1
+Yemen,yem,50-69,2016,F,M,3.399,0.462,1
+Yemen,yem,50-69,2016,F,F,3.399,0.462,2
+Yemen,yem,0-8,2018,S,M,3.305,0.452,3
+Yemen,yem,0-8,2018,S,F,3.305,0.452,1
+Yemen,yem,0-8,2018,F,M,3.305,0.452,23
+Yemen,yem,0-8,2018,F,F,3.305,0.452,14
+Yemen,yem,0-8,2019,S,M,3.305,0.452,1
+Yemen,yem,0-8,2019,F,M,3.305,0.452,12
+Yemen,yem,0-8,2019,F,F,3.305,0.452,7
+Yemen,yem,0-8,2015,S,M,2.751,0.483,5
+Yemen,yem,0-8,2015,F,M,2.751,0.483,12
+Yemen,yem,0-8,2015,F,F,2.751,0.483,5
+Yemen,yem,0-8,2017,S,M,3.412,0.452,2
+Yemen,yem,0-8,2017,S,F,3.412,0.452,4
+Yemen,yem,0-8,2017,F,M,3.412,0.452,16
+Yemen,yem,0-8,2017,F,F,3.412,0.452,9
+Yemen,yem,0-8,2016,S,M,3.399,0.462,5
+Yemen,yem,0-8,2016,S,F,3.399,0.462,4
+Yemen,yem,0-8,2016,F,M,3.399,0.462,28
+Yemen,yem,0-8,2016,F,F,3.399,0.462,12
+Lebanon,lbn,50-69,2017,F,F,2.782,0.757,1
+Lebanon,lbn,50-69,2016,F,M,2.752,0.753,1
+Lebanon,lbn,18-29,2018,S,M,2.778,0.757,5
+Lebanon,lbn,18-29,2018,S,F,2.778,0.757,1
+Lebanon,lbn,18-29,2018,F,F,2.778,0.757,1
+Lebanon,lbn,18-29,2019,S,M,2.778,0.757,2
+Lebanon,lbn,18-29,2019,S,F,2.778,0.757,2
+Lebanon,lbn,18-29,2015,S,M,2.623,0.752,4
+Lebanon,lbn,18-29,2015,S,F,2.623,0.752,1
+Lebanon,lbn,18-29,2015,F,M,2.623,0.752,1
+Lebanon,lbn,18-29,2017,S,M,2.782,0.757,4
+Lebanon,lbn,18-29,2017,S,F,2.782,0.757,2
+Lebanon,lbn,18-29,2016,S,M,2.752,0.753,5
+Lebanon,lbn,18-29,2016,S,F,2.752,0.753,3
+Lebanon,lbn,18-29,2016,F,F,2.752,0.753,1
+Lebanon,lbn,30-49,2018,S,M,2.778,0.757,2
+Lebanon,lbn,30-49,2018,S,F,2.778,0.757,1
+Lebanon,lbn,30-49,2018,F,M,2.778,0.757,2
+Lebanon,lbn,30-49,2018,F,F,2.778,0.757,1
+Lebanon,lbn,30-49,2019,S,F,2.778,0.757,2
+Lebanon,lbn,30-49,2019,F,M,2.778,0.757,2
+Lebanon,lbn,30-49,2019,F,F,2.778,0.757,2
+Lebanon,lbn,30-49,2015,F,M,2.623,0.752,2
+Lebanon,lbn,30-49,2015,F,F,2.623,0.752,2
+Lebanon,lbn,30-49,2017,S,M,2.782,0.757,1
+Lebanon,lbn,30-49,2017,F,M,2.782,0.757,4
+Lebanon,lbn,30-49,2017,F,F,2.782,0.757,3
+Lebanon,lbn,30-49,2016,S,M,2.752,0.753,3
+Lebanon,lbn,30-49,2016,S,F,2.752,0.753,1
+Lebanon,lbn,30-49,2016,F,F,2.752,0.753,1
+Lebanon,lbn,9-17,2018,S,M,2.778,0.757,1
+Lebanon,lbn,9-17,2018,S,F,2.778,0.757,1
+Lebanon,lbn,9-17,2018,F,M,2.778,0.757,1
+Lebanon,lbn,9-17,2019,F,M,2.778,0.757,1
+Lebanon,lbn,9-17,2019,F,F,2.778,0.757,1
+Lebanon,lbn,9-17,2015,S,M,2.623,0.752,2
+Lebanon,lbn,9-17,2015,S,F,2.623,0.752,1
+Lebanon,lbn,9-17,2017,S,M,2.782,0.757,1
+Lebanon,lbn,9-17,2017,S,F,2.782,0.757,1
+Lebanon,lbn,9-17,2017,F,M,2.782,0.757,1
+Lebanon,lbn,9-17,2017,F,F,2.782,0.757,1
+Lebanon,lbn,9-17,2016,S,F,2.752,0.753,4
+Lebanon,lbn,0-8,2018,F,M,2.778,0.757,1
+Lebanon,lbn,0-8,2019,F,M,2.778,0.757,3
+Lebanon,lbn,0-8,2015,S,M,2.623,0.752,1
+Lebanon,lbn,0-8,2015,F,M,2.623,0.752,3
+Lebanon,lbn,0-8,2017,S,F,2.782,0.757,1
+Lebanon,lbn,0-8,2017,F,M,2.782,0.757,3
+Lebanon,lbn,0-8,2017,F,F,2.782,0.757,1
+Lebanon,lbn,0-8,2016,S,M,2.752,0.753,1
+Lebanon,lbn,0-8,2016,S,F,2.752,0.753,1
+Lebanon,lbn,0-8,2016,F,M,2.752,0.753,2
+Tajikistan,tjk,18-29,2018,S,M,2.266,0.65,2
+Tajikistan,tjk,18-29,2018,S,F,2.266,0.65,2
+Tajikistan,tjk,18-29,2019,S,M,2.266,0.65,2
+Tajikistan,tjk,18-29,2019,S,F,2.266,0.65,1
+Tajikistan,tjk,18-29,2015,S,M,2.152,0.645,4
+Tajikistan,tjk,18-29,2015,S,F,2.152,0.645,2
+Tajikistan,tjk,18-29,2015,F,M,2.152,0.645,1
+Tajikistan,tjk,18-29,2015,F,F,2.152,0.645,2
+Tajikistan,tjk,18-29,2017,S,M,2.263,0.65,3
+Tajikistan,tjk,18-29,2017,S,F,2.263,0.65,1
+Tajikistan,tjk,18-29,2017,F,M,2.263,0.65,2
+Tajikistan,tjk,18-29,2017,F,F,2.263,0.65,2
+Tajikistan,tjk,18-29,2016,S,M,2.293,0.647,3
+Tajikistan,tjk,18-29,2016,S,F,2.293,0.647,4
+Tajikistan,tjk,18-29,2016,F,M,2.293,0.647,2
+Tajikistan,tjk,18-29,2016,F,F,2.293,0.647,2
+Tajikistan,tjk,70+,2016,F,M,2.293,0.647,1
+Tajikistan,tjk,9-17,2019,S,F,2.266,0.65,1
+Tajikistan,tjk,9-17,2015,F,M,2.152,0.645,3
+Tajikistan,tjk,9-17,2015,F,F,2.152,0.645,1
+Tajikistan,tjk,9-17,2017,S,M,2.263,0.65,1
+Tajikistan,tjk,9-17,2017,F,M,2.263,0.65,1
+Tajikistan,tjk,9-17,2016,S,M,2.293,0.647,1
+Tajikistan,tjk,9-17,2016,S,F,2.293,0.647,2
+Tajikistan,tjk,9-17,2016,F,M,2.293,0.647,4
+Tajikistan,tjk,9-17,2016,F,F,2.293,0.647,2
+Tajikistan,tjk,30-49,2018,S,M,2.266,0.65,1
+Tajikistan,tjk,30-49,2018,S,F,2.266,0.65,1
+Tajikistan,tjk,30-49,2018,F,M,2.266,0.65,1
+Tajikistan,tjk,30-49,2018,F,F,2.266,0.65,1
+Tajikistan,tjk,30-49,2019,S,M,2.266,0.65,2
+Tajikistan,tjk,30-49,2019,S,F,2.266,0.65,1
+Tajikistan,tjk,30-49,2015,S,M,2.152,0.645,2
+Tajikistan,tjk,30-49,2015,F,M,2.152,0.645,1
+Tajikistan,tjk,30-49,2015,F,F,2.152,0.645,2
+Tajikistan,tjk,30-49,2017,S,M,2.263,0.65,1
+Tajikistan,tjk,30-49,2017,S,F,2.263,0.65,1
+Tajikistan,tjk,30-49,2017,F,M,2.263,0.65,5
+Tajikistan,tjk,30-49,2017,F,F,2.263,0.65,5
+Tajikistan,tjk,30-49,2016,S,M,2.293,0.647,3
+Tajikistan,tjk,30-49,2016,S,F,2.293,0.647,2
+Tajikistan,tjk,30-49,2016,F,M,2.293,0.647,3
+Tajikistan,tjk,30-49,2016,F,F,2.293,0.647,1
+Tajikistan,tjk,50-69,2015,S,M,2.152,0.645,1
+Tajikistan,tjk,50-69,2017,S,M,2.263,0.65,1
+Tajikistan,tjk,0-8,2018,S,F,2.266,0.65,1
+Tajikistan,tjk,0-8,2015,S,M,2.152,0.645,1
+Tajikistan,tjk,0-8,2015,F,F,2.152,0.645,2
+Tajikistan,tjk,0-8,2017,F,M,2.263,0.65,1
+Tajikistan,tjk,0-8,2017,F,F,2.263,0.65,1
+Tajikistan,tjk,0-8,2016,S,M,2.293,0.647,1
+Tajikistan,tjk,0-8,2016,F,M,2.293,0.647,1
+Tajikistan,tjk,0-8,2016,F,F,2.293,0.647,2
+Togo,tgo,18-29,2019,S,M,2.104,0.503,1
+Togo,tgo,18-29,2019,S,F,2.104,0.503,1
+Togo,tgo,18-29,2016,S,M,1.954,0.5,4
+Togo,tgo,30-49,2018,S,M,2.104,0.503,1
+Togo,tgo,30-49,2016,S,M,1.954,0.5,2
+Togo,tgo,30-49,2016,F,M,1.954,0.5,1
+Togo,tgo,30-49,2016,F,F,1.954,0.5,1
+Togo,tgo,9-17,2018,S,M,2.104,0.503,1
+Togo,tgo,9-17,2019,S,M,2.104,0.503,1
+Togo,tgo,9-17,2015,S,M,1.944,0.495,1
+Togo,tgo,9-17,2016,F,M,1.954,0.5,1
+Cameroon,cmr,18-29,2018,S,M,2.484,0.556,9
+Cameroon,cmr,18-29,2018,S,F,2.484,0.556,2
+Cameroon,cmr,18-29,2019,S,M,2.484,0.556,3
+Cameroon,cmr,18-29,2015,S,M,2.349,0.548,10
+Cameroon,cmr,18-29,2015,S,F,2.349,0.548,3
+Cameroon,cmr,18-29,2017,S,M,2.39,0.556,13
+Cameroon,cmr,18-29,2017,S,F,2.39,0.556,4
+Cameroon,cmr,18-29,2017,F,F,2.39,0.556,1
+Cameroon,cmr,18-29,2016,S,M,2.356,0.553,7
+Cameroon,cmr,18-29,2016,S,F,2.356,0.553,6
+Cameroon,cmr,0-8,2018,S,F,2.484,0.556,1
+Cameroon,cmr,0-8,2018,F,M,2.484,0.556,1
+Cameroon,cmr,0-8,2019,F,F,2.484,0.556,1
+Cameroon,cmr,0-8,2016,S,M,2.356,0.553,1
+Cameroon,cmr,0-8,2016,S,F,2.356,0.553,3
+Cameroon,cmr,9-17,2018,S,M,2.484,0.556,3
+Cameroon,cmr,9-17,2018,S,F,2.484,0.556,2
+Cameroon,cmr,9-17,2019,S,M,2.484,0.556,1
+Cameroon,cmr,9-17,2019,S,F,2.484,0.556,1
+Cameroon,cmr,9-17,2019,F,F,2.484,0.556,1
+Cameroon,cmr,9-17,2015,S,M,2.349,0.548,1
+Cameroon,cmr,9-17,2015,S,F,2.349,0.548,3
+Cameroon,cmr,9-17,2017,S,M,2.39,0.556,5
+Cameroon,cmr,9-17,2017,S,F,2.39,0.556,1
+Cameroon,cmr,9-17,2016,S,M,2.356,0.553,6
+Cameroon,cmr,9-17,2016,S,F,2.356,0.553,1
+Cameroon,cmr,9-17,2016,F,M,2.356,0.553,1
+Cameroon,cmr,30-49,2018,S,M,2.484,0.556,2
+Cameroon,cmr,30-49,2018,S,F,2.484,0.556,3
+Cameroon,cmr,30-49,2018,F,M,2.484,0.556,1
+Cameroon,cmr,30-49,2018,F,F,2.484,0.556,2
+Cameroon,cmr,30-49,2019,S,M,2.484,0.556,1
+Cameroon,cmr,30-49,2019,F,M,2.484,0.556,2
+Cameroon,cmr,30-49,2019,F,F,2.484,0.556,1
+Cameroon,cmr,30-49,2015,S,M,2.349,0.548,1
+Cameroon,cmr,30-49,2017,S,M,2.39,0.556,4
+Cameroon,cmr,30-49,2017,S,F,2.39,0.556,5
+Cameroon,cmr,30-49,2017,F,M,2.39,0.556,1
+Cameroon,cmr,30-49,2017,F,F,2.39,0.556,1
+Cameroon,cmr,30-49,2016,S,M,2.356,0.553,6
+Cameroon,cmr,30-49,2016,S,F,2.356,0.553,10
+Cameroon,cmr,30-49,2016,F,M,2.356,0.553,2
+Cameroon,cmr,30-49,2016,F,F,2.356,0.553,2
+Cameroon,cmr,50-69,2018,F,M,2.484,0.556,1
+Cameroon,cmr,50-69,2019,F,F,2.484,0.556,1
+Liberia,lbr,9-17,2018,F,M,1.931,0.435,2
+Liberia,lbr,9-17,2018,F,F,1.931,0.435,2
+Liberia,lbr,9-17,2019,S,M,1.931,0.435,1
+Liberia,lbr,9-17,2019,F,M,1.931,0.435,2
+Liberia,lbr,9-17,2019,F,F,1.931,0.435,2
+Liberia,lbr,9-17,2015,F,M,1.963,0.432,1
+Liberia,lbr,9-17,2017,S,F,2.0231,0.435,1
+Liberia,lbr,9-17,2017,F,M,2.0231,0.435,4
+Liberia,lbr,9-17,2016,S,F,1.998,0.432,1
+Liberia,lbr,18-29,2018,S,M,1.931,0.435,4
+Liberia,lbr,18-29,2018,S,F,1.931,0.435,1
+Liberia,lbr,18-29,2019,S,M,1.931,0.435,1
+Liberia,lbr,18-29,2019,F,M,1.931,0.435,1
+Liberia,lbr,18-29,2015,S,M,1.963,0.432,2
+Liberia,lbr,18-29,2015,S,F,1.963,0.432,1
+Liberia,lbr,18-29,2017,S,M,2.0231,0.435,1
+Liberia,lbr,18-29,2017,S,F,2.0231,0.435,1
+Liberia,lbr,18-29,2016,S,M,1.998,0.432,1
+Liberia,lbr,18-29,2016,F,M,1.998,0.432,1
+Liberia,lbr,18-29,2016,F,F,1.998,0.432,1
+Liberia,lbr,0-8,2018,F,M,1.931,0.435,1
+Liberia,lbr,0-8,2018,F,F,1.931,0.435,2
+Liberia,lbr,0-8,2019,F,M,1.931,0.435,1
+Liberia,lbr,0-8,2015,F,F,1.963,0.432,1
+Liberia,lbr,0-8,2017,S,M,2.0231,0.435,1
+Liberia,lbr,0-8,2016,S,M,1.998,0.432,1
+Liberia,lbr,0-8,2016,S,F,1.998,0.432,1
+Liberia,lbr,30-49,2018,S,M,1.931,0.435,2
+Liberia,lbr,30-49,2018,S,F,1.931,0.435,1
+Liberia,lbr,30-49,2018,F,M,1.931,0.435,1
+Liberia,lbr,30-49,2018,F,F,1.931,0.435,1
+Liberia,lbr,30-49,2019,S,F,1.931,0.435,1
+Liberia,lbr,30-49,2015,S,M,1.963,0.432,1
+Liberia,lbr,30-49,2015,S,F,1.963,0.432,1
+Liberia,lbr,30-49,2015,F,M,1.963,0.432,1
+Liberia,lbr,30-49,2017,S,M,2.0231,0.435,2
+Liberia,lbr,30-49,2017,S,F,2.0231,0.435,2
+Liberia,lbr,30-49,2017,F,M,2.0231,0.435,1
+Liberia,lbr,30-49,2016,S,M,1.998,0.432,2
+Liberia,lbr,30-49,2016,S,F,1.998,0.432,1
+Liberia,lbr,30-49,2016,F,M,1.998,0.432,1
+Liberia,lbr,30-49,2016,F,F,1.998,0.432,1
+Liberia,lbr,50-69,2016,F,M,1.998,0.432,2
+Liberia,lbr,50-69,2016,F,F,1.998,0.432,1
+Mozambique,moz,18-29,2018,S,M,2.056,0.437,3
+Mozambique,moz,18-29,2015,S,M,1.976,0.432,3
+Mozambique,moz,18-29,2015,S,F,1.976,0.432,1
+Mozambique,moz,18-29,2015,F,M,1.976,0.432,1
+Mozambique,moz,18-29,2015,F,F,1.976,0.432,1
+Mozambique,moz,18-29,2017,S,M,2.0131,0.437,1
+Mozambique,moz,18-29,2017,S,F,2.0131,0.437,2
+Mozambique,moz,18-29,2017,F,M,2.0131,0.437,1
+Mozambique,moz,18-29,2017,F,F,2.0131,0.437,1
+Mozambique,moz,18-29,2016,S,M,1.963,0.435,4
+Mozambique,moz,18-29,2016,S,F,1.963,0.435,1
+Mozambique,moz,18-29,2016,F,M,1.963,0.435,2
+Mozambique,moz,18-29,2016,F,F,1.963,0.435,2
+Mozambique,moz,70+,2016,F,F,1.963,0.435,1
+Mozambique,moz,30-49,2018,F,M,2.056,0.437,1
+Mozambique,moz,30-49,2018,F,F,2.056,0.437,1
+Mozambique,moz,30-49,2019,S,M,2.056,0.437,3
+Mozambique,moz,30-49,2019,F,M,2.056,0.437,1
+Mozambique,moz,30-49,2019,F,F,2.056,0.437,1
+Mozambique,moz,30-49,2015,S,M,1.976,0.432,1
+Mozambique,moz,30-49,2015,S,F,1.976,0.432,1
+Mozambique,moz,30-49,2015,F,M,1.976,0.432,1
+Mozambique,moz,30-49,2015,F,F,1.976,0.432,1
+Mozambique,moz,30-49,2017,S,M,2.0131,0.437,3
+Mozambique,moz,30-49,2017,S,F,2.0131,0.437,1
+Mozambique,moz,30-49,2017,F,M,2.0131,0.437,4
+Mozambique,moz,30-49,2017,F,F,2.0131,0.437,4
+Mozambique,moz,30-49,2016,S,M,1.963,0.435,3
+Mozambique,moz,30-49,2016,F,M,1.963,0.435,5
+Mozambique,moz,30-49,2016,F,F,1.963,0.435,3
+Mozambique,moz,9-17,2018,S,M,2.056,0.437,1
+Mozambique,moz,9-17,2018,S,F,2.056,0.437,1
+Mozambique,moz,9-17,2019,S,M,2.056,0.437,2
+Mozambique,moz,9-17,2019,F,M,2.056,0.437,1
+Mozambique,moz,9-17,2015,S,M,1.976,0.432,4
+Mozambique,moz,9-17,2015,S,F,1.976,0.432,2
+Mozambique,moz,9-17,2015,F,M,1.976,0.432,1
+Mozambique,moz,9-17,2017,S,M,2.0131,0.437,2
+Mozambique,moz,9-17,2017,F,M,2.0131,0.437,1
+Mozambique,moz,9-17,2016,S,M,1.963,0.435,2
+Mozambique,moz,9-17,2016,F,M,1.963,0.435,4
+Mozambique,moz,9-17,2016,F,F,1.963,0.435,1
+Mozambique,moz,50-69,2017,S,M,2.0131,0.437,1
+Mozambique,moz,50-69,2017,F,M,2.0131,0.437,1
+Mozambique,moz,50-69,2017,F,F,2.0131,0.437,1
+Mozambique,moz,0-8,2019,S,M,2.056,0.437,1
+Mozambique,moz,0-8,2015,S,M,1.976,0.432,1
+Mozambique,moz,0-8,2015,F,M,1.976,0.432,1
+Mozambique,moz,0-8,2017,S,F,2.0131,0.437,2
+Mozambique,moz,0-8,2017,F,M,2.0131,0.437,3
+Mozambique,moz,0-8,2016,F,M,1.963,0.435,3
+Mozambique,moz,0-8,2016,F,F,1.963,0.435,3
+Cote d'Ivoire,civ,18-29,2018,S,M,2.207,0.492,10
+Cote d'Ivoire,civ,18-29,2018,S,F,2.207,0.492,7
+Cote d'Ivoire,civ,18-29,2018,F,M,2.207,0.492,1
+Cote d'Ivoire,civ,18-29,2018,F,F,2.207,0.492,2
+Cote d'Ivoire,civ,18-29,2019,S,M,2.207,0.492,4
+Cote d'Ivoire,civ,18-29,2019,S,F,2.207,0.492,1
+Cote d'Ivoire,civ,18-29,2019,F,M,2.207,0.492,4
+Cote d'Ivoire,civ,18-29,2019,F,F,2.207,0.492,3
+Cote d'Ivoire,civ,18-29,2015,S,M,2.133,0.478,8
+Cote d'Ivoire,civ,18-29,2015,S,F,2.133,0.478,1
+Cote d'Ivoire,civ,18-29,2015,F,M,2.133,0.478,2
+Cote d'Ivoire,civ,18-29,2015,F,F,2.133,0.478,2
+Cote d'Ivoire,civ,18-29,2017,S,M,2.307,0.492,10
+Cote d'Ivoire,civ,18-29,2017,S,F,2.307,0.492,6
+Cote d'Ivoire,civ,18-29,2017,F,M,2.307,0.492,1
+Cote d'Ivoire,civ,18-29,2017,F,F,2.307,0.492,1
+Cote d'Ivoire,civ,18-29,2016,S,M,2.279,0.486,9
+Cote d'Ivoire,civ,18-29,2016,S,F,2.279,0.486,8
+Cote d'Ivoire,civ,18-29,2016,F,M,2.279,0.486,5
+Cote d'Ivoire,civ,18-29,2016,F,F,2.279,0.486,6
+Cote d'Ivoire,civ,30-49,2018,S,M,2.207,0.492,9
+Cote d'Ivoire,civ,30-49,2018,S,F,2.207,0.492,2
+Cote d'Ivoire,civ,30-49,2018,F,M,2.207,0.492,5
+Cote d'Ivoire,civ,30-49,2018,F,F,2.207,0.492,6
+Cote d'Ivoire,civ,30-49,2019,S,M,2.207,0.492,7
+Cote d'Ivoire,civ,30-49,2019,S,F,2.207,0.492,2
+Cote d'Ivoire,civ,30-49,2019,F,M,2.207,0.492,1
+Cote d'Ivoire,civ,30-49,2019,F,F,2.207,0.492,1
+Cote d'Ivoire,civ,30-49,2015,S,M,2.133,0.478,5
+Cote d'Ivoire,civ,30-49,2015,F,M,2.133,0.478,3
+Cote d'Ivoire,civ,30-49,2015,F,F,2.133,0.478,2
+Cote d'Ivoire,civ,30-49,2017,S,M,2.307,0.492,6
+Cote d'Ivoire,civ,30-49,2017,S,F,2.307,0.492,3
+Cote d'Ivoire,civ,30-49,2017,F,M,2.307,0.492,10
+Cote d'Ivoire,civ,30-49,2017,F,F,2.307,0.492,8
+Cote d'Ivoire,civ,30-49,2016,S,M,2.279,0.486,9
+Cote d'Ivoire,civ,30-49,2016,S,F,2.279,0.486,8
+Cote d'Ivoire,civ,30-49,2016,F,M,2.279,0.486,11
+Cote d'Ivoire,civ,30-49,2016,F,F,2.279,0.486,6
+Cote d'Ivoire,civ,0-8,2018,S,M,2.207,0.492,1
+Cote d'Ivoire,civ,0-8,2018,S,F,2.207,0.492,1
+Cote d'Ivoire,civ,0-8,2018,F,M,2.207,0.492,5
+Cote d'Ivoire,civ,0-8,2018,F,F,2.207,0.492,2
+Cote d'Ivoire,civ,0-8,2019,F,M,2.207,0.492,4
+Cote d'Ivoire,civ,0-8,2019,F,F,2.207,0.492,1
+Cote d'Ivoire,civ,0-8,2015,S,M,2.133,0.478,1
+Cote d'Ivoire,civ,0-8,2015,S,F,2.133,0.478,2
+Cote d'Ivoire,civ,0-8,2015,F,M,2.133,0.478,2
+Cote d'Ivoire,civ,0-8,2015,F,F,2.133,0.478,3
+Cote d'Ivoire,civ,0-8,2017,S,M,2.307,0.492,3
+Cote d'Ivoire,civ,0-8,2017,S,F,2.307,0.492,2
+Cote d'Ivoire,civ,0-8,2017,F,M,2.307,0.492,5
+Cote d'Ivoire,civ,0-8,2017,F,F,2.307,0.492,7
+Cote d'Ivoire,civ,0-8,2016,S,M,2.279,0.486,3
+Cote d'Ivoire,civ,0-8,2016,F,M,2.279,0.486,6
+Cote d'Ivoire,civ,0-8,2016,F,F,2.279,0.486,5
+Cote d'Ivoire,civ,9-17,2018,S,M,2.207,0.492,6
+Cote d'Ivoire,civ,9-17,2018,S,F,2.207,0.492,1
+Cote d'Ivoire,civ,9-17,2018,F,M,2.207,0.492,2
+Cote d'Ivoire,civ,9-17,2018,F,F,2.207,0.492,1
+Cote d'Ivoire,civ,9-17,2019,S,M,2.207,0.492,2
+Cote d'Ivoire,civ,9-17,2019,S,F,2.207,0.492,2
+Cote d'Ivoire,civ,9-17,2019,F,M,2.207,0.492,4
+Cote d'Ivoire,civ,9-17,2019,F,F,2.207,0.492,1
+Cote d'Ivoire,civ,9-17,2015,S,M,2.133,0.478,3
+Cote d'Ivoire,civ,9-17,2015,S,F,2.133,0.478,4
+Cote d'Ivoire,civ,9-17,2015,F,M,2.133,0.478,2
+Cote d'Ivoire,civ,9-17,2015,F,F,2.133,0.478,3
+Cote d'Ivoire,civ,9-17,2017,S,M,2.307,0.492,8
+Cote d'Ivoire,civ,9-17,2017,S,F,2.307,0.492,5
+Cote d'Ivoire,civ,9-17,2017,F,M,2.307,0.492,3
+Cote d'Ivoire,civ,9-17,2017,F,F,2.307,0.492,3
+Cote d'Ivoire,civ,9-17,2016,S,M,2.279,0.486,3
+Cote d'Ivoire,civ,9-17,2016,S,F,2.279,0.486,6
+Cote d'Ivoire,civ,9-17,2016,F,M,2.279,0.486,9
+Cote d'Ivoire,civ,9-17,2016,F,F,2.279,0.486,2
+Cote d'Ivoire,civ,50-69,2018,S,M,2.207,0.492,1
+Cote d'Ivoire,civ,50-69,2018,F,M,2.207,0.492,2
+Cote d'Ivoire,civ,50-69,2017,S,M,2.307,0.492,1
+Cote d'Ivoire,civ,50-69,2017,F,M,2.307,0.492,1
+Cote d'Ivoire,civ,50-69,2017,F,F,2.307,0.492,2
+Algeria,dza,50-69,2019,F,F,2.182,0.754,1
+Algeria,dza,50-69,2017,F,M,2.201,0.754,1
+Algeria,dza,50-69,2016,S,M,2.213,0.753,1
+Algeria,dza,50-69,2016,F,M,2.213,0.753,2
+Algeria,dza,50-69,2016,F,F,2.213,0.753,2
+Algeria,dza,18-29,2018,S,M,2.182,0.754,16
+Algeria,dza,18-29,2018,S,F,2.182,0.754,9
+Algeria,dza,18-29,2018,F,M,2.182,0.754,6
+Algeria,dza,18-29,2018,F,F,2.182,0.754,4
+Algeria,dza,18-29,2019,S,M,2.182,0.754,9
+Algeria,dza,18-29,2019,S,F,2.182,0.754,3
+Algeria,dza,18-29,2019,F,M,2.182,0.754,3
+Algeria,dza,18-29,2019,F,F,2.182,0.754,4
+Algeria,dza,18-29,2015,S,M,2.131,0.749,10
+Algeria,dza,18-29,2015,S,F,2.131,0.749,10
+Algeria,dza,18-29,2015,F,M,2.131,0.749,2
+Algeria,dza,18-29,2015,F,F,2.131,0.749,3
+Algeria,dza,18-29,2017,S,M,2.201,0.754,21
+Algeria,dza,18-29,2017,S,F,2.201,0.754,7
+Algeria,dza,18-29,2017,F,M,2.201,0.754,8
+Algeria,dza,18-29,2017,F,F,2.201,0.754,5
+Algeria,dza,18-29,2016,S,M,2.213,0.753,22
+Algeria,dza,18-29,2016,S,F,2.213,0.753,11
+Algeria,dza,18-29,2016,F,M,2.213,0.753,3
+Algeria,dza,18-29,2016,F,F,2.213,0.753,4
+Algeria,dza,9-17,2018,S,M,2.182,0.754,5
+Algeria,dza,9-17,2018,S,F,2.182,0.754,2
+Algeria,dza,9-17,2018,F,M,2.182,0.754,10
+Algeria,dza,9-17,2018,F,F,2.182,0.754,7
+Algeria,dza,9-17,2019,S,M,2.182,0.754,1
+Algeria,dza,9-17,2019,S,F,2.182,0.754,4
+Algeria,dza,9-17,2019,F,M,2.182,0.754,4
+Algeria,dza,9-17,2019,F,F,2.182,0.754,2
+Algeria,dza,9-17,2015,S,M,2.131,0.749,4
+Algeria,dza,9-17,2015,S,F,2.131,0.749,2
+Algeria,dza,9-17,2015,F,M,2.131,0.749,7
+Algeria,dza,9-17,2017,S,M,2.201,0.754,6
+Algeria,dza,9-17,2017,S,F,2.201,0.754,3
+Algeria,dza,9-17,2017,F,M,2.201,0.754,6
+Algeria,dza,9-17,2017,F,F,2.201,0.754,10
+Algeria,dza,9-17,2016,S,M,2.213,0.753,13
+Algeria,dza,9-17,2016,S,F,2.213,0.753,3
+Algeria,dza,9-17,2016,F,M,2.213,0.753,14
+Algeria,dza,9-17,2016,F,F,2.213,0.753,2
+Algeria,dza,30-49,2018,S,M,2.182,0.754,10
+Algeria,dza,30-49,2018,S,F,2.182,0.754,10
+Algeria,dza,30-49,2018,F,M,2.182,0.754,6
+Algeria,dza,30-49,2018,F,F,2.182,0.754,5
+Algeria,dza,30-49,2019,S,M,2.182,0.754,3
+Algeria,dza,30-49,2019,S,F,2.182,0.754,2
+Algeria,dza,30-49,2019,F,M,2.182,0.754,3
+Algeria,dza,30-49,2019,F,F,2.182,0.754,2
+Algeria,dza,30-49,2015,S,M,2.131,0.749,13
+Algeria,dza,30-49,2015,S,F,2.131,0.749,2
+Algeria,dza,30-49,2015,F,M,2.131,0.749,7
+Algeria,dza,30-49,2015,F,F,2.131,0.749,3
+Algeria,dza,30-49,2017,S,M,2.201,0.754,10
+Algeria,dza,30-49,2017,S,F,2.201,0.754,8
+Algeria,dza,30-49,2017,F,M,2.201,0.754,14
+Algeria,dza,30-49,2017,F,F,2.201,0.754,10
+Algeria,dza,30-49,2016,S,M,2.213,0.753,10
+Algeria,dza,30-49,2016,S,F,2.213,0.753,8
+Algeria,dza,30-49,2016,F,M,2.213,0.753,13
+Algeria,dza,30-49,2016,F,F,2.213,0.753,11
+Algeria,dza,0-8,2018,S,F,2.182,0.754,1
+Algeria,dza,0-8,2018,F,M,2.182,0.754,8
+Algeria,dza,0-8,2018,F,F,2.182,0.754,3
+Algeria,dza,0-8,2019,S,M,2.182,0.754,1
+Algeria,dza,0-8,2019,F,M,2.182,0.754,5
+Algeria,dza,0-8,2015,S,F,2.131,0.749,1
+Algeria,dza,0-8,2015,F,M,2.131,0.749,8
+Algeria,dza,0-8,2015,F,F,2.131,0.749,2
+Algeria,dza,0-8,2017,S,M,2.201,0.754,2
+Algeria,dza,0-8,2017,S,F,2.201,0.754,2
+Algeria,dza,0-8,2017,F,M,2.201,0.754,10
+Algeria,dza,0-8,2017,F,F,2.201,0.754,12
+Algeria,dza,0-8,2016,S,M,2.213,0.753,2
+Algeria,dza,0-8,2016,S,F,2.213,0.753,1
+Algeria,dza,0-8,2016,F,M,2.213,0.753,4
+Algeria,dza,0-8,2016,F,F,2.213,0.753,3
+Sierra Leone,sle,18-29,2018,S,M,1.74,0.419,5
+Sierra Leone,sle,18-29,2018,S,F,1.74,0.419,4
+Sierra Leone,sle,18-29,2018,F,M,1.74,0.419,1
+Sierra Leone,sle,18-29,2019,S,M,1.74,0.419,5
+Sierra Leone,sle,18-29,2019,S,F,1.74,0.419,3
+Sierra Leone,sle,18-29,2019,F,M,1.74,0.419,1
+Sierra Leone,sle,18-29,2019,F,F,1.74,0.419,1
+Sierra Leone,sle,18-29,2015,S,M,1.864,0.413,7
+Sierra Leone,sle,18-29,2015,S,F,1.864,0.413,2
+Sierra Leone,sle,18-29,2017,S,M,1.76,0.419,8
+Sierra Leone,sle,18-29,2017,S,F,1.76,0.419,2
+Sierra Leone,sle,18-29,2016,S,M,1.805,0.413,16
+Sierra Leone,sle,18-29,2016,S,F,1.805,0.413,6
+Sierra Leone,sle,18-29,2016,F,M,1.805,0.413,2
+Sierra Leone,sle,18-29,2016,F,F,1.805,0.413,2
+Sierra Leone,sle,70+,2018,F,M,1.74,0.419,1
+Sierra Leone,sle,70+,2018,F,F,1.74,0.419,1
+Sierra Leone,sle,70+,2016,F,M,1.805,0.413,1
+Sierra Leone,sle,70+,2016,F,F,1.805,0.413,2
+Sierra Leone,sle,0-8,2018,F,F,1.74,0.419,1
+Sierra Leone,sle,0-8,2015,S,M,1.864,0.413,2
+Sierra Leone,sle,0-8,2015,F,F,1.864,0.413,1
+Sierra Leone,sle,0-8,2017,S,M,1.76,0.419,1
+Sierra Leone,sle,0-8,2016,S,M,1.805,0.413,2
+Sierra Leone,sle,0-8,2016,S,F,1.805,0.413,1
+Sierra Leone,sle,0-8,2016,F,F,1.805,0.413,1
+Sierra Leone,sle,30-49,2018,S,M,1.74,0.419,4
+Sierra Leone,sle,30-49,2019,S,F,1.74,0.419,3
+Sierra Leone,sle,30-49,2015,S,M,1.864,0.413,1
+Sierra Leone,sle,30-49,2015,S,F,1.864,0.413,2
+Sierra Leone,sle,30-49,2015,F,M,1.864,0.413,3
+Sierra Leone,sle,30-49,2015,F,F,1.864,0.413,1
+Sierra Leone,sle,30-49,2017,S,M,1.76,0.419,8
+Sierra Leone,sle,30-49,2017,S,F,1.76,0.419,1
+Sierra Leone,sle,30-49,2017,F,M,1.76,0.419,1
+Sierra Leone,sle,30-49,2017,F,F,1.76,0.419,1
+Sierra Leone,sle,30-49,2016,S,M,1.805,0.413,3
+Sierra Leone,sle,30-49,2016,S,F,1.805,0.413,2
+Sierra Leone,sle,30-49,2016,F,M,1.805,0.413,2
+Sierra Leone,sle,30-49,2016,F,F,1.805,0.413,3
+Sierra Leone,sle,50-69,2018,S,M,1.74,0.419,1
+Sierra Leone,sle,9-17,2018,S,M,1.74,0.419,2
+Sierra Leone,sle,9-17,2018,S,F,1.74,0.419,2
+Sierra Leone,sle,9-17,2018,F,F,1.74,0.419,1
+Sierra Leone,sle,9-17,2019,S,M,1.74,0.419,1
+Sierra Leone,sle,9-17,2015,S,M,1.864,0.413,2
+Sierra Leone,sle,9-17,2015,S,F,1.864,0.413,1
+Sierra Leone,sle,9-17,2015,F,M,1.864,0.413,3
+Sierra Leone,sle,9-17,2017,S,M,1.76,0.419,4
+Sierra Leone,sle,9-17,2017,S,F,1.76,0.419,4
+Sierra Leone,sle,9-17,2016,S,M,1.805,0.413,5
+Sierra Leone,sle,9-17,2016,S,F,1.805,0.413,4
+Libya,lby,18-29,2018,S,M,3.262,0.706,14
+Libya,lby,18-29,2018,S,F,3.262,0.706,9
+Libya,lby,18-29,2018,F,M,3.262,0.706,4
+Libya,lby,18-29,2018,F,F,3.262,0.706,4
+Libya,lby,18-29,2019,S,M,3.262,0.706,8
+Libya,lby,18-29,2019,S,F,3.262,0.706,2
+Libya,lby,18-29,2019,F,M,3.262,0.706,2
+Libya,lby,18-29,2019,F,F,3.262,0.706,1
+Libya,lby,18-29,2015,S,M,2.819,0.694,5
+Libya,lby,18-29,2015,S,F,2.819,0.694,6
+Libya,lby,18-29,2015,F,M,2.819,0.694,3
+Libya,lby,18-29,2015,F,F,2.819,0.694,3
+Libya,lby,18-29,2017,S,M,3.328,0.706,16
+Libya,lby,18-29,2017,S,F,3.328,0.706,8
+Libya,lby,18-29,2017,F,M,3.328,0.706,4
+Libya,lby,18-29,2017,F,F,3.328,0.706,6
+Libya,lby,18-29,2016,S,M,3.2,0.693,17
+Libya,lby,18-29,2016,S,F,3.2,0.693,3
+Libya,lby,18-29,2016,F,M,3.2,0.693,7
+Libya,lby,18-29,2016,F,F,3.2,0.693,4
+Libya,lby,30-49,2018,S,M,3.262,0.706,12
+Libya,lby,30-49,2018,S,F,3.262,0.706,5
+Libya,lby,30-49,2018,F,M,3.262,0.706,4
+Libya,lby,30-49,2018,F,F,3.262,0.706,4
+Libya,lby,30-49,2019,S,M,3.262,0.706,3
+Libya,lby,30-49,2019,S,F,3.262,0.706,1
+Libya,lby,30-49,2019,F,M,3.262,0.706,6
+Libya,lby,30-49,2019,F,F,3.262,0.706,6
+Libya,lby,30-49,2015,S,M,2.819,0.694,5
+Libya,lby,30-49,2015,S,F,2.819,0.694,2
+Libya,lby,30-49,2015,F,M,2.819,0.694,4
+Libya,lby,30-49,2015,F,F,2.819,0.694,4
+Libya,lby,30-49,2017,S,M,3.328,0.706,16
+Libya,lby,30-49,2017,S,F,3.328,0.706,2
+Libya,lby,30-49,2017,F,M,3.328,0.706,12
+Libya,lby,30-49,2017,F,F,3.328,0.706,9
+Libya,lby,30-49,2016,S,M,3.2,0.693,14
+Libya,lby,30-49,2016,S,F,3.2,0.693,6
+Libya,lby,30-49,2016,F,M,3.2,0.693,9
+Libya,lby,30-49,2016,F,F,3.2,0.693,9
+Libya,lby,0-8,2018,F,M,3.262,0.706,5
+Libya,lby,0-8,2018,F,F,3.262,0.706,5
+Libya,lby,0-8,2019,F,M,3.262,0.706,5
+Libya,lby,0-8,2015,S,F,2.819,0.694,1
+Libya,lby,0-8,2015,F,M,2.819,0.694,8
+Libya,lby,0-8,2015,F,F,2.819,0.694,3
+Libya,lby,0-8,2017,S,M,3.328,0.706,2
+Libya,lby,0-8,2017,F,M,3.328,0.706,9
+Libya,lby,0-8,2017,F,F,3.328,0.706,6
+Libya,lby,0-8,2016,S,F,3.2,0.693,2
+Libya,lby,0-8,2016,F,M,3.2,0.693,4
+Libya,lby,0-8,2016,F,F,3.2,0.693,2
+Libya,lby,9-17,2018,S,M,3.262,0.706,4
+Libya,lby,9-17,2018,S,F,3.262,0.706,4
+Libya,lby,9-17,2018,F,M,3.262,0.706,4
+Libya,lby,9-17,2018,F,F,3.262,0.706,5
+Libya,lby,9-17,2019,S,M,3.262,0.706,3
+Libya,lby,9-17,2019,S,F,3.262,0.706,2
+Libya,lby,9-17,2019,F,M,3.262,0.706,5
+Libya,lby,9-17,2019,F,F,3.262,0.706,4
+Libya,lby,9-17,2015,S,M,2.819,0.694,2
+Libya,lby,9-17,2015,S,F,2.819,0.694,2
+Libya,lby,9-17,2015,F,M,2.819,0.694,9
+Libya,lby,9-17,2015,F,F,2.819,0.694,1
+Libya,lby,9-17,2017,S,M,3.328,0.706,5
+Libya,lby,9-17,2017,S,F,3.328,0.706,5
+Libya,lby,9-17,2017,F,M,3.328,0.706,5
+Libya,lby,9-17,2017,F,F,3.328,0.706,6
+Libya,lby,9-17,2016,S,M,3.2,0.693,7
+Libya,lby,9-17,2016,S,F,3.2,0.693,4
+Libya,lby,9-17,2016,F,M,3.2,0.693,10
+Libya,lby,9-17,2016,F,F,3.2,0.693,6
+Libya,lby,50-69,2018,F,M,3.262,0.706,1
+Libya,lby,50-69,2018,F,F,3.262,0.706,1
+Libya,lby,50-69,2017,F,M,3.328,0.706,1
+Libya,lby,50-69,2017,F,F,3.328,0.706,1
+Lesotho,lso,18-29,2018,S,M,2.144,0.52,2
+Lesotho,lso,18-29,2018,F,M,2.144,0.52,1
+Lesotho,lso,18-29,2018,F,F,2.144,0.52,1
+Lesotho,lso,18-29,2019,S,M,2.144,0.52,1
+Lesotho,lso,18-29,2019,F,F,2.144,0.52,1
+Lesotho,lso,18-29,2015,S,M,1.891,0.511,1
+Lesotho,lso,18-29,2017,S,M,2.06628,0.52,1
+Lesotho,lso,18-29,2017,S,F,2.06628,0.52,2
+Lesotho,lso,18-29,2016,S,M,1.941,0.516,3
+Lesotho,lso,30-49,2019,S,M,2.144,0.52,1
+Lesotho,lso,30-49,2019,F,M,2.144,0.52,3
+Lesotho,lso,30-49,2019,F,F,2.144,0.52,2
+Lesotho,lso,30-49,2015,S,F,1.891,0.511,2
+Lesotho,lso,30-49,2017,S,F,2.06628,0.52,1
+Lesotho,lso,30-49,2016,S,M,1.941,0.516,3
+Lesotho,lso,30-49,2016,S,F,1.941,0.516,2
+Lesotho,lso,30-49,2016,F,M,1.941,0.516,2
+Lesotho,lso,30-49,2016,F,F,1.941,0.516,2
+Lesotho,lso,50-69,2017,F,F,2.06628,0.52,1
+Lesotho,lso,9-17,2018,S,M,2.144,0.52,1
+Lesotho,lso,9-17,2018,F,M,2.144,0.52,1
+Lesotho,lso,9-17,2018,F,F,2.144,0.52,1
+Lesotho,lso,9-17,2019,F,F,2.144,0.52,1
+Lesotho,lso,9-17,2017,S,M,2.06628,0.52,2
+Lesotho,lso,9-17,2017,F,M,2.06628,0.52,1
+Lesotho,lso,9-17,2017,F,F,2.06628,0.52,2
+Lesotho,lso,9-17,2016,S,M,1.941,0.516,2
+Lesotho,lso,0-8,2018,F,M,2.144,0.52,1
+Lesotho,lso,0-8,2019,F,F,2.144,0.52,1
+Namibia,nam,18-29,2018,S,M,1.806,0.647,12
+Namibia,nam,18-29,2018,S,F,1.806,0.647,5
+Namibia,nam,18-29,2018,F,M,1.806,0.647,5
+Namibia,nam,18-29,2018,F,F,1.806,0.647,3
+Namibia,nam,18-29,2019,S,M,1.806,0.647,8
+Namibia,nam,18-29,2019,S,F,1.806,0.647,1
+Namibia,nam,18-29,2019,F,M,1.806,0.647,1
+Namibia,nam,18-29,2015,S,M,1.784,0.642,9
+Namibia,nam,18-29,2015,S,F,1.784,0.642,4
+Namibia,nam,18-29,2015,F,M,1.784,0.642,1
+Namibia,nam,18-29,2015,F,F,1.784,0.642,1
+Namibia,nam,18-29,2017,S,M,1.838,0.647,12
+Namibia,nam,18-29,2017,S,F,1.838,0.647,6
+Namibia,nam,18-29,2017,F,M,1.838,0.647,3
+Namibia,nam,18-29,2017,F,F,1.838,0.647,3
+Namibia,nam,18-29,2016,S,M,1.873,0.645,19
+Namibia,nam,18-29,2016,S,F,1.873,0.645,3
+Namibia,nam,18-29,2016,F,M,1.873,0.645,1
+Namibia,nam,70+,2017,F,M,1.838,0.647,3
+Namibia,nam,70+,2017,F,F,1.838,0.647,2
+Namibia,nam,0-8,2018,S,M,1.806,0.647,1
+Namibia,nam,0-8,2018,F,M,1.806,0.647,3
+Namibia,nam,0-8,2019,F,M,1.806,0.647,5
+Namibia,nam,0-8,2019,F,F,1.806,0.647,1
+Namibia,nam,0-8,2015,S,M,1.784,0.642,1
+Namibia,nam,0-8,2015,F,M,1.784,0.642,1
+Namibia,nam,0-8,2017,S,F,1.838,0.647,1
+Namibia,nam,0-8,2017,F,M,1.838,0.647,6
+Namibia,nam,0-8,2017,F,F,1.838,0.647,4
+Namibia,nam,0-8,2016,S,F,1.873,0.645,2
+Namibia,nam,0-8,2016,F,M,1.873,0.645,8
+Namibia,nam,0-8,2016,F,F,1.873,0.645,4
+Namibia,nam,9-17,2018,S,M,1.806,0.647,5
+Namibia,nam,9-17,2018,S,F,1.806,0.647,4
+Namibia,nam,9-17,2018,F,M,1.806,0.647,2
+Namibia,nam,9-17,2018,F,F,1.806,0.647,2
+Namibia,nam,9-17,2019,F,M,1.806,0.647,3
+Namibia,nam,9-17,2019,F,F,1.806,0.647,4
+Namibia,nam,9-17,2015,S,M,1.784,0.642,1
+Namibia,nam,9-17,2015,S,F,1.784,0.642,1
+Namibia,nam,9-17,2015,F,M,1.784,0.642,2
+Namibia,nam,9-17,2017,S,M,1.838,0.647,3
+Namibia,nam,9-17,2017,S,F,1.838,0.647,3
+Namibia,nam,9-17,2017,F,M,1.838,0.647,2
+Namibia,nam,9-17,2017,F,F,1.838,0.647,3
+Namibia,nam,9-17,2016,S,M,1.873,0.645,9
+Namibia,nam,9-17,2016,S,F,1.873,0.645,4
+Namibia,nam,9-17,2016,F,M,1.873,0.645,9
+Namibia,nam,9-17,2016,F,F,1.873,0.645,4
+Namibia,nam,30-49,2018,S,M,1.806,0.647,8
+Namibia,nam,30-49,2018,S,F,1.806,0.647,3
+Namibia,nam,30-49,2018,F,M,1.806,0.647,4
+Namibia,nam,30-49,2018,F,F,1.806,0.647,3
+Namibia,nam,30-49,2019,S,M,1.806,0.647,5
+Namibia,nam,30-49,2019,F,M,1.806,0.647,4
+Namibia,nam,30-49,2019,F,F,1.806,0.647,2
+Namibia,nam,30-49,2015,S,M,1.784,0.642,8
+Namibia,nam,30-49,2015,S,F,1.784,0.642,3
+Namibia,nam,30-49,2015,F,M,1.784,0.642,4
+Namibia,nam,30-49,2015,F,F,1.784,0.642,2
+Namibia,nam,30-49,2017,S,M,1.838,0.647,10
+Namibia,nam,30-49,2017,F,M,1.838,0.647,7
+Namibia,nam,30-49,2017,F,F,1.838,0.647,7
+Namibia,nam,30-49,2016,S,M,1.873,0.645,8
+Namibia,nam,30-49,2016,S,F,1.873,0.645,4
+Namibia,nam,30-49,2016,F,M,1.873,0.645,5
+Namibia,nam,30-49,2016,F,F,1.873,0.645,7
+Namibia,nam,50-69,2018,S,F,1.806,0.647,1
+Namibia,nam,50-69,2018,F,F,1.806,0.647,1
+Namibia,nam,50-69,2019,S,M,1.806,0.647,1
+Namibia,nam,50-69,2019,F,M,1.806,0.647,1
+Namibia,nam,50-69,2019,F,F,1.806,0.647,1
+Namibia,nam,50-69,2017,F,M,1.838,0.647,1
+Namibia,nam,50-69,2017,F,F,1.838,0.647,1
+Namibia,nam,50-69,2016,F,M,1.873,0.645,3
+Namibia,nam,50-69,2016,F,F,1.873,0.645,2
+Ethiopia,eth,9-17,2018,F,F,2.524,0.463,1
+Ethiopia,eth,9-17,2015,S,M,2.234,0.451,1
+Ethiopia,eth,9-17,2017,S,F,2.47716,0.463,1
+Ethiopia,eth,18-29,2018,S,M,2.524,0.463,2
+Ethiopia,eth,18-29,2015,S,M,2.234,0.451,1
+Ethiopia,eth,18-29,2015,S,F,2.234,0.451,1
+Ethiopia,eth,18-29,2015,F,M,2.234,0.451,1
+Ethiopia,eth,18-29,2015,F,F,2.234,0.451,1
+Ethiopia,eth,18-29,2017,S,M,2.47716,0.463,2
+Ethiopia,eth,18-29,2017,S,F,2.47716,0.463,1
+Ethiopia,eth,18-29,2016,S,M,2.284,0.457,1
+Ethiopia,eth,18-29,2016,S,F,2.284,0.457,2
+Ethiopia,eth,0-8,2018,F,M,2.524,0.463,1
+Ethiopia,eth,0-8,2018,F,F,2.524,0.463,2
+Ethiopia,eth,0-8,2015,F,M,2.234,0.451,1
+Ethiopia,eth,30-49,2018,S,M,2.524,0.463,1
+Ethiopia,eth,30-49,2018,F,M,2.524,0.463,2
+Ethiopia,eth,30-49,2018,F,F,2.524,0.463,2
+Ethiopia,eth,30-49,2019,S,M,2.524,0.463,1
+Ethiopia,eth,30-49,2015,S,M,2.234,0.451,2
+Ethiopia,eth,30-49,2017,S,M,2.47716,0.463,2
+Ethiopia,eth,30-49,2016,S,F,2.284,0.457,3
+Tunisia,tun,50-69,2018,S,F,1.998,0.735,1
+Tunisia,tun,50-69,2016,F,F,1.949,0.732,1
+Tunisia,tun,18-29,2018,S,M,1.998,0.735,3
+Tunisia,tun,18-29,2018,S,F,1.998,0.735,1
+Tunisia,tun,18-29,2018,F,M,1.998,0.735,1
+Tunisia,tun,18-29,2018,F,F,1.998,0.735,1
+Tunisia,tun,18-29,2019,S,M,1.998,0.735,2
+Tunisia,tun,18-29,2019,S,F,1.998,0.735,2
+Tunisia,tun,18-29,2019,F,M,1.998,0.735,1
+Tunisia,tun,18-29,2019,F,F,1.998,0.735,1
+Tunisia,tun,18-29,2015,S,M,1.952,0.728,2
+Tunisia,tun,18-29,2015,S,F,1.952,0.728,2
+Tunisia,tun,18-29,2015,F,F,1.952,0.728,1
+Tunisia,tun,18-29,2017,F,M,1.977,0.735,1
+Tunisia,tun,18-29,2016,S,M,1.949,0.732,1
+Tunisia,tun,18-29,2016,S,F,1.949,0.732,1
+Tunisia,tun,18-29,2016,F,M,1.949,0.732,1
+Tunisia,tun,9-17,2018,S,M,1.998,0.735,1
+Tunisia,tun,9-17,2018,F,M,1.998,0.735,2
+Tunisia,tun,9-17,2018,F,F,1.998,0.735,1
+Tunisia,tun,9-17,2019,F,M,1.998,0.735,1
+Tunisia,tun,9-17,2019,F,F,1.998,0.735,1
+Tunisia,tun,9-17,2015,F,M,1.952,0.728,2
+Tunisia,tun,9-17,2017,F,M,1.977,0.735,1
+Tunisia,tun,9-17,2016,F,M,1.949,0.732,1
+Tunisia,tun,30-49,2018,S,M,1.998,0.735,1
+Tunisia,tun,30-49,2018,F,M,1.998,0.735,1
+Tunisia,tun,30-49,2018,F,F,1.998,0.735,1
+Tunisia,tun,30-49,2019,S,M,1.998,0.735,1
+Tunisia,tun,30-49,2015,S,M,1.952,0.728,2
+Tunisia,tun,30-49,2015,F,F,1.952,0.728,1
+Tunisia,tun,30-49,2017,S,M,1.977,0.735,2
+Tunisia,tun,30-49,2017,F,F,1.977,0.735,1
+Tunisia,tun,30-49,2016,S,M,1.949,0.732,2
+Tunisia,tun,30-49,2016,F,M,1.949,0.732,2
+Tunisia,tun,30-49,2016,F,F,1.949,0.732,2
+Tunisia,tun,0-8,2018,F,M,1.998,0.735,1
+Tunisia,tun,0-8,2018,F,F,1.998,0.735,1
+Tunisia,tun,0-8,2019,F,M,1.998,0.735,1
+Tunisia,tun,0-8,2015,F,M,1.952,0.728,1
+Tunisia,tun,0-8,2015,F,F,1.952,0.728,2
+Tunisia,tun,0-8,2017,S,M,1.977,0.735,2
+Tunisia,tun,0-8,2017,F,M,1.977,0.735,1
+Tunisia,tun,0-8,2016,F,M,1.949,0.732,1
+Tanzania,tza,9-17,2018,F,M,1.837,0.538,2
+Tanzania,tza,18-29,2018,S,F,1.837,0.538,1
+Tanzania,tza,18-29,2017,S,M,1.876,0.538,1
+Tanzania,tza,18-29,2017,S,F,1.876,0.538,1
+Tanzania,tza,18-29,2016,S,M,1.899,0.533,1
+Tanzania,tza,0-8,2018,F,M,1.837,0.538,1
+Tanzania,tza,0-8,2018,F,F,1.837,0.538,1
+Tanzania,tza,0-8,2017,S,M,1.876,0.538,1
+Tanzania,tza,30-49,2018,F,M,1.837,0.538,1
+Tanzania,tza,30-49,2018,F,F,1.837,0.538,1
+Tanzania,tza,30-49,2017,F,M,1.876,0.538,1
+Tanzania,tza,30-49,2017,F,F,1.876,0.538,1
+Tanzania,tza,30-49,2016,S,M,1.899,0.533,2
+Democratic Republic of the Congo,cod,50-69,2017,F,M,3.061,0.457,1
+Democratic Republic of the Congo,cod,50-69,2017,F,F,3.061,0.457,1
+Democratic Republic of the Congo,cod,50-69,2016,F,M,3.112,0.452,2
+Democratic Republic of the Congo,cod,50-69,2016,F,F,3.112,0.452,2
+Democratic Republic of the Congo,cod,18-29,2018,S,M,3.251,0.457,16
+Democratic Republic of the Congo,cod,18-29,2018,S,F,3.251,0.457,11
+Democratic Republic of the Congo,cod,18-29,2018,F,M,3.251,0.457,3
+Democratic Republic of the Congo,cod,18-29,2018,F,F,3.251,0.457,1
+Democratic Republic of the Congo,cod,18-29,2019,S,M,3.251,0.457,8
+Democratic Republic of the Congo,cod,18-29,2019,S,F,3.251,0.457,5
+Democratic Republic of the Congo,cod,18-29,2019,F,F,3.251,0.457,1
+Democratic Republic of the Congo,cod,18-29,2015,S,M,3.085,0.444,16
+Democratic Republic of the Congo,cod,18-29,2015,S,F,3.085,0.444,4
+Democratic Republic of the Congo,cod,18-29,2017,S,M,3.061,0.457,23
+Democratic Republic of the Congo,cod,18-29,2017,S,F,3.061,0.457,13
+Democratic Republic of the Congo,cod,18-29,2017,F,M,3.061,0.457,2
+Democratic Republic of the Congo,cod,18-29,2017,F,F,3.061,0.457,1
+Democratic Republic of the Congo,cod,18-29,2016,S,M,3.112,0.452,39
+Democratic Republic of the Congo,cod,18-29,2016,S,F,3.112,0.452,17
+Democratic Republic of the Congo,cod,18-29,2016,F,M,3.112,0.452,5
+Democratic Republic of the Congo,cod,18-29,2016,F,F,3.112,0.452,7
+Democratic Republic of the Congo,cod,9-17,2018,S,M,3.251,0.457,7
+Democratic Republic of the Congo,cod,9-17,2018,S,F,3.251,0.457,3
+Democratic Republic of the Congo,cod,9-17,2018,F,M,3.251,0.457,4
+Democratic Republic of the Congo,cod,9-17,2018,F,F,3.251,0.457,5
+Democratic Republic of the Congo,cod,9-17,2019,S,F,3.251,0.457,1
+Democratic Republic of the Congo,cod,9-17,2015,S,M,3.085,0.444,6
+Democratic Republic of the Congo,cod,9-17,2015,S,F,3.085,0.444,1
+Democratic Republic of the Congo,cod,9-17,2015,F,M,3.085,0.444,1
+Democratic Republic of the Congo,cod,9-17,2017,S,M,3.061,0.457,12
+Democratic Republic of the Congo,cod,9-17,2017,S,F,3.061,0.457,8
+Democratic Republic of the Congo,cod,9-17,2017,F,M,3.061,0.457,3
+Democratic Republic of the Congo,cod,9-17,2017,F,F,3.061,0.457,1
+Democratic Republic of the Congo,cod,9-17,2016,S,M,3.112,0.452,12
+Democratic Republic of the Congo,cod,9-17,2016,S,F,3.112,0.452,4
+Democratic Republic of the Congo,cod,9-17,2016,F,M,3.112,0.452,16
+Democratic Republic of the Congo,cod,9-17,2016,F,F,3.112,0.452,9
+Democratic Republic of the Congo,cod,30-49,2018,S,M,3.251,0.457,14
+Democratic Republic of the Congo,cod,30-49,2018,S,F,3.251,0.457,5
+Democratic Republic of the Congo,cod,30-49,2018,F,M,3.251,0.457,2
+Democratic Republic of the Congo,cod,30-49,2018,F,F,3.251,0.457,1
+Democratic Republic of the Congo,cod,30-49,2019,S,M,3.251,0.457,9
+Democratic Republic of the Congo,cod,30-49,2019,S,F,3.251,0.457,2
+Democratic Republic of the Congo,cod,30-49,2019,F,M,3.251,0.457,3
+Democratic Republic of the Congo,cod,30-49,2019,F,F,3.251,0.457,2
+Democratic Republic of the Congo,cod,30-49,2015,S,M,3.085,0.444,8
+Democratic Republic of the Congo,cod,30-49,2015,S,F,3.085,0.444,3
+Democratic Republic of the Congo,cod,30-49,2015,F,M,3.085,0.444,2
+Democratic Republic of the Congo,cod,30-49,2015,F,F,3.085,0.444,2
+Democratic Republic of the Congo,cod,30-49,2017,S,M,3.061,0.457,11
+Democratic Republic of the Congo,cod,30-49,2017,S,F,3.061,0.457,10
+Democratic Republic of the Congo,cod,30-49,2017,F,M,3.061,0.457,5
+Democratic Republic of the Congo,cod,30-49,2017,F,F,3.061,0.457,4
+Democratic Republic of the Congo,cod,30-49,2016,S,M,3.112,0.452,24
+Democratic Republic of the Congo,cod,30-49,2016,S,F,3.112,0.452,6
+Democratic Republic of the Congo,cod,30-49,2016,F,M,3.112,0.452,10
+Democratic Republic of the Congo,cod,30-49,2016,F,F,3.112,0.452,9
+Democratic Republic of the Congo,cod,0-8,2018,S,M,3.251,0.457,3
+Democratic Republic of the Congo,cod,0-8,2018,S,F,3.251,0.457,3
+Democratic Republic of the Congo,cod,0-8,2018,F,M,3.251,0.457,1
+Democratic Republic of the Congo,cod,0-8,2018,F,F,3.251,0.457,2
+Democratic Republic of the Congo,cod,0-8,2019,S,M,3.251,0.457,2
+Democratic Republic of the Congo,cod,0-8,2019,F,M,3.251,0.457,2
+Democratic Republic of the Congo,cod,0-8,2019,F,F,3.251,0.457,2
+Democratic Republic of the Congo,cod,0-8,2015,S,F,3.085,0.444,4
+Democratic Republic of the Congo,cod,0-8,2015,F,M,3.085,0.444,1
+Democratic Republic of the Congo,cod,0-8,2015,F,F,3.085,0.444,1
+Democratic Republic of the Congo,cod,0-8,2017,S,M,3.061,0.457,4
+Democratic Republic of the Congo,cod,0-8,2017,S,F,3.061,0.457,1
+Democratic Republic of the Congo,cod,0-8,2017,F,M,3.061,0.457,3
+Democratic Republic of the Congo,cod,0-8,2016,S,M,3.112,0.452,5
+Democratic Republic of the Congo,cod,0-8,2016,S,F,3.112,0.452,2
+Democratic Republic of the Congo,cod,0-8,2016,F,M,3.112,0.452,13
+Democratic Republic of the Congo,cod,0-8,2016,F,F,3.112,0.452,9
+Botswana,bwa,50-69,2018,F,M,1.659,0.717,1
+Botswana,bwa,50-69,2018,F,F,1.659,0.717,1
+Botswana,bwa,50-69,2016,F,M,1.639,0.712,1
+Botswana,bwa,18-29,2018,S,M,1.659,0.717,7
+Botswana,bwa,18-29,2018,F,M,1.659,0.717,1
+Botswana,bwa,18-29,2018,F,F,1.659,0.717,1
+Botswana,bwa,18-29,2019,S,M,1.659,0.717,1
+Botswana,bwa,18-29,2019,S,F,1.659,0.717,1
+Botswana,bwa,18-29,2019,F,M,1.659,0.717,1
+Botswana,bwa,18-29,2015,S,M,1.597,0.706,2
+Botswana,bwa,18-29,2015,S,F,1.597,0.706,1
+Botswana,bwa,18-29,2015,F,M,1.597,0.706,1
+Botswana,bwa,18-29,2015,F,F,1.597,0.706,1
+Botswana,bwa,18-29,2017,S,M,1.622,0.717,5
+Botswana,bwa,18-29,2017,S,F,1.622,0.717,4
+Botswana,bwa,18-29,2016,S,M,1.639,0.712,5
+Botswana,bwa,18-29,2016,S,F,1.639,0.712,3
+Botswana,bwa,18-29,2016,F,M,1.639,0.712,3
+Botswana,bwa,9-17,2018,F,M,1.659,0.717,5
+Botswana,bwa,9-17,2019,S,M,1.659,0.717,2
+Botswana,bwa,9-17,2015,S,M,1.597,0.706,1
+Botswana,bwa,9-17,2015,F,M,1.597,0.706,4
+Botswana,bwa,9-17,2017,S,M,1.622,0.717,2
+Botswana,bwa,9-17,2017,S,F,1.622,0.717,1
+Botswana,bwa,9-17,2017,F,M,1.622,0.717,2
+Botswana,bwa,9-17,2016,S,M,1.639,0.712,2
+Botswana,bwa,9-17,2016,S,F,1.639,0.712,2
+Botswana,bwa,9-17,2016,F,M,1.639,0.712,4
+Botswana,bwa,30-49,2018,S,M,1.659,0.717,6
+Botswana,bwa,30-49,2018,S,F,1.659,0.717,2
+Botswana,bwa,30-49,2018,F,M,1.659,0.717,2
+Botswana,bwa,30-49,2018,F,F,1.659,0.717,1
+Botswana,bwa,30-49,2019,S,M,1.659,0.717,2
+Botswana,bwa,30-49,2019,F,F,1.659,0.717,1
+Botswana,bwa,30-49,2015,S,M,1.597,0.706,2
+Botswana,bwa,30-49,2015,F,M,1.597,0.706,2
+Botswana,bwa,30-49,2015,F,F,1.597,0.706,3
+Botswana,bwa,30-49,2017,S,M,1.622,0.717,3
+Botswana,bwa,30-49,2017,S,F,1.622,0.717,1
+Botswana,bwa,30-49,2017,F,M,1.622,0.717,1
+Botswana,bwa,30-49,2016,S,F,1.639,0.712,2
+Botswana,bwa,30-49,2016,F,M,1.639,0.712,2
+Botswana,bwa,30-49,2016,F,F,1.639,0.712,4
+Botswana,bwa,0-8,2018,F,M,1.659,0.717,1
+Botswana,bwa,0-8,2018,F,F,1.659,0.717,3
+Botswana,bwa,0-8,2019,F,M,1.659,0.717,2
+Botswana,bwa,0-8,2015,F,F,1.597,0.706,2
+Botswana,bwa,0-8,2017,S,M,1.622,0.717,3
+Botswana,bwa,0-8,2017,F,F,1.622,0.717,1
+Botswana,bwa,0-8,2016,F,M,1.639,0.712,5
+Botswana,bwa,0-8,2016,F,F,1.639,0.712,2
+Djibouti,dji,9-17,2018,S,M,2.269,0.476,1
+Djibouti,dji,9-17,2015,F,F,2.113,0.47,1
+Djibouti,dji,9-17,2017,S,F,2.19614,0.476,1
+Djibouti,dji,18-29,2018,S,M,2.269,0.476,2
+Djibouti,dji,18-29,2018,S,F,2.269,0.476,1
+Djibouti,dji,18-29,2015,S,M,2.113,0.47,2
+Djibouti,dji,18-29,2017,S,M,2.19614,0.476,2
+Djibouti,dji,18-29,2016,S,M,2.292,0.474,3
+Djibouti,dji,0-8,2017,F,M,2.19614,0.476,2
+Djibouti,dji,0-8,2017,F,F,2.19614,0.476,3
+Djibouti,dji,0-8,2016,F,M,2.292,0.474,1
+Djibouti,dji,30-49,2019,S,M,2.269,0.476,1
+Djibouti,dji,30-49,2015,F,M,2.113,0.47,1
+Djibouti,dji,30-49,2015,F,F,2.113,0.47,1
+Djibouti,dji,30-49,2017,S,M,2.19614,0.476,1
+Djibouti,dji,30-49,2017,F,M,2.19614,0.476,3
+Djibouti,dji,30-49,2017,F,F,2.19614,0.476,3
+Djibouti,dji,30-49,2016,S,M,2.292,0.474,1
+Djibouti,dji,30-49,2016,F,M,2.292,0.474,2
+Djibouti,dji,30-49,2016,F,F,2.292,0.474,1
+Djibouti,dji,50-69,2016,F,F,2.292,0.474,1
+Zimbabwe,zwe,18-29,2018,S,M,2.326,0.53,1
+Zimbabwe,zwe,18-29,2018,S,F,2.326,0.53,1
+Zimbabwe,zwe,18-29,2019,S,M,2.326,0.53,1
+Zimbabwe,zwe,18-29,2019,S,F,2.326,0.53,1
+Zimbabwe,zwe,18-29,2015,S,M,2.294,0.529,1
+Zimbabwe,zwe,18-29,2015,S,F,2.294,0.529,1
+Zimbabwe,zwe,18-29,2017,S,M,2.352,0.53,2
+Zimbabwe,zwe,18-29,2016,S,M,2.322,0.532,1
+Zimbabwe,zwe,18-29,2016,S,F,2.322,0.532,6
+Zimbabwe,zwe,30-49,2018,S,M,2.326,0.53,2
+Zimbabwe,zwe,30-49,2018,S,F,2.326,0.53,1
+Zimbabwe,zwe,30-49,2017,S,M,2.352,0.53,1
+Zimbabwe,zwe,30-49,2017,S,F,2.352,0.53,1
+Zimbabwe,zwe,30-49,2016,S,M,2.322,0.532,3
+Zimbabwe,zwe,30-49,2016,F,F,2.322,0.532,1
+Zimbabwe,zwe,0-8,2017,S,M,2.352,0.53,1
+Zimbabwe,zwe,9-17,2015,S,M,2.294,0.529,1
+Zimbabwe,zwe,9-17,2015,S,F,2.294,0.529,2
+Zimbabwe,zwe,9-17,2017,S,F,2.352,0.53,1
+Zimbabwe,zwe,9-17,2016,S,F,2.322,0.532,2
+Zimbabwe,zwe,9-17,2016,F,M,2.322,0.532,1
+Oman,omn,18-29,2018,S,M,1.984,0.821,2
+Oman,omn,18-29,2018,F,M,1.984,0.821,4
+Oman,omn,18-29,2018,F,F,1.984,0.821,1
+Oman,omn,18-29,2019,S,M,1.984,0.821,1
+Oman,omn,18-29,2019,F,F,1.984,0.821,1
+Oman,omn,18-29,2015,S,M,1.947,0.822,2
+Oman,omn,18-29,2015,F,M,1.947,0.822,1
+Oman,omn,18-29,2017,S,M,1.983,0.821,1
+Oman,omn,18-29,2017,S,F,1.983,0.821,1
+Oman,omn,18-29,2016,S,M,2.016,0.822,1
+Oman,omn,70+,2015,F,M,1.947,0.822,1
+Oman,omn,30-49,2018,S,F,1.984,0.821,1
+Oman,omn,30-49,2018,F,F,1.984,0.821,1
+Oman,omn,30-49,2019,F,M,1.984,0.821,2
+Oman,omn,30-49,2015,S,M,1.947,0.822,2
+Oman,omn,30-49,2015,F,M,1.947,0.822,1
+Oman,omn,30-49,2015,F,F,1.947,0.822,1
+Oman,omn,30-49,2017,S,F,1.983,0.821,1
+Oman,omn,30-49,2016,F,M,2.016,0.822,2
+Oman,omn,30-49,2016,F,F,2.016,0.822,1
+Oman,omn,9-17,2018,S,F,1.984,0.821,1
+Oman,omn,9-17,2018,F,M,1.984,0.821,3
+Oman,omn,9-17,2018,F,F,1.984,0.821,1
+Oman,omn,9-17,2019,S,M,1.984,0.821,1
+Oman,omn,9-17,2015,F,F,1.947,0.822,1
+Oman,omn,9-17,2017,S,M,1.983,0.821,2
+Oman,omn,9-17,2017,S,F,1.983,0.821,1
+Oman,omn,9-17,2016,S,F,2.016,0.822,2
+Oman,omn,0-8,2018,F,M,1.984,0.821,2
+Oman,omn,0-8,2018,F,F,1.984,0.821,1
+Oman,omn,0-8,2019,F,M,1.984,0.821,1
+Oman,omn,0-8,2016,F,M,2.016,0.822,1
+Rwanda,rwa,9-17,2018,S,M,2.14,0.524,2
+Rwanda,rwa,9-17,2019,S,M,2.14,0.524,1
+Rwanda,rwa,9-17,2019,F,M,2.14,0.524,1
+Rwanda,rwa,9-17,2015,F,M,2.42,0.51,1
+Rwanda,rwa,9-17,2017,S,M,2.22715,0.524,1
+Rwanda,rwa,9-17,2017,F,M,2.22715,0.524,1
+Rwanda,rwa,9-17,2017,F,F,2.22715,0.524,1
+Rwanda,rwa,9-17,2016,S,F,2.323,0.52,2
+Rwanda,rwa,18-29,2018,S,M,2.14,0.524,1
+Rwanda,rwa,18-29,2019,S,M,2.14,0.524,2
+Rwanda,rwa,18-29,2019,F,F,2.14,0.524,1
+Rwanda,rwa,18-29,2015,S,F,2.42,0.51,2
+Rwanda,rwa,18-29,2017,S,M,2.22715,0.524,2
+Rwanda,rwa,18-29,2017,S,F,2.22715,0.524,2
+Rwanda,rwa,18-29,2016,S,M,2.323,0.52,3
+Rwanda,rwa,18-29,2016,S,F,2.323,0.52,1
+Rwanda,rwa,18-29,2016,F,M,2.323,0.52,1
+Rwanda,rwa,18-29,2016,F,F,2.323,0.52,1
+Rwanda,rwa,0-8,2019,F,M,2.14,0.524,2
+Rwanda,rwa,0-8,2015,F,M,2.42,0.51,3
+Rwanda,rwa,0-8,2017,S,M,2.22715,0.524,1
+Rwanda,rwa,0-8,2017,S,F,2.22715,0.524,1
+Rwanda,rwa,0-8,2017,F,M,2.22715,0.524,1
+Rwanda,rwa,30-49,2018,S,M,2.14,0.524,1
+Rwanda,rwa,30-49,2018,S,F,2.14,0.524,2
+Rwanda,rwa,30-49,2018,F,F,2.14,0.524,1
+Rwanda,rwa,30-49,2019,S,M,2.14,0.524,1
+Rwanda,rwa,30-49,2019,F,M,2.14,0.524,2
+Rwanda,rwa,30-49,2019,F,F,2.14,0.524,1
+Rwanda,rwa,30-49,2015,S,M,2.42,0.51,3
+Rwanda,rwa,30-49,2015,F,M,2.42,0.51,1
+Rwanda,rwa,30-49,2015,F,F,2.42,0.51,2
+Rwanda,rwa,30-49,2017,S,M,2.22715,0.524,1
+Rwanda,rwa,30-49,2017,F,M,2.22715,0.524,2
+Rwanda,rwa,30-49,2017,F,F,2.22715,0.524,2
+Rwanda,rwa,30-49,2016,S,M,2.323,0.52,3
+Rwanda,rwa,30-49,2016,S,F,2.323,0.52,1
+Senegal,sen,18-29,2018,S,M,1.849,0.505,10
+Senegal,sen,18-29,2018,S,F,1.849,0.505,14
+Senegal,sen,18-29,2018,F,M,1.849,0.505,2
+Senegal,sen,18-29,2018,F,F,1.849,0.505,2
+Senegal,sen,18-29,2019,S,M,1.849,0.505,14
+Senegal,sen,18-29,2019,S,F,1.849,0.505,1
+Senegal,sen,18-29,2019,F,M,1.849,0.505,1
+Senegal,sen,18-29,2019,F,F,1.849,0.505,1
+Senegal,sen,18-29,2015,S,M,1.805,0.492,17
+Senegal,sen,18-29,2015,S,F,1.805,0.492,10
+Senegal,sen,18-29,2015,F,F,1.805,0.492,2
+Senegal,sen,18-29,2017,S,M,1.9291,0.505,23
+Senegal,sen,18-29,2017,S,F,1.9291,0.505,14
+Senegal,sen,18-29,2017,F,M,1.9291,0.505,1
+Senegal,sen,18-29,2017,F,F,1.9291,0.505,1
+Senegal,sen,18-29,2016,S,M,1.978,0.499,31
+Senegal,sen,18-29,2016,S,F,1.978,0.499,18
+Senegal,sen,18-29,2016,F,M,1.978,0.499,2
+Senegal,sen,18-29,2016,F,F,1.978,0.499,1
+Senegal,sen,70+,2015,F,M,1.805,0.492,1
+Senegal,sen,30-49,2018,S,M,1.849,0.505,8
+Senegal,sen,30-49,2018,S,F,1.849,0.505,8
+Senegal,sen,30-49,2018,F,M,1.849,0.505,3
+Senegal,sen,30-49,2019,S,M,1.849,0.505,1
+Senegal,sen,30-49,2019,S,F,1.849,0.505,6
+Senegal,sen,30-49,2015,S,M,1.805,0.492,7
+Senegal,sen,30-49,2015,S,F,1.805,0.492,3
+Senegal,sen,30-49,2015,F,M,1.805,0.492,3
+Senegal,sen,30-49,2015,F,F,1.805,0.492,2
+Senegal,sen,30-49,2017,S,M,1.9291,0.505,19
+Senegal,sen,30-49,2017,S,F,1.9291,0.505,9
+Senegal,sen,30-49,2017,F,M,1.9291,0.505,3
+Senegal,sen,30-49,2017,F,F,1.9291,0.505,1
+Senegal,sen,30-49,2016,S,M,1.978,0.499,17
+Senegal,sen,30-49,2016,S,F,1.978,0.499,8
+Senegal,sen,30-49,2016,F,M,1.978,0.499,4
+Senegal,sen,30-49,2016,F,F,1.978,0.499,4
+Senegal,sen,9-17,2018,S,M,1.849,0.505,5
+Senegal,sen,9-17,2018,S,F,1.849,0.505,4
+Senegal,sen,9-17,2018,F,M,1.849,0.505,6
+Senegal,sen,9-17,2018,F,F,1.849,0.505,4
+Senegal,sen,9-17,2019,S,M,1.849,0.505,4
+Senegal,sen,9-17,2019,S,F,1.849,0.505,1
+Senegal,sen,9-17,2015,S,M,1.805,0.492,6
+Senegal,sen,9-17,2015,S,F,1.805,0.492,1
+Senegal,sen,9-17,2017,S,M,1.9291,0.505,11
+Senegal,sen,9-17,2017,S,F,1.9291,0.505,4
+Senegal,sen,9-17,2017,F,M,1.9291,0.505,2
+Senegal,sen,9-17,2017,F,F,1.9291,0.505,2
+Senegal,sen,9-17,2016,S,M,1.978,0.499,10
+Senegal,sen,9-17,2016,S,F,1.978,0.499,5
+Senegal,sen,9-17,2016,F,M,1.978,0.499,1
+Senegal,sen,9-17,2016,F,F,1.978,0.499,3
+Senegal,sen,50-69,2018,F,M,1.849,0.505,1
+Senegal,sen,50-69,2018,F,F,1.849,0.505,2
+Senegal,sen,50-69,2017,S,F,1.9291,0.505,1
+Senegal,sen,50-69,2016,S,M,1.978,0.499,1
+Senegal,sen,0-8,2018,S,F,1.849,0.505,2
+Senegal,sen,0-8,2018,F,M,1.849,0.505,3
+Senegal,sen,0-8,2018,F,F,1.849,0.505,1
+Senegal,sen,0-8,2019,S,F,1.849,0.505,1
+Senegal,sen,0-8,2015,S,F,1.805,0.492,3
+Senegal,sen,0-8,2015,F,M,1.805,0.492,1
+Senegal,sen,0-8,2017,S,M,1.9291,0.505,2
+Senegal,sen,0-8,2017,S,F,1.9291,0.505,1
+Senegal,sen,0-8,2017,F,M,1.9291,0.505,2
+Senegal,sen,0-8,2017,F,F,1.9291,0.505,3
+Senegal,sen,0-8,2016,S,M,1.978,0.499,2
+Senegal,sen,0-8,2016,S,F,1.978,0.499,4
+Senegal,sen,0-8,2016,F,M,1.978,0.499,1
+Iran,irn,18-29,2018,S,M,2.439,0.798,67
+Iran,irn,18-29,2018,S,F,2.439,0.798,29
+Iran,irn,18-29,2018,F,M,2.439,0.798,50
+Iran,irn,18-29,2018,F,F,2.439,0.798,43
+Iran,irn,18-29,2019,S,M,2.439,0.798,34
+Iran,irn,18-29,2019,S,F,2.439,0.798,21
+Iran,irn,18-29,2019,F,M,2.439,0.798,21
+Iran,irn,18-29,2019,F,F,2.439,0.798,21
+Iran,irn,18-29,2015,S,M,2.409,0.789,55
+Iran,irn,18-29,2015,S,F,2.409,0.789,43
+Iran,irn,18-29,2015,F,M,2.409,0.789,41
+Iran,irn,18-29,2015,F,F,2.409,0.789,34
+Iran,irn,18-29,2017,S,M,2.364,0.798,97
+Iran,irn,18-29,2017,S,F,2.364,0.798,46
+Iran,irn,18-29,2017,F,M,2.364,0.798,51
+Iran,irn,18-29,2017,F,F,2.364,0.798,49
+Iran,irn,18-29,2016,S,M,2.411,0.796,100
+Iran,irn,18-29,2016,S,F,2.411,0.796,56
+Iran,irn,18-29,2016,F,M,2.411,0.796,52
+Iran,irn,18-29,2016,F,F,2.411,0.796,49
+Iran,irn,70+,2018,F,M,2.439,0.798,2
+Iran,irn,70+,2018,F,F,2.439,0.798,1
+Iran,irn,70+,2019,F,M,2.439,0.798,1
+Iran,irn,70+,2015,F,M,2.409,0.789,2
+Iran,irn,70+,2015,F,F,2.409,0.789,1
+Iran,irn,70+,2017,F,M,2.364,0.798,2
+Iran,irn,70+,2017,F,F,2.364,0.798,3
+Iran,irn,70+,2016,F,M,2.411,0.796,4
+Iran,irn,70+,2016,F,F,2.411,0.796,4
+Iran,irn,30-49,2018,S,M,2.439,0.798,50
+Iran,irn,30-49,2018,S,F,2.439,0.798,20
+Iran,irn,30-49,2018,F,M,2.439,0.798,96
+Iran,irn,30-49,2018,F,F,2.439,0.798,88
+Iran,irn,30-49,2019,S,M,2.439,0.798,25
+Iran,irn,30-49,2019,S,F,2.439,0.798,10
+Iran,irn,30-49,2019,F,M,2.439,0.798,51
+Iran,irn,30-49,2019,F,F,2.439,0.798,41
+Iran,irn,30-49,2015,S,M,2.409,0.789,30
+Iran,irn,30-49,2015,S,F,2.409,0.789,15
+Iran,irn,30-49,2015,F,M,2.409,0.789,86
+Iran,irn,30-49,2015,F,F,2.409,0.789,84
+Iran,irn,30-49,2017,S,M,2.364,0.798,65
+Iran,irn,30-49,2017,S,F,2.364,0.798,41
+Iran,irn,30-49,2017,F,M,2.364,0.798,133
+Iran,irn,30-49,2017,F,F,2.364,0.798,105
+Iran,irn,30-49,2016,S,M,2.411,0.796,73
+Iran,irn,30-49,2016,S,F,2.411,0.796,39
+Iran,irn,30-49,2016,F,M,2.411,0.796,155
+Iran,irn,30-49,2016,F,F,2.411,0.796,121
+Iran,irn,9-17,2018,S,M,2.439,0.798,43
+Iran,irn,9-17,2018,S,F,2.439,0.798,15
+Iran,irn,9-17,2018,F,M,2.439,0.798,85
+Iran,irn,9-17,2018,F,F,2.439,0.798,52
+Iran,irn,9-17,2019,S,M,2.439,0.798,20
+Iran,irn,9-17,2019,S,F,2.439,0.798,7
+Iran,irn,9-17,2019,F,M,2.439,0.798,45
+Iran,irn,9-17,2019,F,F,2.439,0.798,26
+Iran,irn,9-17,2015,S,M,2.409,0.789,28
+Iran,irn,9-17,2015,S,F,2.409,0.789,11
+Iran,irn,9-17,2015,F,M,2.409,0.789,88
+Iran,irn,9-17,2015,F,F,2.409,0.789,44
+Iran,irn,9-17,2017,S,M,2.364,0.798,36
+Iran,irn,9-17,2017,S,F,2.364,0.798,15
+Iran,irn,9-17,2017,F,M,2.364,0.798,124
+Iran,irn,9-17,2017,F,F,2.364,0.798,67
+Iran,irn,9-17,2016,S,M,2.411,0.796,52
+Iran,irn,9-17,2016,S,F,2.411,0.796,30
+Iran,irn,9-17,2016,F,M,2.411,0.796,151
+Iran,irn,9-17,2016,F,F,2.411,0.796,87
+Iran,irn,50-69,2018,S,F,2.439,0.798,1
+Iran,irn,50-69,2018,F,M,2.439,0.798,6
+Iran,irn,50-69,2018,F,F,2.439,0.798,4
+Iran,irn,50-69,2019,F,M,2.439,0.798,5
+Iran,irn,50-69,2019,F,F,2.439,0.798,5
+Iran,irn,50-69,2015,S,F,2.409,0.789,2
+Iran,irn,50-69,2015,F,M,2.409,0.789,9
+Iran,irn,50-69,2015,F,F,2.409,0.789,10
+Iran,irn,50-69,2017,S,M,2.364,0.798,1
+Iran,irn,50-69,2017,S,F,2.364,0.798,1
+Iran,irn,50-69,2017,F,M,2.364,0.798,21
+Iran,irn,50-69,2017,F,F,2.364,0.798,20
+Iran,irn,50-69,2016,S,M,2.411,0.796,2
+Iran,irn,50-69,2016,S,F,2.411,0.796,2
+Iran,irn,50-69,2016,F,M,2.411,0.796,25
+Iran,irn,50-69,2016,F,F,2.411,0.796,27
+Iran,irn,0-8,2018,S,M,2.439,0.798,11
+Iran,irn,0-8,2018,S,F,2.439,0.798,6
+Iran,irn,0-8,2018,F,M,2.439,0.798,79
+Iran,irn,0-8,2018,F,F,2.439,0.798,52
+Iran,irn,0-8,2019,S,M,2.439,0.798,4
+Iran,irn,0-8,2019,S,F,2.439,0.798,3
+Iran,irn,0-8,2019,F,M,2.439,0.798,51
+Iran,irn,0-8,2019,F,F,2.439,0.798,34
+Iran,irn,0-8,2015,S,M,2.409,0.789,5
+Iran,irn,0-8,2015,S,F,2.409,0.789,2
+Iran,irn,0-8,2015,F,M,2.409,0.789,75
+Iran,irn,0-8,2015,F,F,2.409,0.789,42
+Iran,irn,0-8,2017,S,M,2.364,0.798,12
+Iran,irn,0-8,2017,S,F,2.364,0.798,10
+Iran,irn,0-8,2017,F,M,2.364,0.798,141
+Iran,irn,0-8,2017,F,F,2.364,0.798,61
+Iran,irn,0-8,2016,S,M,2.411,0.796,10
+Iran,irn,0-8,2016,S,F,2.411,0.796,9
+Iran,irn,0-8,2016,F,M,2.411,0.796,121
+Iran,irn,0-8,2016,F,F,2.411,0.796,71
+Sudan,sdn,50-69,2018,F,M,3.155,0.502,1
+Sudan,sdn,50-69,2018,F,F,3.155,0.502,1
+Sudan,sdn,50-69,2015,S,F,3.295,0.497,1
+Sudan,sdn,50-69,2017,F,M,3.213,0.502,1
+Sudan,sdn,50-69,2017,F,F,3.213,0.502,1
+Sudan,sdn,50-69,2016,F,F,3.269,0.499,2
+Sudan,sdn,18-29,2018,S,M,3.155,0.502,6
+Sudan,sdn,18-29,2018,S,F,3.155,0.502,2
+Sudan,sdn,18-29,2018,F,M,3.155,0.502,3
+Sudan,sdn,18-29,2018,F,F,3.155,0.502,3
+Sudan,sdn,18-29,2019,S,M,3.155,0.502,3
+Sudan,sdn,18-29,2019,S,F,3.155,0.502,1
+Sudan,sdn,18-29,2019,F,M,3.155,0.502,1
+Sudan,sdn,18-29,2019,F,F,3.155,0.502,1
+Sudan,sdn,18-29,2015,S,M,3.295,0.497,4
+Sudan,sdn,18-29,2015,S,F,3.295,0.497,1
+Sudan,sdn,18-29,2015,F,M,3.295,0.497,4
+Sudan,sdn,18-29,2015,F,F,3.295,0.497,4
+Sudan,sdn,18-29,2017,S,M,3.213,0.502,7
+Sudan,sdn,18-29,2017,S,F,3.213,0.502,5
+Sudan,sdn,18-29,2017,F,M,3.213,0.502,5
+Sudan,sdn,18-29,2017,F,F,3.213,0.502,3
+Sudan,sdn,18-29,2016,S,M,3.269,0.499,4
+Sudan,sdn,18-29,2016,S,F,3.269,0.499,4
+Sudan,sdn,18-29,2016,F,M,3.269,0.499,6
+Sudan,sdn,18-29,2016,F,F,3.269,0.499,6
+Sudan,sdn,9-17,2018,S,F,3.155,0.502,1
+Sudan,sdn,9-17,2018,F,M,3.155,0.502,9
+Sudan,sdn,9-17,2018,F,F,3.155,0.502,10
+Sudan,sdn,9-17,2019,S,F,3.155,0.502,1
+Sudan,sdn,9-17,2015,S,M,3.295,0.497,3
+Sudan,sdn,9-17,2015,F,M,3.295,0.497,3
+Sudan,sdn,9-17,2015,F,F,3.295,0.497,3
+Sudan,sdn,9-17,2017,S,M,3.213,0.502,4
+Sudan,sdn,9-17,2017,S,F,3.213,0.502,1
+Sudan,sdn,9-17,2017,F,M,3.213,0.502,9
+Sudan,sdn,9-17,2017,F,F,3.213,0.502,4
+Sudan,sdn,9-17,2016,S,M,3.269,0.499,5
+Sudan,sdn,9-17,2016,S,F,3.269,0.499,1
+Sudan,sdn,9-17,2016,F,M,3.269,0.499,8
+Sudan,sdn,9-17,2016,F,F,3.269,0.499,10
+Sudan,sdn,30-49,2018,S,M,3.155,0.502,1
+Sudan,sdn,30-49,2018,S,F,3.155,0.502,2
+Sudan,sdn,30-49,2018,F,M,3.155,0.502,9
+Sudan,sdn,30-49,2018,F,F,3.155,0.502,10
+Sudan,sdn,30-49,2015,S,M,3.295,0.497,1
+Sudan,sdn,30-49,2015,S,F,3.295,0.497,2
+Sudan,sdn,30-49,2015,F,M,3.295,0.497,3
+Sudan,sdn,30-49,2015,F,F,3.295,0.497,4
+Sudan,sdn,30-49,2017,S,M,3.213,0.502,3
+Sudan,sdn,30-49,2017,S,F,3.213,0.502,1
+Sudan,sdn,30-49,2017,F,M,3.213,0.502,9
+Sudan,sdn,30-49,2017,F,F,3.213,0.502,6
+Sudan,sdn,30-49,2016,S,M,3.269,0.499,5
+Sudan,sdn,30-49,2016,S,F,3.269,0.499,5
+Sudan,sdn,30-49,2016,F,M,3.269,0.499,10
+Sudan,sdn,30-49,2016,F,F,3.269,0.499,6
+Sudan,sdn,0-8,2018,F,M,3.155,0.502,10
+Sudan,sdn,0-8,2018,F,F,3.155,0.502,5
+Sudan,sdn,0-8,2019,S,M,3.155,0.502,1
+Sudan,sdn,0-8,2015,F,M,3.295,0.497,6
+Sudan,sdn,0-8,2015,F,F,3.295,0.497,2
+Sudan,sdn,0-8,2017,F,M,3.213,0.502,14
+Sudan,sdn,0-8,2017,F,F,3.213,0.502,6
+Sudan,sdn,0-8,2016,S,M,3.269,0.499,2
+Sudan,sdn,0-8,2016,F,M,3.269,0.499,11
+Sudan,sdn,0-8,2016,F,F,3.269,0.499,8
+Zambia,zmb,50-69,2018,F,M,1.822,0.588,1
+Zambia,zmb,50-69,2018,F,F,1.822,0.588,1
+Zambia,zmb,18-29,2018,S,M,1.822,0.588,1
+Zambia,zmb,18-29,2018,S,F,1.822,0.588,2
+Zambia,zmb,18-29,2018,F,M,1.822,0.588,1
+Zambia,zmb,18-29,2018,F,F,1.822,0.588,1
+Zambia,zmb,18-29,2019,S,M,1.822,0.588,3
+Zambia,zmb,18-29,2019,S,F,1.822,0.588,2
+Zambia,zmb,18-29,2015,S,M,1.846,0.583,2
+Zambia,zmb,18-29,2015,S,F,1.846,0.583,2
+Zambia,zmb,18-29,2015,F,F,1.846,0.583,1
+Zambia,zmb,18-29,2017,S,M,1.786,0.588,6
+Zambia,zmb,18-29,2016,S,M,1.783,0.586,6
+Zambia,zmb,18-29,2016,F,M,1.783,0.586,1
+Zambia,zmb,18-29,2016,F,F,1.783,0.586,1
+Zambia,zmb,9-17,2018,S,F,1.822,0.588,1
+Zambia,zmb,9-17,2018,F,M,1.822,0.588,2
+Zambia,zmb,9-17,2018,F,F,1.822,0.588,1
+Zambia,zmb,9-17,2019,S,M,1.822,0.588,1
+Zambia,zmb,9-17,2015,S,M,1.846,0.583,1
+Zambia,zmb,9-17,2015,S,F,1.846,0.583,1
+Zambia,zmb,9-17,2017,S,M,1.786,0.588,3
+Zambia,zmb,9-17,2016,S,M,1.783,0.586,1
+Zambia,zmb,9-17,2016,F,F,1.783,0.586,1
+Zambia,zmb,30-49,2018,S,M,1.822,0.588,2
+Zambia,zmb,30-49,2018,F,M,1.822,0.588,1
+Zambia,zmb,30-49,2018,F,F,1.822,0.588,1
+Zambia,zmb,30-49,2019,S,M,1.822,0.588,2
+Zambia,zmb,30-49,2019,S,F,1.822,0.588,1
+Zambia,zmb,30-49,2015,S,F,1.846,0.583,2
+Zambia,zmb,30-49,2015,F,M,1.846,0.583,2
+Zambia,zmb,30-49,2017,S,M,1.786,0.588,3
+Zambia,zmb,30-49,2017,S,F,1.786,0.588,1
+Zambia,zmb,30-49,2017,F,M,1.786,0.588,1
+Zambia,zmb,30-49,2016,S,M,1.783,0.586,1
+Zambia,zmb,30-49,2016,S,F,1.783,0.586,1
+Zambia,zmb,30-49,2016,F,M,1.783,0.586,1
+Zambia,zmb,0-8,2018,S,M,1.822,0.588,1
+Zambia,zmb,0-8,2018,F,M,1.822,0.588,2
+Zambia,zmb,0-8,2015,F,M,1.846,0.583,1
+Zambia,zmb,0-8,2017,S,F,1.786,0.588,1
+Zambia,zmb,0-8,2017,F,F,1.786,0.588,1
+Afghanistan,afg,18-29,2018,S,M,3.585,0.498,32
+Afghanistan,afg,18-29,2018,S,F,3.585,0.498,20
+Afghanistan,afg,18-29,2018,F,M,3.585,0.498,49
+Afghanistan,afg,18-29,2018,F,F,3.585,0.498,44
+Afghanistan,afg,18-29,2019,S,M,3.585,0.498,27
+Afghanistan,afg,18-29,2019,S,F,3.585,0.498,12
+Afghanistan,afg,18-29,2019,F,M,3.585,0.498,14
+Afghanistan,afg,18-29,2019,F,F,3.585,0.498,15
+Afghanistan,afg,18-29,2015,S,M,3.427,0.493,18
+Afghanistan,afg,18-29,2015,S,F,3.427,0.493,8
+Afghanistan,afg,18-29,2015,F,M,3.427,0.493,26
+Afghanistan,afg,18-29,2015,F,F,3.427,0.493,35
+Afghanistan,afg,18-29,2017,S,M,3.567,0.498,44
+Afghanistan,afg,18-29,2017,S,F,3.567,0.498,18
+Afghanistan,afg,18-29,2017,F,M,3.567,0.498,43
+Afghanistan,afg,18-29,2017,F,F,3.567,0.498,44
+Afghanistan,afg,18-29,2016,S,M,3.538,0.494,67
+Afghanistan,afg,18-29,2016,S,F,3.538,0.494,19
+Afghanistan,afg,18-29,2016,F,M,3.538,0.494,66
+Afghanistan,afg,18-29,2016,F,F,3.538,0.494,61
+Afghanistan,afg,70+,2018,F,M,3.585,0.498,2
+Afghanistan,afg,70+,2018,F,F,3.585,0.498,4
+Afghanistan,afg,70+,2019,F,M,3.585,0.498,1
+Afghanistan,afg,70+,2015,F,M,3.427,0.493,1
+Afghanistan,afg,70+,2015,F,F,3.427,0.493,1
+Afghanistan,afg,70+,2017,F,M,3.567,0.498,3
+Afghanistan,afg,70+,2017,F,F,3.567,0.498,1
+Afghanistan,afg,70+,2016,F,M,3.538,0.494,6
+Afghanistan,afg,70+,2016,F,F,3.538,0.494,2
+Afghanistan,afg,30-49,2018,S,M,3.585,0.498,19
+Afghanistan,afg,30-49,2018,S,F,3.585,0.498,14
+Afghanistan,afg,30-49,2018,F,M,3.585,0.498,81
+Afghanistan,afg,30-49,2018,F,F,3.585,0.498,58
+Afghanistan,afg,30-49,2019,S,M,3.585,0.498,15
+Afghanistan,afg,30-49,2019,S,F,3.585,0.498,10
+Afghanistan,afg,30-49,2019,F,M,3.585,0.498,50
+Afghanistan,afg,30-49,2019,F,F,3.585,0.498,41
+Afghanistan,afg,30-49,2015,S,M,3.427,0.493,25
+Afghanistan,afg,30-49,2015,S,F,3.427,0.493,13
+Afghanistan,afg,30-49,2015,F,M,3.427,0.493,64
+Afghanistan,afg,30-49,2015,F,F,3.427,0.493,54
+Afghanistan,afg,30-49,2017,S,M,3.567,0.498,24
+Afghanistan,afg,30-49,2017,S,F,3.567,0.498,21
+Afghanistan,afg,30-49,2017,F,M,3.567,0.498,112
+Afghanistan,afg,30-49,2017,F,F,3.567,0.498,105
+Afghanistan,afg,30-49,2016,S,M,3.538,0.494,41
+Afghanistan,afg,30-49,2016,S,F,3.538,0.494,25
+Afghanistan,afg,30-49,2016,F,M,3.538,0.494,137
+Afghanistan,afg,30-49,2016,F,F,3.538,0.494,123
+Afghanistan,afg,9-17,2018,S,M,3.585,0.498,11
+Afghanistan,afg,9-17,2018,S,F,3.585,0.498,6
+Afghanistan,afg,9-17,2018,F,M,3.585,0.498,69
+Afghanistan,afg,9-17,2018,F,F,3.585,0.498,43
+Afghanistan,afg,9-17,2019,S,M,3.585,0.498,6
+Afghanistan,afg,9-17,2019,S,F,3.585,0.498,6
+Afghanistan,afg,9-17,2019,F,M,3.585,0.498,35
+Afghanistan,afg,9-17,2019,F,F,3.585,0.498,18
+Afghanistan,afg,9-17,2015,S,M,3.427,0.493,17
+Afghanistan,afg,9-17,2015,S,F,3.427,0.493,6
+Afghanistan,afg,9-17,2015,F,M,3.427,0.493,62
+Afghanistan,afg,9-17,2015,F,F,3.427,0.493,37
+Afghanistan,afg,9-17,2017,S,M,3.567,0.498,30
+Afghanistan,afg,9-17,2017,S,F,3.567,0.498,11
+Afghanistan,afg,9-17,2017,F,M,3.567,0.498,85
+Afghanistan,afg,9-17,2017,F,F,3.567,0.498,55
+Afghanistan,afg,9-17,2016,S,M,3.538,0.494,27
+Afghanistan,afg,9-17,2016,S,F,3.538,0.494,14
+Afghanistan,afg,9-17,2016,F,M,3.538,0.494,108
+Afghanistan,afg,9-17,2016,F,F,3.538,0.494,70
+Afghanistan,afg,50-69,2018,F,M,3.585,0.498,12
+Afghanistan,afg,50-69,2018,F,F,3.585,0.498,11
+Afghanistan,afg,50-69,2019,F,M,3.585,0.498,4
+Afghanistan,afg,50-69,2019,F,F,3.585,0.498,5
+Afghanistan,afg,50-69,2015,F,M,3.427,0.493,10
+Afghanistan,afg,50-69,2015,F,F,3.427,0.493,12
+Afghanistan,afg,50-69,2017,F,M,3.567,0.498,17
+Afghanistan,afg,50-69,2017,F,F,3.567,0.498,14
+Afghanistan,afg,50-69,2016,S,F,3.538,0.494,1
+Afghanistan,afg,50-69,2016,F,M,3.538,0.494,14
+Afghanistan,afg,50-69,2016,F,F,3.538,0.494,15
+Afghanistan,afg,0-8,2018,S,M,3.585,0.498,3
+Afghanistan,afg,0-8,2018,S,F,3.585,0.498,1
+Afghanistan,afg,0-8,2018,F,M,3.585,0.498,72
+Afghanistan,afg,0-8,2018,F,F,3.585,0.498,31
+Afghanistan,afg,0-8,2019,S,M,3.585,0.498,1
+Afghanistan,afg,0-8,2019,S,F,3.585,0.498,3
+Afghanistan,afg,0-8,2019,F,M,3.585,0.498,35
+Afghanistan,afg,0-8,2019,F,F,3.585,0.498,20
+Afghanistan,afg,0-8,2015,S,M,3.427,0.493,3
+Afghanistan,afg,0-8,2015,F,M,3.427,0.493,65
+Afghanistan,afg,0-8,2015,F,F,3.427,0.493,35
+Afghanistan,afg,0-8,2017,S,M,3.567,0.498,7
+Afghanistan,afg,0-8,2017,S,F,3.567,0.498,1
+Afghanistan,afg,0-8,2017,F,M,3.567,0.498,114
+Afghanistan,afg,0-8,2017,F,F,3.567,0.498,52
+Afghanistan,afg,0-8,2016,S,M,3.538,0.494,6
+Afghanistan,afg,0-8,2016,S,F,3.538,0.494,1
+Afghanistan,afg,0-8,2016,F,M,3.538,0.494,113
+Afghanistan,afg,0-8,2016,F,F,3.538,0.494,57
+Iraq,irq,18-29,2018,S,M,3.425,0.685,31
+Iraq,irq,18-29,2018,S,F,3.425,0.685,12
+Iraq,irq,18-29,2018,F,M,3.425,0.685,12
+Iraq,irq,18-29,2018,F,F,3.425,0.685,5
+Iraq,irq,18-29,2019,S,M,3.425,0.685,12
+Iraq,irq,18-29,2019,S,F,3.425,0.685,11
+Iraq,irq,18-29,2019,F,M,3.425,0.685,4
+Iraq,irq,18-29,2019,F,F,3.425,0.685,2
+Iraq,irq,18-29,2015,S,M,3.444,0.668,23
+Iraq,irq,18-29,2015,S,F,3.444,0.668,12
+Iraq,irq,18-29,2015,F,M,3.444,0.668,9
+Iraq,irq,18-29,2015,F,F,3.444,0.668,8
+Iraq,irq,18-29,2017,S,M,3.556,0.685,36
+Iraq,irq,18-29,2017,S,F,3.556,0.685,10
+Iraq,irq,18-29,2017,F,M,3.556,0.685,9
+Iraq,irq,18-29,2017,F,F,3.556,0.685,6
+Iraq,irq,18-29,2016,S,M,3.57,0.672,37
+Iraq,irq,18-29,2016,S,F,3.57,0.672,33
+Iraq,irq,18-29,2016,F,M,3.57,0.672,10
+Iraq,irq,18-29,2016,F,F,3.57,0.672,12
+Iraq,irq,70+,2018,F,M,3.425,0.685,2
+Iraq,irq,70+,2018,F,F,3.425,0.685,1
+Iraq,irq,70+,2019,F,M,3.425,0.685,2
+Iraq,irq,70+,2019,F,F,3.425,0.685,1
+Iraq,irq,70+,2015,F,M,3.444,0.668,3
+Iraq,irq,70+,2015,F,F,3.444,0.668,1
+Iraq,irq,70+,2017,F,M,3.556,0.685,1
+Iraq,irq,70+,2016,F,M,3.57,0.672,1
+Iraq,irq,9-17,2018,S,M,3.425,0.685,12
+Iraq,irq,9-17,2018,S,F,3.425,0.685,8
+Iraq,irq,9-17,2018,F,M,3.425,0.685,18
+Iraq,irq,9-17,2018,F,F,3.425,0.685,15
+Iraq,irq,9-17,2019,S,M,3.425,0.685,5
+Iraq,irq,9-17,2019,S,F,3.425,0.685,5
+Iraq,irq,9-17,2019,F,M,3.425,0.685,14
+Iraq,irq,9-17,2019,F,F,3.425,0.685,6
+Iraq,irq,9-17,2015,S,M,3.444,0.668,11
+Iraq,irq,9-17,2015,S,F,3.444,0.668,5
+Iraq,irq,9-17,2015,F,M,3.444,0.668,16
+Iraq,irq,9-17,2015,F,F,3.444,0.668,7
+Iraq,irq,9-17,2017,S,M,3.556,0.685,21
+Iraq,irq,9-17,2017,S,F,3.556,0.685,8
+Iraq,irq,9-17,2017,F,M,3.556,0.685,30
+Iraq,irq,9-17,2017,F,F,3.556,0.685,14
+Iraq,irq,9-17,2016,S,M,3.57,0.672,17
+Iraq,irq,9-17,2016,S,F,3.57,0.672,8
+Iraq,irq,9-17,2016,F,M,3.57,0.672,50
+Iraq,irq,9-17,2016,F,F,3.57,0.672,24
+Iraq,irq,30-49,2018,S,M,3.425,0.685,17
+Iraq,irq,30-49,2018,S,F,3.425,0.685,9
+Iraq,irq,30-49,2018,F,M,3.425,0.685,21
+Iraq,irq,30-49,2018,F,F,3.425,0.685,21
+Iraq,irq,30-49,2019,S,M,3.425,0.685,13
+Iraq,irq,30-49,2019,S,F,3.425,0.685,10
+Iraq,irq,30-49,2019,F,M,3.425,0.685,8
+Iraq,irq,30-49,2019,F,F,3.425,0.685,9
+Iraq,irq,30-49,2015,S,M,3.444,0.668,16
+Iraq,irq,30-49,2015,S,F,3.444,0.668,12
+Iraq,irq,30-49,2015,F,M,3.444,0.668,21
+Iraq,irq,30-49,2015,F,F,3.444,0.668,18
+Iraq,irq,30-49,2017,S,M,3.556,0.685,21
+Iraq,irq,30-49,2017,S,F,3.556,0.685,15
+Iraq,irq,30-49,2017,F,M,3.556,0.685,32
+Iraq,irq,30-49,2017,F,F,3.556,0.685,22
+Iraq,irq,30-49,2016,S,M,3.57,0.672,42
+Iraq,irq,30-49,2016,S,F,3.57,0.672,14
+Iraq,irq,30-49,2016,F,M,3.57,0.672,42
+Iraq,irq,30-49,2016,F,F,3.57,0.672,37
+Iraq,irq,50-69,2018,F,M,3.425,0.685,2
+Iraq,irq,50-69,2018,F,F,3.425,0.685,4
+Iraq,irq,50-69,2019,S,M,3.425,0.685,1
+Iraq,irq,50-69,2019,F,M,3.425,0.685,3
+Iraq,irq,50-69,2019,F,F,3.425,0.685,1
+Iraq,irq,50-69,2015,F,M,3.444,0.668,2
+Iraq,irq,50-69,2015,F,F,3.444,0.668,1
+Iraq,irq,50-69,2017,F,M,3.556,0.685,1
+Iraq,irq,50-69,2017,F,F,3.556,0.685,1
+Iraq,irq,50-69,2016,S,M,3.57,0.672,1
+Iraq,irq,50-69,2016,F,M,3.57,0.672,6
+Iraq,irq,50-69,2016,F,F,3.57,0.672,5
+Iraq,irq,0-8,2018,S,M,3.425,0.685,4
+Iraq,irq,0-8,2018,S,F,3.425,0.685,2
+Iraq,irq,0-8,2018,F,M,3.425,0.685,28
+Iraq,irq,0-8,2018,F,F,3.425,0.685,17
+Iraq,irq,0-8,2019,S,M,3.425,0.685,2
+Iraq,irq,0-8,2019,S,F,3.425,0.685,1
+Iraq,irq,0-8,2019,F,M,3.425,0.685,11
+Iraq,irq,0-8,2019,F,F,3.425,0.685,2
+Iraq,irq,0-8,2015,S,M,3.444,0.668,3
+Iraq,irq,0-8,2015,F,M,3.444,0.668,24
+Iraq,irq,0-8,2015,F,F,3.444,0.668,7
+Iraq,irq,0-8,2017,S,M,3.556,0.685,4
+Iraq,irq,0-8,2017,S,F,3.556,0.685,4
+Iraq,irq,0-8,2017,F,M,3.556,0.685,22
+Iraq,irq,0-8,2017,F,F,3.556,0.685,13
+Iraq,irq,0-8,2016,S,M,3.57,0.672,8
+Iraq,irq,0-8,2016,S,F,3.57,0.672,4
+Iraq,irq,0-8,2016,F,M,3.57,0.672,28
+Iraq,irq,0-8,2016,F,F,3.57,0.672,11
+Nigeria,nga,18-29,2018,S,M,2.873,0.532,4
+Nigeria,nga,18-29,2018,S,F,2.873,0.532,6
+Nigeria,nga,18-29,2018,F,M,2.873,0.532,2
+Nigeria,nga,18-29,2018,F,F,2.873,0.532,2
+Nigeria,nga,18-29,2019,S,M,2.873,0.532,2
+Nigeria,nga,18-29,2015,S,M,2.91,0.527,2
+Nigeria,nga,18-29,2015,S,F,2.91,0.527,5
+Nigeria,nga,18-29,2015,F,M,2.91,0.527,2
+Nigeria,nga,18-29,2015,F,F,2.91,0.527,1
+Nigeria,nga,18-29,2017,S,M,2.849,0.532,9
+Nigeria,nga,18-29,2017,S,F,2.849,0.532,7
+Nigeria,nga,18-29,2016,S,M,2.877,0.53,11
+Nigeria,nga,18-29,2016,S,F,2.877,0.53,7
+Nigeria,nga,18-29,2016,F,M,2.877,0.53,3
+Nigeria,nga,18-29,2016,F,F,2.877,0.53,3
+Nigeria,nga,70+,2016,F,F,2.877,0.53,1
+Nigeria,nga,9-17,2018,F,M,2.873,0.532,8
+Nigeria,nga,9-17,2018,F,F,2.873,0.532,4
+Nigeria,nga,9-17,2019,S,M,2.873,0.532,3
+Nigeria,nga,9-17,2019,F,M,2.873,0.532,1
+Nigeria,nga,9-17,2015,S,F,2.91,0.527,1
+Nigeria,nga,9-17,2015,F,M,2.91,0.527,2
+Nigeria,nga,9-17,2015,F,F,2.91,0.527,2
+Nigeria,nga,9-17,2017,S,M,2.849,0.532,3
+Nigeria,nga,9-17,2017,S,F,2.849,0.532,3
+Nigeria,nga,9-17,2017,F,M,2.849,0.532,1
+Nigeria,nga,9-17,2016,S,M,2.877,0.53,2
+Nigeria,nga,9-17,2016,S,F,2.877,0.53,2
+Nigeria,nga,9-17,2016,F,M,2.877,0.53,12
+Nigeria,nga,9-17,2016,F,F,2.877,0.53,5
+Nigeria,nga,30-49,2018,S,M,2.873,0.532,5
+Nigeria,nga,30-49,2018,F,M,2.873,0.532,6
+Nigeria,nga,30-49,2018,F,F,2.873,0.532,6
+Nigeria,nga,30-49,2019,S,M,2.873,0.532,4
+Nigeria,nga,30-49,2019,S,F,2.873,0.532,3
+Nigeria,nga,30-49,2019,F,M,2.873,0.532,1
+Nigeria,nga,30-49,2019,F,F,2.873,0.532,1
+Nigeria,nga,30-49,2015,S,M,2.91,0.527,3
+Nigeria,nga,30-49,2015,F,M,2.91,0.527,3
+Nigeria,nga,30-49,2015,F,F,2.91,0.527,4
+Nigeria,nga,30-49,2017,S,M,2.849,0.532,10
+Nigeria,nga,30-49,2017,S,F,2.849,0.532,2
+Nigeria,nga,30-49,2017,F,M,2.849,0.532,3
+Nigeria,nga,30-49,2017,F,F,2.849,0.532,3
+Nigeria,nga,30-49,2016,S,M,2.877,0.53,10
+Nigeria,nga,30-49,2016,F,M,2.877,0.53,7
+Nigeria,nga,30-49,2016,F,F,2.877,0.53,5
+Nigeria,nga,50-69,2018,F,F,2.873,0.532,2
+Nigeria,nga,50-69,2015,S,M,2.91,0.527,1
+Nigeria,nga,50-69,2017,F,M,2.849,0.532,1
+Nigeria,nga,50-69,2017,F,F,2.849,0.532,1
+Nigeria,nga,0-8,2018,S,F,2.873,0.532,2
+Nigeria,nga,0-8,2018,F,M,2.873,0.532,4
+Nigeria,nga,0-8,2018,F,F,2.873,0.532,5
+Nigeria,nga,0-8,2019,S,F,2.873,0.532,1
+Nigeria,nga,0-8,2017,S,M,2.849,0.532,3
+Nigeria,nga,0-8,2017,S,F,2.849,0.532,1
+Nigeria,nga,0-8,2016,S,M,2.877,0.53,1
+Nigeria,nga,0-8,2016,F,M,2.877,0.53,6
+Nigeria,nga,0-8,2016,F,F,2.877,0.53,3
+Jordan,jor,18-29,2018,S,M,2.104,0.735,10
+Jordan,jor,18-29,2018,S,F,2.104,0.735,8
+Jordan,jor,18-29,2018,F,M,2.104,0.735,12
+Jordan,jor,18-29,2018,F,F,2.104,0.735,12
+Jordan,jor,18-29,2019,S,M,2.104,0.735,6
+Jordan,jor,18-29,2019,S,F,2.104,0.735,1
+Jordan,jor,18-29,2019,F,M,2.104,0.735,6
+Jordan,jor,18-29,2019,F,F,2.104,0.735,1
+Jordan,jor,18-29,2015,S,M,1.944,0.733,18
+Jordan,jor,18-29,2015,S,F,1.944,0.733,11
+Jordan,jor,18-29,2015,F,M,1.944,0.733,6
+Jordan,jor,18-29,2015,F,F,1.944,0.733,6
+Jordan,jor,18-29,2017,S,M,2.087,0.735,20
+Jordan,jor,18-29,2017,S,F,2.087,0.735,9
+Jordan,jor,18-29,2017,F,M,2.087,0.735,15
+Jordan,jor,18-29,2017,F,F,2.087,0.735,13
+Jordan,jor,18-29,2016,S,M,2.127,0.735,26
+Jordan,jor,18-29,2016,S,F,2.127,0.735,15
+Jordan,jor,18-29,2016,F,M,2.127,0.735,14
+Jordan,jor,18-29,2016,F,F,2.127,0.735,16
+Jordan,jor,70+,2018,F,M,2.104,0.735,1
+Jordan,jor,70+,2018,F,F,2.104,0.735,1
+Jordan,jor,70+,2019,F,F,2.104,0.735,1
+Jordan,jor,70+,2015,F,F,1.944,0.733,1
+Jordan,jor,70+,2016,F,M,2.127,0.735,3
+Jordan,jor,70+,2016,F,F,2.127,0.735,3
+Jordan,jor,30-49,2018,S,M,2.104,0.735,9
+Jordan,jor,30-49,2018,S,F,2.104,0.735,5
+Jordan,jor,30-49,2018,F,M,2.104,0.735,27
+Jordan,jor,30-49,2018,F,F,2.104,0.735,28
+Jordan,jor,30-49,2019,S,M,2.104,0.735,4
+Jordan,jor,30-49,2019,S,F,2.104,0.735,6
+Jordan,jor,30-49,2019,F,M,2.104,0.735,17
+Jordan,jor,30-49,2019,F,F,2.104,0.735,14
+Jordan,jor,30-49,2015,S,M,1.944,0.733,15
+Jordan,jor,30-49,2015,S,F,1.944,0.733,4
+Jordan,jor,30-49,2015,F,M,1.944,0.733,17
+Jordan,jor,30-49,2015,F,F,1.944,0.733,15
+Jordan,jor,30-49,2017,S,M,2.087,0.735,11
+Jordan,jor,30-49,2017,S,F,2.087,0.735,7
+Jordan,jor,30-49,2017,F,M,2.087,0.735,37
+Jordan,jor,30-49,2017,F,F,2.087,0.735,31
+Jordan,jor,30-49,2016,S,M,2.127,0.735,25
+Jordan,jor,30-49,2016,S,F,2.127,0.735,12
+Jordan,jor,30-49,2016,F,M,2.127,0.735,49
+Jordan,jor,30-49,2016,F,F,2.127,0.735,38
+Jordan,jor,9-17,2018,S,M,2.104,0.735,4
+Jordan,jor,9-17,2018,S,F,2.104,0.735,5
+Jordan,jor,9-17,2018,F,M,2.104,0.735,33
+Jordan,jor,9-17,2018,F,F,2.104,0.735,12
+Jordan,jor,9-17,2019,S,M,2.104,0.735,4
+Jordan,jor,9-17,2019,S,F,2.104,0.735,3
+Jordan,jor,9-17,2019,F,M,2.104,0.735,13
+Jordan,jor,9-17,2019,F,F,2.104,0.735,5
+Jordan,jor,9-17,2015,S,M,1.944,0.733,7
+Jordan,jor,9-17,2015,S,F,1.944,0.733,6
+Jordan,jor,9-17,2015,F,M,1.944,0.733,22
+Jordan,jor,9-17,2015,F,F,1.944,0.733,7
+Jordan,jor,9-17,2017,S,M,2.087,0.735,9
+Jordan,jor,9-17,2017,S,F,2.087,0.735,8
+Jordan,jor,9-17,2017,F,M,2.087,0.735,36
+Jordan,jor,9-17,2017,F,F,2.087,0.735,13
+Jordan,jor,9-17,2016,S,M,2.127,0.735,7
+Jordan,jor,9-17,2016,S,F,2.127,0.735,6
+Jordan,jor,9-17,2016,F,M,2.127,0.735,44
+Jordan,jor,9-17,2016,F,F,2.127,0.735,20
+Jordan,jor,50-69,2018,S,M,2.104,0.735,1
+Jordan,jor,50-69,2018,F,M,2.104,0.735,5
+Jordan,jor,50-69,2018,F,F,2.104,0.735,5
+Jordan,jor,50-69,2019,F,M,2.104,0.735,3
+Jordan,jor,50-69,2019,F,F,2.104,0.735,3
+Jordan,jor,50-69,2015,S,F,1.944,0.733,1
+Jordan,jor,50-69,2015,F,M,1.944,0.733,1
+Jordan,jor,50-69,2015,F,F,1.944,0.733,2
+Jordan,jor,50-69,2017,F,M,2.087,0.735,5
+Jordan,jor,50-69,2017,F,F,2.087,0.735,7
+Jordan,jor,50-69,2016,S,F,2.127,0.735,1
+Jordan,jor,50-69,2016,F,M,2.127,0.735,11
+Jordan,jor,50-69,2016,F,F,2.127,0.735,10
+Jordan,jor,0-8,2018,S,M,2.104,0.735,2
+Jordan,jor,0-8,2018,F,M,2.104,0.735,27
+Jordan,jor,0-8,2018,F,F,2.104,0.735,19
+Jordan,jor,0-8,2019,S,M,2.104,0.735,1
+Jordan,jor,0-8,2019,F,M,2.104,0.735,15
+Jordan,jor,0-8,2019,F,F,2.104,0.735,12
+Jordan,jor,0-8,2015,S,M,1.944,0.733,2
+Jordan,jor,0-8,2015,S,F,1.944,0.733,2
+Jordan,jor,0-8,2015,F,M,1.944,0.733,16
+Jordan,jor,0-8,2015,F,F,1.944,0.733,9
+Jordan,jor,0-8,2017,S,M,2.087,0.735,2
+Jordan,jor,0-8,2017,S,F,2.087,0.735,2
+Jordan,jor,0-8,2017,F,M,2.087,0.735,27
+Jordan,jor,0-8,2017,F,F,2.087,0.735,11
+Jordan,jor,0-8,2016,S,M,2.127,0.735,4
+Jordan,jor,0-8,2016,S,F,2.127,0.735,1
+Jordan,jor,0-8,2016,F,M,2.127,0.735,44
+Jordan,jor,0-8,2016,F,F,2.127,0.735,13
+Egypt,egy,18-29,2018,S,M,2.632,0.696,21
+Egypt,egy,18-29,2018,S,F,2.632,0.696,10
+Egypt,egy,18-29,2018,F,M,2.632,0.696,4
+Egypt,egy,18-29,2018,F,F,2.632,0.696,3
+Egypt,egy,18-29,2019,S,M,2.632,0.696,11
+Egypt,egy,18-29,2019,S,F,2.632,0.696,9
+Egypt,egy,18-29,2019,F,M,2.632,0.696,2
+Egypt,egy,18-29,2019,F,F,2.632,0.696,3
+Egypt,egy,18-29,2015,S,M,2.382,0.691,16
+Egypt,egy,18-29,2015,S,F,2.382,0.691,7
+Egypt,egy,18-29,2015,F,M,2.382,0.691,2
+Egypt,egy,18-29,2017,S,M,2.583,0.696,25
+Egypt,egy,18-29,2017,S,F,2.583,0.696,9
+Egypt,egy,18-29,2017,F,M,2.583,0.696,5
+Egypt,egy,18-29,2017,F,F,2.583,0.696,6
+Egypt,egy,18-29,2016,S,M,2.574,0.694,21
+Egypt,egy,18-29,2016,S,F,2.574,0.694,14
+Egypt,egy,18-29,2016,F,M,2.574,0.694,11
+Egypt,egy,18-29,2016,F,F,2.574,0.694,8
+Egypt,egy,70+,2019,F,M,2.632,0.696,1
+Egypt,egy,70+,2016,F,M,2.574,0.694,1
+Egypt,egy,70+,2016,F,F,2.574,0.694,1
+Egypt,egy,0-8,2018,S,M,2.632,0.696,2
+Egypt,egy,0-8,2018,S,F,2.632,0.696,3
+Egypt,egy,0-8,2018,F,M,2.632,0.696,10
+Egypt,egy,0-8,2018,F,F,2.632,0.696,2
+Egypt,egy,0-8,2019,S,M,2.632,0.696,3
+Egypt,egy,0-8,2019,F,M,2.632,0.696,7
+Egypt,egy,0-8,2015,S,M,2.382,0.691,1
+Egypt,egy,0-8,2015,S,F,2.382,0.691,1
+Egypt,egy,0-8,2015,F,M,2.382,0.691,11
+Egypt,egy,0-8,2015,F,F,2.382,0.691,3
+Egypt,egy,0-8,2017,S,M,2.583,0.696,3
+Egypt,egy,0-8,2017,S,F,2.583,0.696,2
+Egypt,egy,0-8,2017,F,M,2.583,0.696,14
+Egypt,egy,0-8,2017,F,F,2.583,0.696,1
+Egypt,egy,0-8,2016,S,M,2.574,0.694,3
+Egypt,egy,0-8,2016,S,F,2.574,0.694,1
+Egypt,egy,0-8,2016,F,M,2.574,0.694,9
+Egypt,egy,0-8,2016,F,F,2.574,0.694,10
+Egypt,egy,9-17,2018,S,M,2.632,0.696,6
+Egypt,egy,9-17,2018,S,F,2.632,0.696,4
+Egypt,egy,9-17,2018,F,M,2.632,0.696,6
+Egypt,egy,9-17,2018,F,F,2.632,0.696,5
+Egypt,egy,9-17,2019,S,M,2.632,0.696,6
+Egypt,egy,9-17,2019,S,F,2.632,0.696,2
+Egypt,egy,9-17,2019,F,M,2.632,0.696,2
+Egypt,egy,9-17,2019,F,F,2.632,0.696,1
+Egypt,egy,9-17,2015,S,M,2.382,0.691,6
+Egypt,egy,9-17,2015,S,F,2.382,0.691,3
+Egypt,egy,9-17,2015,F,M,2.382,0.691,5
+Egypt,egy,9-17,2015,F,F,2.382,0.691,5
+Egypt,egy,9-17,2017,S,M,2.583,0.696,10
+Egypt,egy,9-17,2017,S,F,2.583,0.696,2
+Egypt,egy,9-17,2017,F,M,2.583,0.696,8
+Egypt,egy,9-17,2017,F,F,2.583,0.696,6
+Egypt,egy,9-17,2016,S,M,2.574,0.694,14
+Egypt,egy,9-17,2016,S,F,2.574,0.694,5
+Egypt,egy,9-17,2016,F,M,2.574,0.694,10
+Egypt,egy,9-17,2016,F,F,2.574,0.694,13
+Egypt,egy,30-49,2018,S,M,2.632,0.696,13
+Egypt,egy,30-49,2018,S,F,2.632,0.696,4
+Egypt,egy,30-49,2018,F,M,2.632,0.696,8
+Egypt,egy,30-49,2018,F,F,2.632,0.696,9
+Egypt,egy,30-49,2019,S,M,2.632,0.696,6
+Egypt,egy,30-49,2019,S,F,2.632,0.696,2
+Egypt,egy,30-49,2019,F,M,2.632,0.696,4
+Egypt,egy,30-49,2019,F,F,2.632,0.696,1
+Egypt,egy,30-49,2015,S,M,2.382,0.691,9
+Egypt,egy,30-49,2015,S,F,2.382,0.691,4
+Egypt,egy,30-49,2015,F,M,2.382,0.691,9
+Egypt,egy,30-49,2015,F,F,2.382,0.691,9
+Egypt,egy,30-49,2017,S,M,2.583,0.696,17
+Egypt,egy,30-49,2017,S,F,2.583,0.696,9
+Egypt,egy,30-49,2017,F,M,2.583,0.696,11
+Egypt,egy,30-49,2017,F,F,2.583,0.696,8
+Egypt,egy,30-49,2016,S,M,2.574,0.694,26
+Egypt,egy,30-49,2016,S,F,2.574,0.694,8
+Egypt,egy,30-49,2016,F,M,2.574,0.694,11
+Egypt,egy,30-49,2016,F,F,2.574,0.694,9
+Egypt,egy,50-69,2018,S,F,2.632,0.696,1
+Egypt,egy,50-69,2018,F,M,2.632,0.696,1
+Egypt,egy,50-69,2018,F,F,2.632,0.696,1
+Egypt,egy,50-69,2019,F,F,2.632,0.696,1
+Egypt,egy,50-69,2015,F,M,2.382,0.691,1
+Egypt,egy,50-69,2015,F,F,2.382,0.691,3
+Egypt,egy,50-69,2017,F,F,2.583,0.696,1
+Egypt,egy,50-69,2016,S,F,2.574,0.694,1
+Egypt,egy,50-69,2016,F,M,2.574,0.694,1
+Egypt,egy,50-69,2016,F,F,2.574,0.694,1
+Syria,syr,18-29,2018,S,M,3.0,0.536,49
+Syria,syr,18-29,2018,S,F,3.0,0.536,34
+Syria,syr,18-29,2018,F,M,3.0,0.536,46
+Syria,syr,18-29,2018,F,F,3.0,0.536,28
+Syria,syr,18-29,2019,S,M,3.0,0.536,36
+Syria,syr,18-29,2019,S,F,3.0,0.536,10
+Syria,syr,18-29,2019,F,M,3.0,0.536,26
+Syria,syr,18-29,2019,F,F,3.0,0.536,20
+Syria,syr,18-29,2015,S,M,3.64,0.538,35
+Syria,syr,18-29,2015,S,F,3.64,0.538,17
+Syria,syr,18-29,2015,F,M,3.64,0.538,33
+Syria,syr,18-29,2015,F,F,3.64,0.538,26
+Syria,syr,18-29,2017,S,M,3.81,0.536,59
+Syria,syr,18-29,2017,S,F,3.81,0.536,33
+Syria,syr,18-29,2017,F,M,3.81,0.536,63
+Syria,syr,18-29,2017,F,F,3.81,0.536,53
+Syria,syr,18-29,2016,S,M,3.8,0.536,71
+Syria,syr,18-29,2016,S,F,3.8,0.536,44
+Syria,syr,18-29,2016,F,M,3.8,0.536,76
+Syria,syr,18-29,2016,F,F,3.8,0.536,61
+Syria,syr,70+,2018,F,M,3.0,0.536,2
+Syria,syr,70+,2018,F,F,3.0,0.536,3
+Syria,syr,70+,2019,F,M,3.0,0.536,1
+Syria,syr,70+,2019,F,F,3.0,0.536,3
+Syria,syr,70+,2015,F,M,3.64,0.538,2
+Syria,syr,70+,2015,F,F,3.64,0.538,3
+Syria,syr,70+,2017,F,M,3.81,0.536,4
+Syria,syr,70+,2017,F,F,3.81,0.536,1
+Syria,syr,70+,2016,F,M,3.8,0.536,5
+Syria,syr,70+,2016,F,F,3.8,0.536,3
+Syria,syr,30-49,2018,S,M,3.0,0.536,29
+Syria,syr,30-49,2018,S,F,3.0,0.536,17
+Syria,syr,30-49,2018,F,M,3.0,0.536,108
+Syria,syr,30-49,2018,F,F,3.0,0.536,106
+Syria,syr,30-49,2019,S,M,3.0,0.536,12
+Syria,syr,30-49,2019,S,F,3.0,0.536,11
+Syria,syr,30-49,2019,F,M,3.0,0.536,52
+Syria,syr,30-49,2019,F,F,3.0,0.536,46
+Syria,syr,30-49,2015,S,M,3.64,0.538,21
+Syria,syr,30-49,2015,S,F,3.64,0.538,11
+Syria,syr,30-49,2015,F,M,3.64,0.538,76
+Syria,syr,30-49,2015,F,F,3.64,0.538,66
+Syria,syr,30-49,2017,S,M,3.81,0.536,40
+Syria,syr,30-49,2017,S,F,3.81,0.536,32
+Syria,syr,30-49,2017,F,M,3.81,0.536,131
+Syria,syr,30-49,2017,F,F,3.81,0.536,113
+Syria,syr,30-49,2016,S,M,3.8,0.536,62
+Syria,syr,30-49,2016,S,F,3.8,0.536,25
+Syria,syr,30-49,2016,F,M,3.8,0.536,174
+Syria,syr,30-49,2016,F,F,3.8,0.536,143
+Syria,syr,9-17,2018,S,M,3.0,0.536,19
+Syria,syr,9-17,2018,S,F,3.0,0.536,9
+Syria,syr,9-17,2018,F,M,3.0,0.536,110
+Syria,syr,9-17,2018,F,F,3.0,0.536,58
+Syria,syr,9-17,2019,S,M,3.0,0.536,11
+Syria,syr,9-17,2019,S,F,3.0,0.536,8
+Syria,syr,9-17,2019,F,M,3.0,0.536,48
+Syria,syr,9-17,2019,F,F,3.0,0.536,33
+Syria,syr,9-17,2015,S,M,3.64,0.538,16
+Syria,syr,9-17,2015,S,F,3.64,0.538,6
+Syria,syr,9-17,2015,F,M,3.64,0.538,84
+Syria,syr,9-17,2015,F,F,3.64,0.538,44
+Syria,syr,9-17,2017,S,M,3.81,0.536,24
+Syria,syr,9-17,2017,S,F,3.81,0.536,18
+Syria,syr,9-17,2017,F,M,3.81,0.536,120
+Syria,syr,9-17,2017,F,F,3.81,0.536,69
+Syria,syr,9-17,2016,S,M,3.8,0.536,35
+Syria,syr,9-17,2016,S,F,3.8,0.536,16
+Syria,syr,9-17,2016,F,M,3.8,0.536,156
+Syria,syr,9-17,2016,F,F,3.8,0.536,83
+Syria,syr,50-69,2018,F,M,3.0,0.536,13
+Syria,syr,50-69,2018,F,F,3.0,0.536,22
+Syria,syr,50-69,2019,F,M,3.0,0.536,8
+Syria,syr,50-69,2019,F,F,3.0,0.536,6
+Syria,syr,50-69,2015,F,M,3.64,0.538,9
+Syria,syr,50-69,2015,F,F,3.64,0.538,10
+Syria,syr,50-69,2017,S,M,3.81,0.536,1
+Syria,syr,50-69,2017,F,M,3.81,0.536,22
+Syria,syr,50-69,2017,F,F,3.81,0.536,23
+Syria,syr,50-69,2016,S,F,3.8,0.536,1
+Syria,syr,50-69,2016,F,M,3.8,0.536,22
+Syria,syr,50-69,2016,F,F,3.8,0.536,28
+Syria,syr,0-8,2018,S,M,3.0,0.536,4
+Syria,syr,0-8,2018,F,M,3.0,0.536,84
+Syria,syr,0-8,2018,F,F,3.0,0.536,44
+Syria,syr,0-8,2019,S,M,3.0,0.536,6
+Syria,syr,0-8,2019,S,F,3.0,0.536,1
+Syria,syr,0-8,2019,F,M,3.0,0.536,56
+Syria,syr,0-8,2019,F,F,3.0,0.536,26
+Syria,syr,0-8,2015,S,M,3.64,0.538,3
+Syria,syr,0-8,2015,S,F,3.64,0.538,2
+Syria,syr,0-8,2015,F,M,3.64,0.538,56
+Syria,syr,0-8,2015,F,F,3.64,0.538,43
+Syria,syr,0-8,2017,S,M,3.81,0.536,5
+Syria,syr,0-8,2017,S,F,3.81,0.536,5
+Syria,syr,0-8,2017,F,M,3.81,0.536,135
+Syria,syr,0-8,2017,F,F,3.81,0.536,60
+Syria,syr,0-8,2016,S,M,3.8,0.536,8
+Syria,syr,0-8,2016,S,F,3.8,0.536,2
+Syria,syr,0-8,2016,F,M,3.8,0.536,154
+Syria,syr,0-8,2016,F,F,3.8,0.536,69

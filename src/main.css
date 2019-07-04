@@ -1,0 +1,5 @@
+/* TODO - fix to be scss */
+
+#age-chart g.row text {
+  text-anchor: end;
+}

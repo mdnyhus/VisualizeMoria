@@ -1,0 +1,761 @@
+country,year,gpi
+Comoros,2014,0.501
+Comoros,2015,0.502
+Comoros,2016,0.502
+Comoros,2017,0.503
+Singapore,2014,0.928
+Singapore,2015,0.929
+Singapore,2016,0.93
+Singapore,2017,0.932
+Grenada,2014,0.761
+Grenada,2015,0.767
+Grenada,2016,0.77
+Grenada,2017,0.772
+Chile,2014,0.833
+Chile,2015,0.84
+Chile,2016,0.842
+Chile,2017,0.843
+Liechtenstein,2014,0.911
+Liechtenstein,2015,0.912
+Liechtenstein,2016,0.915
+Liechtenstein,2017,0.916
+Uzbekistan,2014,0.695
+Uzbekistan,2015,0.698
+Uzbekistan,2016,0.703
+Uzbekistan,2017,0.71
+Turkey,2014,0.778
+Turkey,2015,0.783
+Turkey,2016,0.787
+Turkey,2017,0.791
+Morocco,2014,0.65
+Morocco,2015,0.655
+Morocco,2016,0.662
+Morocco,2017,0.667
+Hungary,2014,0.833
+Hungary,2015,0.834
+Hungary,2016,0.835
+Hungary,2017,0.838
+Central African Republic,2014,0.349
+Central African Republic,2015,0.357
+Central African Republic,2016,0.362
+Central African Republic,2017,0.367
+The Gambia,2014,0.454
+The Gambia,2015,0.457
+The Gambia,2016,0.457
+The Gambia,2017,0.46
+Kazakhstan,2014,0.793
+Kazakhstan,2015,0.797
+Kazakhstan,2016,0.797
+Kazakhstan,2017,0.8
+Eritrea,2014,0.428
+Eritrea,2015,0.433
+Eritrea,2016,0.436
+Eritrea,2017,0.44
+Azerbaijan,2014,0.758
+Azerbaijan,2015,0.758
+Azerbaijan,2016,0.757
+Azerbaijan,2017,0.757
+Lithuania,2014,0.851
+Lithuania,2015,0.852
+Lithuania,2016,0.855
+Lithuania,2017,0.858
+Iran,2014,0.788
+Iran,2015,0.789
+Iran,2016,0.796
+Iran,2017,0.798
+Libya,2014,0.695
+Libya,2015,0.694
+Libya,2016,0.693
+Libya,2017,0.706
+Timor-Leste,2014,0.61
+Timor-Leste,2015,0.63
+Timor-Leste,2016,0.631
+Timor-Leste,2017,0.625
+Cabo Verde,2014,0.644
+Cabo Verde,2015,0.647
+Cabo Verde,2016,0.652
+Cabo Verde,2017,0.654
+El Salvador,2014,0.67
+El Salvador,2015,0.674
+El Salvador,2016,0.679
+El Salvador,2017,0.674
+Guyana,2014,0.648
+Guyana,2015,0.651
+Guyana,2016,0.652
+Guyana,2017,0.654
+Saint Kitts & Nevis,2014,0.77
+Saint Kitts & Nevis,2015,0.773
+Saint Kitts & Nevis,2016,0.774
+Saint Kitts & Nevis,2017,0.778
+Tajikistan,2014,0.645
+Tajikistan,2015,0.645
+Tajikistan,2016,0.647
+Tajikistan,2017,0.65
+Panama,2014,0.781
+Panama,2015,0.781
+Panama,2016,0.785
+Panama,2017,0.789
+Fiji,2014,0.73
+Fiji,2015,0.738
+Fiji,2016,0.738
+Fiji,2017,0.741
+Armenia,2014,0.745
+Armenia,2015,0.748
+Armenia,2016,0.749
+Armenia,2017,0.755
+Romania,2014,0.802
+Romania,2015,0.805
+Romania,2016,0.807
+Romania,2017,0.811
+Eswatini,2014,0.58
+Eswatini,2015,0.584
+Eswatini,2016,0.586
+Eswatini,2017,0.588
+Micronesia,2014,0.618
+Micronesia,2015,0.627
+Micronesia,2016,0.627
+Micronesia,2017,0.627
+Nicaragua,2014,0.649
+Nicaragua,2015,0.652
+Nicaragua,2016,0.657
+Nicaragua,2017,0.658
+Uruguay,2014,0.801
+Uruguay,2015,0.8
+Uruguay,2016,0.802
+Uruguay,2017,0.804
+Estonia,2014,0.864
+Estonia,2015,0.866
+Estonia,2016,0.868
+Estonia,2017,0.871
+Lesotho,2014,0.509
+Lesotho,2015,0.511
+Lesotho,2016,0.516
+Lesotho,2017,0.52
+Saudi Arabia,2014,0.852
+Saudi Arabia,2015,0.854
+Saudi Arabia,2016,0.854
+Saudi Arabia,2017,0.853
+France,2014,0.894
+France,2015,0.898
+France,2016,0.899
+France,2017,0.901
+Argentina,2014,0.82
+Argentina,2015,0.822
+Argentina,2016,0.822
+Argentina,2017,0.825
+Slovakia,2014,0.845
+Slovakia,2015,0.851
+Slovakia,2016,0.853
+Slovakia,2017,0.855
+Greece,2014,0.864
+Greece,2015,0.866
+Greece,2016,0.868
+Greece,2017,0.87
+Netherlands,2014,0.924
+Netherlands,2015,0.926
+Netherlands,2016,0.928
+Netherlands,2017,0.931
+Malaysia,2014,0.79
+Malaysia,2015,0.795
+Malaysia,2016,0.799
+Malaysia,2017,0.802
+Rwanda,2014,0.509
+Rwanda,2015,0.51
+Rwanda,2016,0.52
+Rwanda,2017,0.524
+Mozambique,2014,0.427
+Mozambique,2015,0.432
+Mozambique,2016,0.435
+Mozambique,2017,0.437
+Yemen,2014,0.505
+Yemen,2015,0.483
+Yemen,2016,0.462
+Yemen,2017,0.452
+Luxembourg,2014,0.895
+Luxembourg,2015,0.899
+Luxembourg,2016,0.904
+Luxembourg,2017,0.904
+Dominican Republic,2014,0.718
+Dominican Republic,2015,0.729
+Dominican Republic,2016,0.733
+Dominican Republic,2017,0.736
+Egypt,2014,0.683
+Egypt,2015,0.691
+Egypt,2016,0.694
+Egypt,2017,0.696
+Indonesia,2014,0.683
+Indonesia,2015,0.686
+Indonesia,2016,0.691
+Indonesia,2017,0.694
+Mexico,2014,0.761
+Mexico,2015,0.767
+Mexico,2016,0.772
+Mexico,2017,0.774
+Finland,2014,0.914
+Finland,2015,0.915
+Finland,2016,0.918
+Finland,2017,0.92
+Palestine,2014,0.679
+Palestine,2015,0.687
+Palestine,2016,0.689
+Palestine,2017,0.686
+Suriname,2014,0.718
+Suriname,2015,0.722
+Suriname,2016,0.719
+Suriname,2017,0.72
+Gabon,2014,0.693
+Gabon,2015,0.694
+Gabon,2016,0.698
+Gabon,2017,0.702
+Lebanon,2014,0.751
+Lebanon,2015,0.752
+Lebanon,2016,0.753
+Lebanon,2017,0.757
+Colombia,2014,0.738
+Colombia,2015,0.742
+Colombia,2016,0.747
+Colombia,2017,0.747
+Chad,2014,0.403
+Chad,2015,0.407
+Chad,2016,0.405
+Chad,2017,0.404
+Pakistan,2014,0.548
+Pakistan,2015,0.551
+Pakistan,2016,0.56
+Pakistan,2017,0.562
+Belgium,2014,0.909
+Belgium,2015,0.913
+Belgium,2016,0.915
+Belgium,2017,0.916
+Sierra Leone,2014,0.423
+Sierra Leone,2015,0.413
+Sierra Leone,2016,0.413
+Sierra Leone,2017,0.419
+Brunei Darussalam,2014,0.853
+Brunei Darussalam,2015,0.852
+Brunei Darussalam,2016,0.852
+Brunei Darussalam,2017,0.853
+Senegal,2014,0.486
+Senegal,2015,0.492
+Senegal,2016,0.499
+Senegal,2017,0.505
+Spain,2014,0.88
+Spain,2015,0.885
+Spain,2016,0.889
+Spain,2017,0.891
+Mongolia,2014,0.734
+Mongolia,2015,0.737
+Mongolia,2016,0.743
+Mongolia,2017,0.741
+Venezuela,2014,0.778
+Venezuela,2015,0.775
+Venezuela,2016,0.766
+Venezuela,2017,0.761
+The former Yugoslav Republic of Macedonia,2014,0.747
+The former Yugoslav Republic of Macedonia,2015,0.754
+The former Yugoslav Republic of Macedonia,2016,0.756
+The former Yugoslav Republic of Macedonia,2017,0.757
+Algeria,2014,0.747
+Algeria,2015,0.749
+Algeria,2016,0.753
+Algeria,2017,0.754
+Italy,2014,0.874
+Italy,2015,0.876
+Italy,2016,0.878
+Italy,2017,0.88
+Haiti,2014,0.49
+Haiti,2015,0.493
+Haiti,2016,0.496
+Haiti,2017,0.498
+Kyrgyzstan,2014,0.663
+Kyrgyzstan,2015,0.666
+Kyrgyzstan,2016,0.669
+Kyrgyzstan,2017,0.672
+Tunisia,2014,0.725
+Tunisia,2015,0.728
+Tunisia,2016,0.732
+Tunisia,2017,0.735
+Israel,2014,0.899
+Israel,2015,0.901
+Israel,2016,0.902
+Israel,2017,0.903
+India,2014,0.618
+India,2015,0.627
+India,2016,0.636
+India,2017,0.64
+Barbados,2014,0.796
+Barbados,2015,0.797
+Barbados,2016,0.799
+Barbados,2017,0.8
+Jamaica,2014,0.728
+Jamaica,2015,0.73
+Jamaica,2016,0.732
+Jamaica,2017,0.732
+Seychelles,2014,0.786
+Seychelles,2015,0.791
+Seychelles,2016,0.793
+Seychelles,2017,0.797
+Sri Lanka,2014,0.763
+Sri Lanka,2015,0.766
+Sri Lanka,2016,0.768
+Sri Lanka,2017,0.77
+Papua New Guinea,2014,0.536
+Papua New Guinea,2015,0.542
+Papua New Guinea,2016,0.543
+Papua New Guinea,2017,0.544
+Laos,2014,0.586
+Laos,2015,0.593
+Laos,2016,0.598
+Laos,2017,0.601
+Ukraine,2014,0.748
+Ukraine,2015,0.743
+Ukraine,2016,0.746
+Ukraine,2017,0.751
+Vietnam,2014,0.678
+Vietnam,2015,0.684
+Vietnam,2016,0.689
+Vietnam,2017,0.694
+Ghana,2014,0.576
+Ghana,2015,0.585
+Ghana,2016,0.588
+Ghana,2017,0.592
+Philippines,2014,0.689
+Philippines,2015,0.693
+Philippines,2016,0.696
+Philippines,2017,0.699
+Palau,2014,0.786
+Palau,2015,0.793
+Palau,2016,0.798
+Palau,2017,0.798
+Zimbabwe,2014,0.525
+Zimbabwe,2015,0.529
+Zimbabwe,2016,0.532
+Zimbabwe,2017,0.53
+Swaziland,2014,0.579
+Swaziland,2015,0.584
+Swaziland,2016,0.586
+Swaziland,2017,0.588
+Vanuatu,2014,0.598
+Vanuatu,2015,0.599
+Vanuatu,2016,0.6
+Vanuatu,2017,0.603
+Namibia,2014,0.636
+Namibia,2015,0.642
+Namibia,2016,0.645
+Namibia,2017,0.647
+Djibouti,2014,0.467
+Djibouti,2015,0.47
+Djibouti,2016,0.474
+Djibouti,2017,0.476
+Ethiopia,2014,0.445
+Ethiopia,2015,0.451
+Ethiopia,2016,0.457
+Ethiopia,2017,0.463
+Bhutan,2014,0.599
+Bhutan,2015,0.603
+Bhutan,2016,0.609
+Bhutan,2017,0.612
+Cyprus,2014,0.856
+Cyprus,2015,0.86
+Cyprus,2016,0.867
+Cyprus,2017,0.869
+Angola,2014,0.564
+Angola,2015,0.572
+Angola,2016,0.577
+Angola,2017,0.581
+Croatia,2014,0.824
+Croatia,2015,0.827
+Croatia,2016,0.828
+Croatia,2017,0.831
+Cuba,2014,0.768
+Cuba,2015,0.772
+Cuba,2016,0.774
+Cuba,2017,0.777
+Ecuador,2014,0.742
+Ecuador,2015,0.743
+Ecuador,2016,0.749
+Ecuador,2017,0.752
+South Korea,2014,0.896
+South Korea,2015,0.898
+South Korea,2016,0.9
+South Korea,2017,0.903
+Peru,2014,0.746
+Peru,2015,0.745
+Peru,2016,0.748
+Peru,2017,0.75
+Belarus,2014,0.807
+Belarus,2015,0.805
+Belarus,2016,0.805
+Belarus,2017,0.808
+Liberia,2014,0.431
+Liberia,2015,0.432
+Liberia,2016,0.432
+Liberia,2017,0.435
+Iraq,2014,0.666
+Iraq,2015,0.668
+Iraq,2016,0.672
+Iraq,2017,0.685
+New Zealand,2014,0.91
+New Zealand,2015,0.914
+New Zealand,2016,0.915
+New Zealand,2017,0.917
+Cameroon,2014,0.543
+Cameroon,2015,0.548
+Cameroon,2016,0.553
+Cameroon,2017,0.556
+Kenya,2014,0.572
+Kenya,2015,0.578
+Kenya,2016,0.585
+Kenya,2017,0.59
+United Arab Emirates,2014,0.855
+United Arab Emirates,2015,0.86
+United Arab Emirates,2016,0.862
+United Arab Emirates,2017,0.863
+Congo,2014,0.595
+Congo,2015,0.613
+Congo,2016,0.612
+Congo,2017,0.606
+Sudan,2014,0.492
+Sudan,2015,0.497
+Sudan,2016,0.499
+Sudan,2017,0.502
+Mauritania,2014,0.514
+Mauritania,2015,0.514
+Mauritania,2016,0.516
+Mauritania,2017,0.52
+Bahrain,2014,0.81
+Bahrain,2015,0.832
+Bahrain,2016,0.846
+Bahrain,2017,0.846
+Bangladesh,2014,0.583
+Bangladesh,2015,0.592
+Bangladesh,2016,0.597
+Bangladesh,2017,0.608
+Burundi,2014,0.421
+Burundi,2015,0.418
+Burundi,2016,0.418
+Burundi,2017,0.417
+Malta,2014,0.862
+Malta,2015,0.871
+Malta,2016,0.875
+Malta,2017,0.878
+Turkmenistan,2014,0.697
+Turkmenistan,2015,0.701
+Turkmenistan,2016,0.705
+Turkmenistan,2017,0.706
+Maldives,2014,0.705
+Maldives,2015,0.71
+Maldives,2016,0.712
+Maldives,2017,0.717
+Botswana,2014,0.701
+Botswana,2015,0.706
+Botswana,2016,0.712
+Botswana,2017,0.717
+Czechia,2014,0.879
+Czechia,2015,0.882
+Czechia,2016,0.885
+Czechia,2017,0.888
+Tonga,2014,0.717
+Tonga,2015,0.721
+Tonga,2016,0.724
+Tonga,2017,0.726
+China,2014,0.738
+China,2015,0.743
+China,2016,0.748
+China,2017,0.752
+Afghanistan,2014,0.491
+Afghanistan,2015,0.493
+Afghanistan,2016,0.494
+Afghanistan,2017,0.498
+Andorra,2014,0.853
+Andorra,2015,0.854
+Andorra,2016,0.856
+Andorra,2017,0.858
+Montenegro,2014,0.805
+Montenegro,2015,0.809
+Montenegro,2016,0.81
+Montenegro,2017,0.814
+Uganda,2014,0.5
+Uganda,2015,0.505
+Uganda,2016,0.508
+Uganda,2017,0.516
+Madagascar,2014,0.512
+Madagascar,2015,0.514
+Madagascar,2016,0.517
+Madagascar,2017,0.519
+Togo,2014,0.481
+Togo,2015,0.495
+Togo,2016,0.5
+Togo,2017,0.503
+Somalia,2014,0.328
+Somalia,2015,0.339
+Somalia,2016,0.344
+Somalia,2017,0.351
+Slovenia,2014,0.887
+Slovenia,2015,0.889
+Slovenia,2016,0.894
+Slovenia,2017,0.896
+Trinidad & Tobago,2014,0.779
+Trinidad & Tobago,2015,0.783
+Trinidad & Tobago,2016,0.785
+Trinidad & Tobago,2017,0.784
+Albania,2014,0.773
+Albania,2015,0.776
+Albania,2016,0.782
+Albania,2017,0.785
+Bahamas,2014,0.807
+Bahamas,2015,0.807
+Bahamas,2016,0.806
+Bahamas,2017,0.807
+Thailand,2014,0.735
+Thailand,2015,0.741
+Thailand,2016,0.748
+Thailand,2017,0.755
+Costa Rica,2014,0.78
+Costa Rica,2015,0.788
+Costa Rica,2016,0.791
+Costa Rica,2017,0.794
+Bolivia,2014,0.675
+Bolivia,2015,0.681
+Bolivia,2016,0.689
+Bolivia,2017,0.693
+Mali,2014,0.414
+Mali,2015,0.418
+Mali,2016,0.421
+Mali,2017,0.427
+Burkina Faso,2014,0.405
+Burkina Faso,2015,0.412
+Burkina Faso,2016,0.42
+Burkina Faso,2017,0.423
+Australia,2014,0.933
+Australia,2015,0.936
+Australia,2016,0.938
+Australia,2017,0.939
+Guinea,2014,0.44
+Guinea,2015,0.443
+Guinea,2016,0.449
+Guinea,2017,0.459
+Portugal,2014,0.839
+Portugal,2015,0.842
+Portugal,2016,0.845
+Portugal,2017,0.847
+South Africa,2014,0.685
+South Africa,2015,0.692
+South Africa,2016,0.696
+South Africa,2017,0.699
+Solomon Islands,2014,0.539
+Solomon Islands,2015,0.546
+Solomon Islands,2016,0.543
+Solomon Islands,2017,0.546
+Mauritius,2014,0.782
+Mauritius,2015,0.782
+Mauritius,2016,0.788
+Mauritius,2017,0.79
+Zambia,2014,0.58
+Zambia,2015,0.583
+Zambia,2016,0.586
+Zambia,2017,0.588
+Niger,2014,0.345
+Niger,2015,0.347
+Niger,2016,0.351
+Niger,2017,0.354
+Saint Vincent and the Grenadines,2014,0.72
+Saint Vincent and the Grenadines,2015,0.72
+Saint Vincent and the Grenadines,2016,0.721
+Saint Vincent and the Grenadines,2017,0.723
+Oman,2014,0.815
+Oman,2015,0.822
+Oman,2016,0.822
+Oman,2017,0.821
+Moldova,2014,0.696
+Moldova,2015,0.693
+Moldova,2016,0.697
+Moldova,2017,0.7
+Bosnia & Herzegovina,2014,0.754
+Bosnia & Herzegovina,2015,0.755
+Bosnia & Herzegovina,2016,0.766
+Bosnia & Herzegovina,2017,0.768
+Guatemala,2014,0.643
+Guatemala,2015,0.645
+Guatemala,2016,0.649
+Guatemala,2017,0.65
+Cambodia,2014,0.566
+Cambodia,2015,0.571
+Cambodia,2016,0.576
+Cambodia,2017,0.582
+Kuwait,2014,0.799
+Kuwait,2015,0.802
+Kuwait,2016,0.804
+Kuwait,2017,0.803
+Bulgaria,2014,0.797
+Bulgaria,2015,0.807
+Bulgaria,2016,0.81
+Bulgaria,2017,0.813
+Russian Federation,2014,0.807
+Russian Federation,2015,0.813
+Russian Federation,2016,0.815
+Russian Federation,2017,0.816
+Serbia,2014,0.775
+Serbia,2015,0.78
+Serbia,2016,0.785
+Serbia,2017,0.787
+Belize,2014,0.706
+Belize,2015,0.709
+Belize,2016,0.709
+Belize,2017,0.708
+United Kingdom,2014,0.919
+United Kingdom,2015,0.918
+United Kingdom,2016,0.92
+United Kingdom,2017,0.922
+Brazil,2014,0.752
+Brazil,2015,0.757
+Brazil,2016,0.758
+Brazil,2017,0.759
+Cote d'Ivoire,2014,0.465
+Cote d'Ivoire,2015,0.478
+Cote d'Ivoire,2016,0.486
+Cote d'Ivoire,2017,0.492
+Malawi,2014,0.468
+Malawi,2015,0.47
+Malawi,2016,0.474
+Malawi,2017,0.477
+Iceland,2014,0.925
+Iceland,2015,0.927
+Iceland,2016,0.933
+Iceland,2017,0.935
+Honduras,2014,0.603
+Honduras,2015,0.609
+Honduras,2016,0.614
+Honduras,2017,0.617
+Norway,2014,0.946
+Norway,2015,0.948
+Norway,2016,0.951
+Norway,2017,0.953
+Germany,2014,0.93
+Germany,2015,0.933
+Germany,2016,0.934
+Germany,2017,0.936
+Sao Tome & Principe,2014,0.567
+Sao Tome & Principe,2015,0.58
+Sao Tome & Principe,2016,0.584
+Sao Tome & Principe,2017,0.589
+Benin,2014,0.505
+Benin,2015,0.508
+Benin,2016,0.512
+Benin,2017,0.515
+Switzerland,2014,0.939
+Switzerland,2015,0.942
+Switzerland,2016,0.943
+Switzerland,2017,0.944
+Antigua & Barbuda,2014,0.77
+Antigua & Barbuda,2015,0.775
+Antigua & Barbuda,2016,0.778
+Antigua & Barbuda,2017,0.78
+Nigeria,2014,0.524
+Nigeria,2015,0.527
+Nigeria,2016,0.53
+Nigeria,2017,0.532
+South Sudan,2014,0.397
+South Sudan,2015,0.399
+South Sudan,2016,0.394
+South Sudan,2017,0.388
+Japan,2014,0.903
+Japan,2015,0.905
+Japan,2016,0.907
+Japan,2017,0.909
+Saint Lucia,2014,0.737
+Saint Lucia,2015,0.744
+Saint Lucia,2016,0.745
+Saint Lucia,2017,0.747
+Equatorial Guinea,2014,0.59
+Equatorial Guinea,2015,0.593
+Equatorial Guinea,2016,0.593
+Equatorial Guinea,2017,0.591
+Poland,2014,0.842
+Poland,2015,0.855
+Poland,2016,0.86
+Poland,2017,0.865
+Denmark,2014,0.928
+Denmark,2015,0.926
+Denmark,2016,0.928
+Denmark,2017,0.929
+Latvia,2014,0.838
+Latvia,2015,0.841
+Latvia,2016,0.844
+Latvia,2017,0.847
+Tanzania,2014,0.515
+Tanzania,2015,0.528
+Tanzania,2016,0.533
+Tanzania,2017,0.538
+Dominica,2014,0.724
+Dominica,2015,0.721
+Dominica,2016,0.718
+Dominica,2017,0.715
+Austria,2014,0.901
+Austria,2015,0.903
+Austria,2016,0.906
+Austria,2017,0.908
+Ireland,2014,0.921
+Ireland,2015,0.929
+Ireland,2016,0.934
+Ireland,2017,0.938
+Hong Kong,2014,0.923
+Hong Kong,2015,0.927
+Hong Kong,2016,0.93
+Hong Kong,2017,0.933
+Paraguay,2014,0.698
+Paraguay,2015,0.702
+Paraguay,2016,0.702
+Paraguay,2017,0.702
+Qatar,2014,0.853
+Qatar,2015,0.854
+Qatar,2016,0.855
+Qatar,2017,0.856
+United States,2014,0.918
+United States,2015,0.92
+United States,2016,0.922
+United States,2017,0.924
+Georgia,2014,0.765
+Georgia,2015,0.771
+Georgia,2016,0.776
+Georgia,2017,0.78
+Syria,2014,0.55
+Syria,2015,0.538
+Syria,2016,0.536
+Syria,2017,0.536
+Guinea-Bissau,2014,0.445
+Guinea-Bissau,2015,0.449
+Guinea-Bissau,2016,0.453
+Guinea-Bissau,2017,0.455
+Democratic Republic of the Congo,2014,0.436
+Democratic Republic of the Congo,2015,0.444
+Democratic Republic of the Congo,2016,0.452
+Democratic Republic of the Congo,2017,0.457
+Canada,2014,0.918
+Canada,2015,0.92
+Canada,2016,0.922
+Canada,2017,0.926
+Myanmar,2014,0.564
+Myanmar,2015,0.569
+Myanmar,2016,0.574
+Myanmar,2017,0.578
+Jordan,2014,0.73
+Jordan,2015,0.733
+Jordan,2016,0.735
+Jordan,2017,0.735
+Nepal,2014,0.56
+Nepal,2015,0.566
+Nepal,2016,0.569
+Nepal,2017,0.574
+Samoa,2014,0.703
+Samoa,2015,0.706
+Samoa,2016,0.711
+Samoa,2017,0.713
+Kiribati,2014,0.616
+Kiribati,2015,0.621
+Kiribati,2016,0.61
+Kiribati,2017,0.612
+Sweden,2014,0.92
+Sweden,2015,0.929
+Sweden,2016,0.932
+Sweden,2017,0.933

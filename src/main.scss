@@ -1,0 +1,166 @@
+body {
+  margin: 0;
+  
+  .main-container {
+    font-family: Arial;
+    font-size: 14px;
+    
+    width: 1000px;
+    height: 100%;
+    margin: 0 auto;
+    
+    .title {
+      $title-margin: 2px;
+      text-align: center;
+      width: calc(100% - 2*#{$title-margin});
+      margin: $title-margin;
+      font-weight: bold;
+      font-size: 20px;
+    }
+    
+    .chart-container {
+      position: relative;
+      
+      .title-container {
+        position: absolute;
+        width: 100%;
+        text-align: center;
+      }
+      
+      .chart-title {
+        text-align: center;
+        font-weight: bold;
+      }
+      
+      .reset-container {
+        position: absolute;
+        right: 10px;
+        top: 0;    
+        cursor: pointer;
+
+        .reset {
+          font-weight: bold;
+          color: #0000EE;
+          font-size: 14px;
+          font-family: Arial;
+        }
+      }
+    }
+  
+    .index-container {
+      float: left;
+      width: 500px;
+      margin-bottom: 10px;
+      
+      #composite-chart {
+        path.line {
+          stroke-width: 3px;
+        }
+        
+        g.dc-tooltip-list {
+          circle.dot {
+            r: 5;
+          }
+        }
+      }
+    }
+    
+    .pie-chart-container {
+      float: left;
+      width: 200px;
+      
+      #gender-pie-chart {
+        margin-bottom: 20px;
+      }
+    }
+
+    .map-container {
+      height: 300px;
+      margin-bottom: 5px;
+      
+      #map {
+        width: 700px;
+        height: 300px;
+        float:left;
+        .info {
+          padding: 6px 8px;
+          font: 14px/16px Arial, Helvetica, sans-serif;
+          background: white;
+          background: rgba(255,255,255,0.8);
+          box-shadow: 0 0 15px rgba(0,0,0,0.2);
+          border-radius: 5px;
+          
+          h4 {
+            margin: 0 0 5px;
+            color: #777;
+          }
+        }
+        
+        .legend {
+          line-height: 18px;
+          color: #555;
+          
+          i {
+            width: 18px;
+            height: 18px;
+            float: left;
+            margin-right: 8px;
+            opacity: 0.7;
+          }
+        }
+        
+        .reset-container {
+          bottom: 10px;
+          left: 10px;
+          right: auto;
+          top: auto;
+          z-index: 10000;
+          background: white;
+          box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+          border-radius: 5px;
+          padding: 2px 8px;
+        }
+      }
+      
+      #map-reset-container {
+        top: 10px;
+      }
+    }
+
+    #age-chart, #region-chart {
+      g.row {
+        text {
+          text-anchor: end;
+          fill: black;
+        }
+      }
+    }
+
+    #region-bubble-chart {
+      height: 300px;
+      svg {
+        background: url('../src/world-map.png') no-repeat;
+        background-size: 300px 300px;
+      }
+      g.axis.y, g.axis.x {
+        display: none;
+      }
+    }
+
+    #hdi-chart, #gpi-chart, #arrival-chart {
+      g.axis.y {
+        display: none;
+      }
+    }
+
+    .additional-labels {
+      margin-bottom: 10px;
+      .chart-label {
+        margin: -6px 10px;
+        font-weight: bold;
+        font-size: small;
+      }
+    }
+  }
+}
+  
