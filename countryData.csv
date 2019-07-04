@@ -1,0 +1,141 @@
+country,code,continent,region,subregion,economicState,lat,lon,gpi2014,gpi2015,gpi2016,gpi2017,gpi2018,hdi2014,hdi2015,hdi2016,hdi2017,hdi2018
+Afghanistan,AFG,Asia,Southern Asia,,Developing,34.28N,69.11E,3.416,3.427,3.538,3.567,3.585,0.491,0.493,0.494,0.498,0.498
+Albania,ALB,Europe,Southern Europe,,Developed,41.18N,19.49E,1.939,1.821,1.867,1.908,1.849,0.773,0.776,0.782,0.785,0.785
+Algeria,DZA,Africa,Northern Africa,,Developing,36.42N,03.08E,2.239,2.131,2.213,2.201,2.182,0.747,0.749,0.753,0.754,0.754
+Angola,AGO,Africa,Sub-Saharan Africa,Middle Africa,Developing,08.50S,13.15E,2.143,2.02,2.14,2.116,2.048,0.564,0.572,0.577,0.581,0.581
+Argentina,ARG,Americas,Latin America and the Caribbean,South America,Developing,36.30S,60.00W,1.789,1.865,1.957,1.8812,1.947,0.82,0.822,0.822,0.825,0.825
+Armenia,ARM,Asia,Western Asia,,Developing,40.10N,44.31E,2.097,2.028,2.218,2.22,2.287,0.745,0.748,0.749,0.755,0.755
+Australia,AUS,Oceania,Australia and New Zealand,,Developed,35.15S,149.08E,1.414,1.329,1.465,1.425,1.435,0.933,0.936,0.938,0.939,0.939
+Austria,AUT,Europe,Western Europe,,Developed,48.12N,16.22E,1.2,1.198,1.278,1.265,1.274,0.901,0.903,0.906,0.908,0.908
+Azerbaijan,AZE,Asia,Western Asia,,Developing,40.29N,49.56E,2.365,2.325,2.45,2.426,2.454,0.758,0.758,0.757,0.757,0.757
+Bahrain,BHR,Asia,Western Asia,,Developing,26.10N,50.30E,2.225,2.142,2.398,2.404,2.437,0.81,0.832,0.846,0.846,0.846
+Bangladesh,BGD,Asia,Southern Asia,,Developing,23.43N,90.26E,2.106,1.997,2.045,2.035,2.084,0.583,0.592,0.597,0.608,0.608
+Belarus,BLR,Europe,Eastern Europe,,Developed,53.52N,27.30E,2.078,2.173,2.202,2.141,2.112,0.807,0.805,0.805,0.808,0.808
+Belgium,BEL,Europe,Western Europe,,Developed,50.51N,04.21E,1.354,1.368,1.528,1.525,1.56,0.909,0.913,0.915,0.916,0.916
+Benin,BEN,Africa,Sub-Saharan Africa,Western Africa,Developing,06.23N,02.42E,2.129,1.958,1.998,2.014,1.973,0.505,0.508,0.512,0.515,0.515
+Bhutan,BTN,Asia,Southern Asia,,Developing,27.31N,89.45E,1.422,1.416,1.445,1.474,1.545,0.599,0.603,0.609,0.612,0.612
+Botswana,BWA,Africa,Sub-Saharan Africa,Southern Africa,Developing,24.45S,25.57E,1.678,1.597,1.639,1.622,1.659,0.701,0.706,0.712,0.717,0.717
+Brazil,BRA,Americas,Latin America and the Caribbean,South America,Developing,15.47S,47.55W,2.073,2.122,2.176,2.199,2.16,0.752,0.757,0.758,0.759,0.759
+Bulgaria,BGR,Europe,Eastern Europe,,Developed,42.45N,23.20E,1.637,1.607,1.646,1.631,1.635,0.797,0.807,0.81,0.813,0.813
+Burkina Faso,BFA,Africa,Sub-Saharan Africa,Western Africa,Developing,12.15N,01.30W,1.998,1.994,2.063,2.07,2.029,0.405,0.412,0.42,0.423,0.423
+Burundi,BDI,Africa,Sub-Saharan Africa,Eastern Africa,Developing,03.16S,29.18E,2.418,2.323,2.5,2.641,2.488,0.421,0.418,0.418,0.417,0.417
+Cambodia,KHM,Asia,South-eastern Asia,,Developing,11.33N,104.55E,2.201,2.179,2.161,2.06515,2.101,0.566,0.571,0.576,0.582,0.582
+Cameroon,CMR,Africa,Sub-Saharan Africa,Middle Africa,Developing,03.50N,11.35E,2.235,2.349,2.356,2.39,2.484,0.543,0.548,0.553,0.556,0.556
+Canada,CAN,Americas,Northern America,,Developed,45.27N,75.42W,1.306,1.287,1.388,1.371,1.372,0.918,0.92,0.922,0.926,0.926
+Central African Republic,CAF,Africa,Sub-Saharan Africa,Middle Africa,Developing,04.23N,18.35E,3.331,3.332,3.354,3.213,3.236,0.349,0.357,0.362,0.367,0.367
+Chad,TCD,Africa,Sub-Saharan Africa,Middle Africa,Developing,12.10N,14.59E,2.558,2.429,2.464,2.495,2.498,0.403,0.407,0.405,0.404,0.404
+Chile,CHL,Americas,Latin America and the Caribbean,South America,Developing,33.24S,70.40W,1.591,1.563,1.635,1.595,1.649,0.833,0.84,0.842,0.843,0.843
+China,CHN,Asia,Eastern Asia,,Developing,39.55N,116.20E,2.207,2.267,2.288,2.242,2.243,0.738,0.743,0.748,0.752,0.752
+Colombia,COL,Americas,Latin America and the Caribbean,South America,Developing,04.34N,74.00W,2.701,2.72,2.764,2.777,2.729,0.738,0.742,0.747,0.747,0.747
+Congo,COG,Africa,Sub-Saharan Africa,Middle Africa,Developing,04.09S,15.12E,2.211,2.196,2.249,2.334,2.343,0.595,0.613,0.612,0.606,0.606
+Cote d'Ivoire,CIV,Africa,Sub-Saharan Africa,Western Africa,Developing,06.49N,05.17W,2.52,2.133,2.279,2.307,2.207,0.465,0.478,0.486,0.492,0.492
+Croatia,HRV,Europe,Southern Europe,,Developed,45.50N,15.58E,1.548,1.55,1.633,1.665,1.639,0.824,0.827,0.828,0.831,0.831
+Cuba,CUB,Americas,Latin America and the Caribbean,Caribbean,Developing,23.08N,82.22W,1.986,1.988,2.057,2.056,2.037,0.768,0.772,0.774,0.777,0.777
+Cyprus,CYP,Asia,Western Asia,,Developed,35.10N,33.25E,1.844,1.924,1.994,1.94,1.913,0.856,0.86,0.867,0.869,0.869
+Democratic Republic of the Congo,COD,Africa,Sub-Saharan Africa,Middle Africa,Developing,04.20S,15.15E,3.213,3.085,3.112,3.061,3.251,0.436,0.444,0.452,0.457,0.457
+Denmark,DNK,Europe,Northern Europe,,Developed,55.41N,12.34E,1.193,1.15,1.246,1.337,1.353,0.928,0.926,0.928,0.929,0.929
+Djibouti,DJI,Africa,Sub-Saharan Africa,Eastern Africa,Developing,11.08N,42.20E,1.979,2.113,2.292,2.19614,2.269,0.467,0.47,0.474,0.476,0.476
+Timor-Leste,TLS,Asia,South-eastern Asia,,Developing,08.29S,125.34E,1.947,1.86,1.879,1.866,1.895,0.61,0.63,0.631,0.625,0.625
+Ecuador,ECU,Americas,Latin America and the Caribbean,South America,Developing,00.15S,78.35W,2.042,1.997,2.02,1.9481,1.987,0.742,0.743,0.749,0.752,0.752
+Egypt,EGY,Africa,Northern Africa,,Developing,30.01N,31.14E,2.571,2.382,2.574,2.583,2.632,0.683,0.691,0.694,0.696,0.696
+Equatorial Guinea,GNQ,Africa,Sub-Saharan Africa,Middle Africa,Developing,03.45N,08.50E,2.079,1.987,1.94,1.93,1.946,0.59,0.593,0.593,0.591,0.591
+Eritrea,ERI,Africa,Sub-Saharan Africa,Eastern Africa,Developing,15.19N,38.55E,2.377,2.309,2.46,2.505,2.522,0.428,0.433,0.436,0.44,0.44
+Estonia,EST,Europe,Northern Europe,,Developed,59.22N,24.48E,1.635,1.677,1.732,1.712,1.732,0.864,0.866,0.868,0.871,0.871
+Ethiopia,ETH,Africa,Sub-Saharan Africa,Eastern Africa,Developing,09.02N,38.42E,2.502,2.234,2.284,2.47716,2.524,0.445,0.451,0.457,0.463,0.463
+Finland,FIN,Europe,Northern Europe,,Developed,60.15N,25.03E,1.297,1.277,1.429,1.515,1.506,0.914,0.915,0.918,0.92,0.92
+France,FRA,Europe,Western Europe,,Developed,48.50N,02.20E,1.808,1.742,1.829,1.839,1.909,0.894,0.898,0.899,0.901,0.901
+Gabon,GAB,Africa,Sub-Saharan Africa,Middle Africa,Developing,00.25N,09.26E,1.945,1.904,2.033,2.052,2.099,0.693,0.694,0.698,0.702,0.702
+The Gambia,GMB,Africa,Sub-Saharan Africa,Western Africa,Developing,13.28N,16.40W,2.085,2.086,2.091,2.21118,1.989,0.454,0.457,0.457,0.46,0.46
+Georgia,GEO,Asia,Western Asia,,Developing,41.43N,44.50E,2.225,1.973,2.057,2.084,2.13,0.765,0.771,0.776,0.78,0.78
+Germany,DEU,Europe,Western Europe,,Developed,52.30N,13.25E,1.423,1.379,1.486,1.5,1.531,0.93,0.933,0.934,0.936,0.936
+Ghana,GHA,Africa,Sub-Saharan Africa,Western Africa,Developing,05.35N,00.06W,1.902,1.84,1.809,1.793,1.772,0.576,0.585,0.588,0.592,0.592
+Greece,GRC,Europe,Southern Europe,,Developed,37.58N,23.46E,2.052,1.878,2.044,1.998,2.02,0.864,0.866,0.868,0.87,0.87
+Guatemala,GTM,Americas,Latin America and the Caribbean,Central America,Developing,14.40N,90.22W,2.248,2.215,2.27,2.245,2.214,0.643,0.645,0.649,0.65,0.65
+Guinea,GIN,Africa,Sub-Saharan Africa,Western Africa,Developing,09.29N,13.49W,2.296,2.214,2.148,2.089,2.101,0.44,0.443,0.449,0.459,0.459
+Guinea-Bissau,GNB,Africa,Sub-Saharan Africa,Western Africa,Developing,11.45N,15.45W,2.591,2.235,2.264,2.309,2.275,0.445,0.449,0.453,0.455,0.455
+Guyana,GUY,Americas,Latin America and the Caribbean,South America,Developing,06.50N,58.12W,2.013,2.029,2.105,2.02112,2.043,0.648,0.651,0.652,0.654,0.654
+Haiti,HTI,Americas,Latin America and the Caribbean,Caribbean,Developing,18.40N,72.20W,2.127,2.074,2.066,2.026,2.064,0.49,0.493,0.496,0.498,0.498
+Honduras,HND,Americas,Latin America and the Caribbean,Central America,Developing,14.05N,87.14W,2.281,2.21,2.237,2.185,2.282,0.603,0.609,0.614,0.617,0.617
+Hungary,HUN,Europe,Eastern Europe,,Developed,47.29N,19.05E,1.482,1.463,1.534,1.494,1.531,0.833,0.834,0.835,0.838,0.838
+Iceland,ISL,Europe,Northern Europe,,Developed,64.10N,21.57W,1.189,1.148,1.192,1.111,1.096,0.925,0.927,0.933,0.935,0.935
+India,IND,Asia,Southern Asia,,Developing,28.37N,77.13E,2.571,2.504,2.566,2.541,2.504,0.618,0.627,0.636,0.64,0.64
+Indonesia,IDN,Asia,South-eastern Asia,,Developing,06.09S,106.49E,1.853,1.768,1.799,1.851,1.853,0.683,0.686,0.691,0.694,0.694
+Iran,IRN,Asia,Southern Asia,,Developing,35.44N,51.30E,2.437,2.409,2.411,2.364,2.439,0.788,0.789,0.796,0.798,0.798
+Iraq,IRQ,Asia,Western Asia,,Developing,33.20N,44.30E,3.377,3.444,3.57,3.556,3.425,0.666,0.668,0.672,0.685,0.685
+Ireland,IRL,Europe,Northern Europe,,Developed,53.21N,06.15W,1.384,1.354,1.433,1.408,1.393,0.921,0.929,0.934,0.938,0.938
+Israel,ISR,Asia,Western Asia,,Developed,31.71N,35.10E,2.689,2.781,2.656,2.707,2.764,0.899,0.901,0.902,0.903,0.903
+Italy,ITA,Europe,Southern Europe,,Developed,41.54N,12.29E,1.675,1.669,1.774,1.737,1.766,0.874,0.876,0.878,0.88,0.88
+Jamaica,JAM,Americas,Latin America and the Caribbean,Caribbean,Developing,18.00N,76.50W,2.203,2.153,2.091,2.072,2.068,0.728,0.73,0.732,0.732,0.732
+Japan,JPN,Asia,Eastern Asia,,Developed,35.68N,139.65E,1.316,1.322,1.395,1.408,1.391,0.903,0.905,0.907,0.909,0.909
+Jordan,JOR,Asia,Western Asia,,Developing,31.57N,35.52E,1.861,1.944,2.127,2.087,2.104,0.73,0.733,0.735,0.735,0.735
+Kazakhstan,KAZ,Asia,Central Asia,,Developing,51.10N,71.30E,2.15,2.008,2.019,1.992,1.974,0.793,0.797,0.797,0.8,0.8
+Kenya,KEN,Africa,Sub-Saharan Africa,Eastern Africa,Developing,01.17S,36.48E,2.452,2.342,2.379,2.336,2.354,0.572,0.578,0.585,0.59,0.59
+Kuwait,KWT,Asia,Western Asia,,Developing,29.30N,48.00E,1.679,1.626,1.842,1.909,1.799,0.799,0.802,0.804,0.803,0.803
+Kyrgyzstan,KGZ,Asia,Central Asia,,Developing,42.54N,74.46E,2.382,2.249,2.297,2.21612,2.181,0.663,0.666,0.669,0.672,0.672
+Latvia,LVA,Europe,Northern Europe,,Developed,56.53N,24.08E,1.745,1.695,1.68,1.67,1.689,0.838,0.841,0.844,0.847,0.847
+Lebanon,LBN,Asia,Western Asia,,Developing,33.53N,35.31E,2.62,2.623,2.752,2.782,2.778,0.751,0.752,0.753,0.757,0.757
+Lesotho,LSO,Africa,Sub-Saharan Africa,Southern Africa,Developing,29.18S,27.30E,1.839,1.891,1.941,2.06628,2.144,0.509,0.511,0.516,0.52,0.52
+Liberia,LBR,Africa,Sub-Saharan Africa,Western Africa,Developing,06.18N,10.47W,2.014,1.963,1.998,2.0231,1.931,0.431,0.432,0.432,0.435,0.435
+Libya,LBY,Africa,Northern Africa,,Developing,32.49N,13.07E,2.453,2.819,3.2,3.328,3.262,0.695,0.694,0.693,0.706,0.706
+Lithuania,LTU,Europe,Northern Europe,,Developed,54.38N,25.19E,1.797,1.674,1.735,1.732,1.749,0.851,0.852,0.855,0.858,0.858
+Madagascar,MDG,Africa,Sub-Saharan Africa,Eastern Africa,Developing,18.55S,47.31E,1.942,1.911,1.763,1.797,1.766,0.512,0.514,0.517,0.519,0.519
+Malawi,MWI,Africa,Sub-Saharan Africa,Eastern Africa,Developing,14.00S,33.48E,1.995,1.814,1.817,1.825,1.811,0.468,0.47,0.474,0.477,0.477
+Malaysia,MYS,Asia,South-eastern Asia,,Developing,03.09N,101.41E,1.659,1.561,1.648,1.637,1.619,0.79,0.795,0.799,0.802,0.802
+Mali,MLI,Africa,Sub-Saharan Africa,Western Africa,Developing,12.34N,07.55W,2.465,2.31,2.489,2.596,2.686,0.414,0.418,0.421,0.427,0.427
+Mauritius,MUS,Africa,Sub-Saharan Africa,Eastern Africa,Developing,20.16S,57.50E,1.544,1.503,1.559,1.547,1.548,0.782,0.782,0.788,0.79,0.79
+Mauritania,MRT,Africa,Sub-Saharan Africa,Western Africa,Developing,20.10S,57.30E,2.35,2.262,2.295,2.355,2.355,0.514,0.514,0.516,0.52,0.52
+Morocco,MAR,Africa,Northern Africa,,Developing,33.97N,6.85W,1.915,2.002,2.086,2.00415,1.979,0.65,0.655,0.662,0.667,0.667
+Mexico,MEX,Americas,Latin America and the Caribbean,Central America,Developing,19.20N,99.10W,2.5,2.53,2.557,2.646,2.583,0.761,0.767,0.772,0.774,0.774
+Mongolia,MNG,Asia,Eastern Asia,,Developing,47.89N,106.91E,1.778,1.706,1.838,1.801,1.821,0.734,0.737,0.743,0.741,0.741
+Mozambique,MOZ,Africa,Sub-Saharan Africa,Eastern Africa,Developing,25.58S,32.32E,2.004,1.976,1.963,2.0131,2.056,0.427,0.432,0.435,0.437,0.437
+Myanmar,MMR,Asia,South-eastern Asia,,Developing,16.45N,96.20E,2.473,2.323,2.256,2.1791,2.302,0.564,0.569,0.574,0.578,0.578
+Namibia,NAM,Africa,Sub-Saharan Africa,Southern Africa,Developing,22.35S,17.04E,1.808,1.784,1.873,1.838,1.806,0.636,0.642,0.645,0.647,0.647
+Nepal,NPL,Asia,Southern Asia,,Developing,27.45N,85.20E,1.989,1.882,2.026,2.0816,2.053,0.56,0.566,0.569,0.574,0.574
+Netherlands,NLD,Europe,Western Europe,,Developed,52.23N,04.54E,1.475,1.432,1.541,1.525,1.574,0.924,0.926,0.928,0.931,0.931
+New Zealand,NZL,Oceania,Australia and New Zealand,,Developed,41.19S,174.46E,1.236,1.221,1.287,1.241,1.192,0.91,0.914,0.915,0.917,0.917
+Nicaragua,NIC,Americas,Latin America and the Caribbean,Central America,Developing,12.06N,86.20W,1.882,1.947,1.975,2.002,1.96,0.649,0.652,0.657,0.658,0.658
+Niger,NER,Africa,Sub-Saharan Africa,Western Africa,Developing,13.27N,02.06E,2.351,2.32,2.239,2.34314,2.359,0.345,0.347,0.351,0.354,0.354
+Nigeria,NGA,Africa,Sub-Saharan Africa,Western Africa,Developing,09.05N,07.32E,2.71,2.91,2.877,2.849,2.873,0.524,0.527,0.53,0.532,0.532
+Norway,NOR,Europe,Northern Europe,,Developed,59.55N,10.45E,1.371,1.393,1.5,1.486,1.519,0.946,0.948,0.951,0.953,0.953
+Oman,OMN,Asia,Western Asia,,Developing,23.37N,58.36E,1.889,1.947,2.016,1.983,1.984,0.815,0.822,0.822,0.821,0.821
+Pakistan,PAK,Asia,Southern Asia,,Developing,33.40N,73.10E,3.107,3.049,3.145,3.058,3.079,0.548,0.551,0.56,0.562,0.562
+Panama,PAN,Americas,Latin America and the Caribbean,Central America,Developing,09.00N,79.25W,1.877,1.903,1.837,1.835,1.826,0.781,0.781,0.785,0.789,0.789
+Papua New Guinea,PNG,Oceania,Melanesia,,Developing,09.24S,147.08E,2.066,2.064,2.143,2.095,2.109,0.536,0.542,0.543,0.544,0.544
+Paraguay,PRY,Americas,Latin America and the Caribbean,South America,Developing,25.10S,57.30W,1.976,2.023,2.037,1.96111,1.997,0.698,0.702,0.702,0.702,0.702
+Peru,PER,Americas,Latin America and the Caribbean,South America,Developing,12.00S,77.00W,2.304,2.029,2.057,1.98612,1.986,0.746,0.745,0.748,0.75,0.75
+Philippines,PHL,Asia,South-eastern Asia,,Developing,14.40N,121.03E,2.456,2.462,2.511,2.555,2.512,0.689,0.693,0.696,0.699,0.699
+Poland,POL,Europe,Eastern Europe,,Developed,52.13N,21.00E,1.532,1.43,1.557,1.676,1.727,0.842,0.855,0.86,0.865,0.865
+Portugal,PRT,Europe,Southern Europe,,Developed,38.42N,09.10W,1.425,1.344,1.356,1.258,1.318,0.839,0.842,0.845,0.847,0.847
+Qatar,QAT,Asia,Western Asia,,Developing,25.15N,51.35E,1.491,1.568,1.716,1.664,1.869,0.853,0.854,0.855,0.856,0.856
+Romania,ROU,Europe,Eastern Europe,,Developed,44.27N,26.10E,1.677,1.542,1.649,1.6,1.596,0.802,0.805,0.807,0.811,0.811
+Rwanda,RWA,Africa,Sub-Saharan Africa,Eastern Africa,Developing,01.59S,30.04E,2.494,2.42,2.323,2.22715,2.14,0.509,0.51,0.52,0.524,0.524
+Saudi Arabia,SAU,Asia,Western Asia,,Developing,24.41N,46.42E,2.003,2.042,2.338,2.474,2.417,0.852,0.854,0.854,0.853,0.853
+Senegal,SEN,Africa,Sub-Saharan Africa,Western Africa,Developing,14.34N,17.29W,1.974,1.805,1.978,1.9291,1.849,0.486,0.492,0.499,0.505,0.505
+Sierra Leone,SLE,Africa,Sub-Saharan Africa,Western Africa,Developing,08.30N,13.17W,1.942,1.864,1.805,1.76,1.74,0.423,0.413,0.413,0.419,0.419
+Singapore,SGP,Asia,South-eastern Asia,,Developing,1.35N,103.82E,1.545,1.49,1.535,1.534,1.382,0.928,0.929,0.93,0.932,0.932
+Slovakia,SVK,Europe,Eastern Europe,,Developed,48.10N,17.07E,1.467,1.478,1.603,1.611,1.568,0.845,0.851,0.853,0.855,0.855
+Slovenia,SVN,Europe,Southern Europe,,Developed,46.04N,14.33E,1.398,1.378,1.408,1.364,1.396,0.887,0.889,0.894,0.896,0.896
+Somalia,SOM,Africa,Sub-Saharan Africa,Eastern Africa,Developing,02.02N,45.25E,3.368,3.307,3.414,3.387,3.367,0.328,0.339,0.344,0.351,0.351
+South Africa,ZAF,Africa,Sub-Saharan Africa,Southern Africa,Developing,25.44S,28.12E,2.364,2.376,2.316,2.3243,2.328,0.685,0.692,0.696,0.699,0.699
+South Sudan,SSD,Africa,Sub-Saharan Africa,Eastern Africa,Developing,4.86N,31.57E,3.397,3.383,3.593,3.524,3.508,0.397,0.399,0.394,0.388,0.388
+Spain,ESP,Europe,Southern Europe,,Developed,40.25N,03.45W,1.548,1.451,1.604,1.568,1.678,0.88,0.885,0.889,0.891,0.891
+Sri Lanka,LKA,Asia,Southern Asia,,Developing,6.89N,79.92E,2.197,2.188,2.133,2.01917,1.954,0.763,0.766,0.768,0.77,0.77
+Sudan,SDN,Africa,Northern Africa,,Developing,15.31N,32.35E,3.362,3.295,3.269,3.213,3.155,0.492,0.497,0.499,0.502,0.502
+Swaziland,SWZ,Africa,Sub-Saharan Africa,Southern Africa,Developing,26.18S,31.06E,2.056,2.102,2.074,2.0112,1.98,0.579,0.584,0.586,0.588,0.588
+Sweden,SWE,Europe,Northern Europe,,Developed,59.20N,18.03E,1.381,1.36,1.461,1.516,1.502,0.92,0.929,0.932,0.933,0.933
+Switzerland,CHE,Europe,Western Europe,,Developed,46.57N,07.28E,1.258,1.275,1.37,1.373,1.407,0.939,0.942,0.943,0.944,0.944
+Syria,SYR,Asia,Western Asia,,Developing,33.30N,36.18E,3.65,3.645,3.806,3.814,3.6,0.55,0.538,0.536,0.536,0.536
+Tajikistan,TJK,Asia,Central Asia,,Developing,38.33N,68.48E,2.395,2.152,2.293,2.263,2.266,0.645,0.645,0.647,0.65,0.65
+Thailand,THA,Asia,South-eastern Asia,,Developing,13.45N,100.35E,2.395,2.303,2.312,2.286,2.259,0.735,0.741,0.748,0.755,0.755
+Togo,TGO,Africa,Sub-Saharan Africa,Western Africa,Developing,06.09N,01.20E,2.003,1.944,1.954,1.939,2.104,0.481,0.495,0.5,0.503,0.503
+Tunisia,TUN,Africa,Northern Africa,,Developing,36.50N,10.11E,2.001,1.952,1.949,1.977,1.998,0.725,0.728,0.732,0.735,0.735
+Turkey,TUR,Asia,Western Asia,,Developing,39.57N,32.54E,2.402,2.363,2.71,2.777,2.898,0.778,0.783,0.787,0.791,0.791
+Turkmenistan,TKM,Asia,Central Asia,,Developing,38.00N,57.50E,2.093,2.138,2.202,2.2713,2.283,0.697,0.701,0.705,0.706,0.706
+Uganda,UGA,Africa,Sub-Saharan Africa,Eastern Africa,Developing,00.20N,32.30E,2.221,2.179,2.148,2.182,2.168,0.5,0.505,0.508,0.516,0.516
+United Arab Emirates,ARE,Asia,Western Asia,,Developing,24.28N,54.22E,1.748,1.805,1.931,1.944,1.82,0.855,0.86,0.862,0.863,0.863
+Tanzania,TZA,Africa,Sub-Saharan Africa,Eastern Africa,Developing,06.08S,35.45E,1.889,1.903,1.899,1.876,1.837,0.515,0.528,0.533,0.538,0.538
+Uruguay,URY,Americas,Latin America and the Caribbean,South America,Developing,34.50S,56.11W,1.565,1.721,1.726,1.709,1.761,0.801,0.8,0.802,0.804,0.804
+Uzbekistan,UZB,Asia,Central Asia,,Developing,41.20N,69.10E,2.179,2.187,2.216,2.132,2.144,0.695,0.698,0.703,0.71,0.71
+Yemen,YEM,Asia,Western Asia,,Developing,15.37N,44.19E,2.629,2.751,3.399,3.412,3.305,0.505,0.483,0.462,0.452,0.452
+Zambia,ZMB,Africa,Sub-Saharan Africa,Eastern Africa,Developing,15.28S,28.16E,1.791,1.846,1.783,1.786,1.822,0.58,0.583,0.586,0.588,0.588
+Zimbabwe,ZWE,Africa,Sub-Saharan Africa,Eastern Africa,Developing,17.43S,31.02E,2.662,2.294,2.322,2.352,2.326,0.525,0.529,0.532,0.53,0.53
