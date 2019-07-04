@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>D3 Webpack Babel</title>
+</head>
+<body>
+  <div class="main-container">
+    <div class="title">Visualize Moria</div>
+    <div class="map-container chart-container">
+      <div id="map">
+      <div id="map-reset-container" class="reset-container" style="display: none">
+        <a class="reset" id="map-reset">Reset</a>
+      </div>
+      </div>
+    <!-- <script src="bundle.js"></script> -->
+    
+      <div id="country-spoof-chart" style="display: none;"> </div>
+
+      <div id="region-bubble-chart" class="chart-container">
+        <!-- <div class="chart-title">Refugees by region</div> -->
+        <div id="map-reset-container" class="reset-container">
+          <a class="reset" id="region-bubble-chart-reset" style="display: none;">Reset</a>
+        </div>
+        <div class="clearfix"></div>
+      </div>
+    </div>
+    
+    
+    <div class="index-container">
+      <div id="composite-chart" class="chart-container">
+        <div class="chart-title">Refugees, GPI and HDI by year</div> 
+        <div class="reset-container">
+          <a class="reset" id="composite-chart-reset" style="display: none;">Reset</a>
+        </div>
+        <div class="clearfix"></div>
+      </div>
+      
+      <div id="hdi-chart" class="additional-labels chart-container">
+        <div class="chart-title">Refugees by HDI</div>
+        <div class="reset-container">
+          <a class="reset" id="hdi-chart-reset" style="display: none;">Reset</a>
+        </div>
+        <div class="clearfix"></div>
+      </div>
+      
+      <div id="gpi-chart" class="additional-labels chart-container">
+        <div class="chart-title">Refugees by GPI</div>
+        <div class="reset-container">
+          <a class="reset" id="gpi-chart-reset" style="display: none;">Reset</a>
+        </div>
+        <div class="clearfix"></div>
+      </div>
+    </div>
+    
+    <div class="misc-container">
+      <div class="pie-chart-container">
+        <div id="gender-pie-chart" class="chart-container">
+          <div class="chart-title">Refugees by gender</div>
+          <div class="reset-container">
+            <a class="reset" id="gender-pie-chart-reset" style="display: none;">Reset</a>
+          </div>
+          <div class="clearfix"></div>
+        </div>
+        
+        <div id="family-status-pie-chart" class="chart-container">
+          <div class="chart-title">Refugees by family status</div>
+          <div class="reset-container">
+            <a class="reset" id="family-status-pie-chart-reset" style="display: none;">Reset</a>
+          </div>
+          <div class="clearfix"></div>
+        </div>
+      </div>
+      
+      <div id="age-chart" class="chart-container">
+        <div class="chart-title">Refugees by age</div>
+        <div class="reset-container">
+          <a class="reset" id="age-chart-reset" style="display: none;">Reset</a>
+        </div>
+        <div class="clearfix"></div>
+      </div>
+    </div>
+    
+    <div id="arrival-chart" class="additional-labels chart-container">
+      <div class="chart-title">Refugees by arrival month</div>
+      <div class="reset-container">
+        <a class="reset" id="arrival-chart-reset" style="display: none;">Reset</a>
+      </div>
+      <div class="clearfix"></div>
+    </div>
+  </div>
+<script type="text/javascript" src="/index_bundle.js"></script></body>
+</html>
